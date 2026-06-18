@@ -21,12 +21,13 @@ scheduled weekly agent also reads it to know what to do.
 ## Files (storage layout)
 - `progress.md` — plan + dashboard + weekly log + adjustments log
 - `food-log.md` — daily itemized meals + weigh-ins + fixed-intake block (CURRENT month)
-- `tracker.csv` — **ONE row/day permanent time-series** (weight, macros, K:Na, sleep, coffee)
+- `tracker.csv` — **ONE row/day permanent time-series** (weight, macros, K:Na, sleep, steps, coffee)
 - `archive/` — rotated monthly food logs + past-phase plans (create when first needed)
 - `photos/` — progress photos (every 2 weeks)
 
 ## Logging workflow (when Richard reports a day)
-1. Append/update his row in **tracker.csv** (he gives weight + sleep + coffee; I fill the rest).
+1. Append/update his row in **tracker.csv** (he gives weight + sleep + steps + coffee at end of
+   day; I fill the rest).
 2. Itemize meals in **food-log.md** with kcal + protein + sodium + potassium per item.
 3. Check: hit ~150 g protein? ≥30 g fiber? coffee? Is K:Na trending toward 4:1? Flag gaps.
 
