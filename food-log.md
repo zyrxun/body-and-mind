@@ -65,6 +65,21 @@ _No meals logged yet — start dropping them in whenever you're ready._
 
 ---
 
+### 2026-06-19 — weigh-in: 71.9 kg ⚠️ post-breakfast (weigh fasted next time for a clean trend)
+_Actual breakfast — smaller than the "fixed" template above, so logging real items._
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More Than Protein yogurt, 110g | 88 | 9.7 | 57 | 165 |
+| Breakfast | Frozen blueberries, 27g | 15 | 0.2 | 1 | 21 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+| Breakfast | Banana, 145.5g w/ skin (~93g flesh eaten) | 83 | 1.0 | 1 | 333 |
+
+**So far: ~251 kcal · ~23 g protein · ~114 mg Na · ~594 mg K · K:Na ~5.2:1** _(breakfast only — lunch/dinner/snacks pending)_
+**Auto (Google Health):** sleep 7.5 h · resting HR 67 · steps = end-of-day · **Fitbit Sleep Score (app): 81** (96% efficiency · deep 73m · REM 89m — proxy calibration data point #1)
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|
