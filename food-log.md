@@ -74,11 +74,11 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Frozen blueberries, 27g | 15 | 0.2 | 1 | 21 |
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
 | Breakfast | Banana, 145.5g w/ skin (~93g flesh eaten) | 83 | 1.0 | 1 | 333 |
-| Lunch | Chicken banh mi, 326g, extra mayo (local dairy) | ~720 | 35 | ~1,250 | 440 |
+| Lunch | Chicken banh mi, 326g, extra mayo + lots of veg (local dairy) | ~725 | 35 | ~1,250 | 520 |
 | Lunch | Miso soup (~1 tsp miso paste) | ~25 | 1.5 | ~300 | 40 |
 | Lunch | Salmon, ~1 slice (~30g, fresh raw) | ~60 | 6.5 | ~18 | 115 |
 
-**So far: ~1,056 kcal · ~67 g protein · ~1,682 mg Na · ~1,189 mg K · K:Na ~0.71:1** _(breakfast + lunch — dinner pending)_
+**So far: ~1,061 kcal · ~67 g protein · ~1,682 mg Na · ~1,269 mg K · K:Na ~0.75:1** _(breakfast + lunch — dinner pending; ~12g fibre)_
 **Auto (Google Health):** sleep 7.5 h · resting HR 67 · steps = end-of-day · **Fitbit Sleep Score (app): 81** (96% efficiency · deep 73m · REM 89m — proxy calibration data point #1)
 
 ---
