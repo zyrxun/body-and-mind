@@ -1,2 +1,10 @@
 .DS_Store
 *.tmp
+
+# API secrets / tokens — NEVER commit these (even to a private repo)
+.fitbit_tokens.json
+.fitbit_config.json
+.gh_config.json
+.gh_tokens.json
+.env
+*.secret

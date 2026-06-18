@@ -21,13 +21,16 @@ scheduled weekly agent also reads it to know what to do.
 ## Files (storage layout)
 - `progress.md` — plan + dashboard + weekly log + adjustments log
 - `food-log.md` — daily itemized meals + weigh-ins + fixed-intake block (CURRENT month)
-- `tracker.csv` — **ONE row/day permanent time-series** (weight, macros, K:Na, sleep, steps, coffee)
+- `tracker.csv` — **ONE row/day permanent time-series** (weight, macros, K:Na, sleep, resting HR, steps, coffee)
+- `gh_sync.py` — auto-pulls Steps / Sleep_hrs / Resting_HR (and weight if logged in Fitbit) from the
+  Google Health API into tracker.csv. Secrets in `.gh_config.json` + `.gh_tokens.json` (gitignored).
 - `archive/` — rotated monthly food logs + past-phase plans (create when first needed)
 - `photos/` — progress photos (every 2 weeks)
 
 ## Logging workflow (when Richard reports a day)
-1. Append/update his row in **tracker.csv** (he gives weight + sleep + steps + coffee at end of
-   day; I fill the rest).
+1. **Auto:** run `python3 gh_sync.py pull <YYYY-MM-DD>` to fill **Steps, Sleep_hrs, Resting_HR**
+   (and weight if it's in Fitbit) from Google Health. Richard manually gives **weight, coffee, and
+   Sleep_score** (the real 0–100 score isn't in the API); I fill macros from his food.
 2. Itemize meals in **food-log.md** with kcal + protein + sodium + potassium per item.
 3. Check: hit ~150 g protein? ≥30 g fiber? coffee? Is K:Na trending toward 4:1? Flag gaps.
 
@@ -44,6 +47,15 @@ scheduled weekly agent also reads it to know what to do.
   (tracker.csv already holds the permanent daily numbers).
 - Snapshot the plan to `archive/` when a phase/goal ends, then rewrite progress.md fresh.
 - **Commit to git after meaningful updates** (this folder is its own private repo).
+
+## Health sync (Google Health API)
+- `python3 gh_sync.py pull [date]` auto-fills **Steps / Sleep_hrs / Resting_HR** (+ weight if in Fitbit).
+- Data flows from his Fitbit (Inspire 3) → Google Health. Weight is usually empty (he doesn't log it
+  to Fitbit), so **weight stays his manual weigh-in** — never overwrite a manual weight.
+- **Sleep_score is manual** — the proprietary 0–100 score isn't in the API (we store hours; he reads
+  the score off the app).
+- **Re-auth ~weekly:** OAuth "Testing" refresh tokens expire ~7 days. When pull fails with an auth
+  error, re-run `gh_sync.py authurl` then `auth "<code>"` (lines up with the Sunday rollup).
 
 ## Tone — honest adviser ("Jarvis")
 - **Never fabricate data.** E.g., the Fitbit Web API does not expose the real Sleep Score and is

@@ -1,2 +1,3 @@
-Date,Phase,Weight_kg,Avg_7day_kg,Calories,Protein_g,Fiber_g,Sodium_mg,Potassium_mg,K_to_Na,Sleep_hrs,Sleep_score,Steps,Coffee,Notes
-2026-06-17,Recomp,72.55,,,,,,,,,,,,Baseline weigh-in — start logging
+Date,Phase,Weight_kg,Avg_7day_kg,Calories,Protein_g,Fiber_g,Sodium_mg,Potassium_mg,K_to_Na,Sleep_hrs,Sleep_score,Resting_HR,Steps,Coffee,Notes
+2026-06-17,Recomp,72.55,,,,,,,,8.3,,66,17402,,Baseline weigh-in — start logging
+2026-06-18,Recomp,,,,,,,,,7.45,,66,23974,,
