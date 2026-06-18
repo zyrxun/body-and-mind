@@ -34,6 +34,12 @@ scheduled weekly agent also reads it to know what to do.
 2. Itemize meals in **food-log.md** with kcal + protein + sodium + potassium per item.
 3. Check: hit ~150 g protein? ≥30 g fiber? coffee? Is K:Na trending toward 4:1? Flag gaps.
 
+**Logging UI inbox:** Richard can capture entries via the local web app (`tracker_ui/server.py`,
+opened at http://127.0.0.1:8765). Submissions queue to `tracker_ui/inbox.jsonl` (gitignored, one
+JSON object per line: food/weight/coffee/sleep_score). At session start or when asked, **read that
+file, process each entry** into food-log.md/tracker.csv (estimating macros), then **clear inbox.jsonl**.
+The UI never calls an LLM — Claude is the backend, processed in normal sessions (no API credits).
+
 ## Weekly rollup (every Sunday, or first session after 7 days)
 1. From tracker.csv: compute **7-day avg weight, avg daily calories, avg K:Na, weight change**.
 2. Re-derive maintenance: avg calories vs weight change (flat = maintenance; dropping = real
