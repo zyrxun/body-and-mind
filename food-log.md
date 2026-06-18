@@ -75,8 +75,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
 | Breakfast | Banana, 145.5g w/ skin (~93g flesh eaten) | 83 | 1.0 | 1 | 333 |
 | Lunch | Chicken banh mi, 326g, extra mayo (local dairy) | ~720 | 35 | ~1,250 | 440 |
+| Lunch | Miso soup (~1 tsp miso paste) | ~25 | 1.5 | ~300 | 40 |
 
-**So far: ~971 kcal · ~58 g protein · ~1,364 mg Na · ~1,034 mg K · K:Na ~0.76:1** _(breakfast + lunch — dinner pending)_
+**So far: ~996 kcal · ~60 g protein · ~1,664 mg Na · ~1,074 mg K · K:Na ~0.65:1** _(breakfast + lunch — dinner pending)_
 **Auto (Google Health):** sleep 7.5 h · resting HR 67 · steps = end-of-day · **Fitbit Sleep Score (app): 81** (96% efficiency · deep 73m · REM 89m — proxy calibration data point #1)
 
 ---
