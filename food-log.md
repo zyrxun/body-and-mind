@@ -88,6 +88,21 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 ---
 
+### 2026-06-20 — weigh-in: 71.40 kg (fasted ✅)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein yogurt, 133g | 106 | 11.7 | 69 | 200 |
+| Breakfast | Frozen blueberries, 40.4g | 23 | 0.3 | 1 | 31 |
+| Breakfast | Banana, 212.7g w/ peel (~138g flesh) | 123 | 1.5 | 1 | 494 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+| Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
+| Drink | Double-shot black coffee ☕ | 6 | 0.3 | 5 | 115 |
+
+**So far: ~395 kcal · ~32 g protein · ~196 mg Na · ~980 mg K · K:Na ~5.0:1 · ~8 g fibre** _(breakfast + coffee — lunch TBD, Nando's dinner)_
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|

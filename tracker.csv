@@ -2,4 +2,4 @@ Date,Phase,Weight_kg,Avg_7day_kg,Calories,Protein_g,Fiber_g,Sodium_mg,Potassium_
 2026-06-17,Recomp,72.55,,,,,,,,8.3,,66,17402,,Baseline weigh-in — start logging
 2026-06-18,Recomp,,,,,,,,,7.45,,66,23974,,
 2026-06-19,Recomp,71.9,,2826,179,18,3164,3424,1.08,7.5,81,67,18553,,71.9 post-breakfast; cheat dinner (18.5k steps)
-2026-06-20,Recomp,71.40,,,,,,,,7.48,,66,387,,71.40 fasted; steps partial (cron finalizes tonight)
+2026-06-20,Recomp,71.40,,,,,,,,7.48,,66,387,Black,71.40 fasted; steps partial (cron finalizes tonight)
