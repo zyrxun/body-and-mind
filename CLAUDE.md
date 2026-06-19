@@ -46,6 +46,16 @@ JSON object per line: food/weight/coffee/sleep_score). At session start or when 
 file, process each entry** into food-log.md/tracker.csv (estimating macros), then **clear inbox.jsonl**.
 The UI never calls an LLM — Claude is the backend, processed in normal sessions (no API credits).
 
+## Nutrient calculation method (do this every time)
+1. **Get real numbers:** for **branded** foods, fetch the **label** (per-100g or per-serving) from
+   the web; for **whole foods** (egg, banana, etc.) use **standard USDA per-100g**.
+2. **Per-gram × weight:** (per-100g ÷ 100) × Richard's exact grams.
+   e.g. yogurt 8.8 g protein/100g × 133 g = **11.7 g**.
+3. **Composite/restaurant food with NO label** (banh mi, burgers): **estimate** from typical
+   components and **mark with `~`** — it's ±10–20%, not exact. Don't imply false precision.
+4. Always do **kcal + protein + sodium + potassium** per item (+ fibre in the day total).
+5. Prefer chains/products that **publish** macros (e.g. Nando's) — then it's an exact calc, not an estimate.
+
 ## Weekly rollup (every Sunday, or first session after 7 days)
 1. From tracker.csv: compute **7-day avg weight, avg daily calories, avg K:Na, weight change**.
 2. Re-derive maintenance: avg calories vs weight change (flat = maintenance; dropping = real
