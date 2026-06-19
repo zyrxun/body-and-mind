@@ -78,8 +78,12 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Lunch | Miso soup (~1 tsp miso paste) | ~25 | 1.5 | ~300 | 40 |
 | Lunch | Salmon, ~1 slice (~30g, fresh raw) | ~60 | 6.5 | ~18 | 115 |
 | Snack | Shrewsbury biscuit ×1 | ~75 | 0.7 | ~45 | 15 |
+| Dinner | Ground beef 350g (13% fat) — smash patties | ~690 | 68 | ~300 | 1150 |
+| Dinner | Brioche buns ×4 | ~760 | 24 | ~1,000 | 240 |
+| Dinner | Whole tomato (~150g) | ~27 | 1.4 | ~7 | 350 |
+| Dinner | Up & Go Protein Energize Vanilla, 250ml | ~213 | 18 | ~130 | 400 |
 
-**So far: ~1,136 kcal · ~68 g protein · ~1,727 mg Na · ~1,284 mg K · K:Na ~0.74:1** _(through afternoon — dinner pending; ~12g fibre)_
+**Day total: ~2,826 kcal · ~179 g protein · ~3,164 mg Na · ~3,424 mg K · K:Na ~1.08:1 · ~18 g fibre**
 **Auto (Google Health):** sleep 7.5 h · resting HR 67 · steps = end-of-day · **Fitbit Sleep Score (app): 81** (96% efficiency · deep 73m · REM 89m — proxy calibration data point #1)
 
 ---
