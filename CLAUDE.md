@@ -5,18 +5,24 @@ this folder — follow it whenever you touch this project.** It is the operating
 scheduled weekly agent also reads it to know what to do.
 
 ## Goal & current phase
-- 19M, 5'7", start **72.55 kg (2026-06-17)**, already fairly lean.
-- Goal: visible 6-pack + leaner face by **end of summer 2026**, keep/build muscle, sustainable
-  (not crash dieting).
-- Approach: **HYBRID** — Phase A recomp at maintenance (~2,550 kcal) now → ~late July, then
-  Phase B mini-cut (~2,100–2,200 kcal) for the final ~6 weeks.
+- 19M, 5'7", **~71.9 kg (Jun 19 2026)**, ~15–16% body fat.
+- Goal: **single-digit body fat (~9%, ~66–67 kg) by Aug 22, 2026** (returns to Detroit) — the
+  healthy way, NO crash.
+- Approach: **finish this week of recomp (through Sun Jun 22) to lock true maintenance, then an
+  AGGRESSIVE-BUT-HEALTHY CUT, Mon Jun 23 → Aug 22** (~8.5 wks).
+  - Target rate **~0.65–0.7 kg/week** — **hard cap ~1% BW/wk; if the scale drops faster, EAT MORE.**
+  - Cut calories ≈ maintenance − ~700 (start ~2,200; calibrate weekly from the weight trend).
+  - The steep deficit is affordable because maintenance is HIGH (17–24k steps + lifting + added
+    cardio) — deficit comes from activity, not starvation.
 
-## Daily targets
-- **Calories:** recomp ~2,550 / cut ~2,100–2,200
-- **Protein** 150–165 g · **Fiber** ≥30 g · **Fat** ≥60 g
-- **K:Na ratio 4:1 (committed)** — sodium ≤~1,300 mg, potassium ~4,700–5,500 mg
-- **Daily habit:** ☕ 1 cup black coffee (remind him if a logged day is missing it)
-- **Fixed daily intake** (breakfast + 2 whey scoops) ≈ 860 kcal / 77 g protein — see food-log.md
+## Daily targets (CUT — from Jun 23)
+- **Calories ~2,200** (calibrate to ~0.65–0.7 kg/wk loss) · **Protein 170–185 g** · **Fiber ≥30 g** · **Fat ≥55 g**
+- **K:Na 4:1** — sodium ≤~1,300 mg, potassium ~4,700–5,500 mg · ☕ 1 black coffee daily
+- **Cardio:** 12k+ steps/day · 2–3 zone-2 walks + 1–2 VO2 interval sessions/wk · **keep lifting heavy**
+- **Diet break:** ~5 days at maintenance around late July
+- **Back off (eat more / rest) if:** strength tanking, sleep/mood/energy/libido crash, or always cold
+- **This week only (through Jun 22):** still recomp ~2,550 to lock the maintenance number.
+- **Fixed daily intake** (breakfast + whey) — see food-log.md
 
 ## Files (storage layout)
 - `progress.md` — plan + dashboard + weekly log + adjustments log
