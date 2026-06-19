@@ -77,8 +77,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Lunch | Chicken banh mi, 326g, extra mayo + lots of veg (local dairy) | ~725 | 35 | ~1,250 | 520 |
 | Lunch | Miso soup (~1 tsp miso paste) | ~25 | 1.5 | ~300 | 40 |
 | Lunch | Salmon, ~1 slice (~30g, fresh raw) | ~60 | 6.5 | ~18 | 115 |
+| Snack | Shrewsbury biscuit ×1 | ~75 | 0.7 | ~45 | 15 |
 
-**So far: ~1,061 kcal · ~67 g protein · ~1,682 mg Na · ~1,269 mg K · K:Na ~0.75:1** _(breakfast + lunch — dinner pending; ~12g fibre)_
+**So far: ~1,136 kcal · ~68 g protein · ~1,727 mg Na · ~1,284 mg K · K:Na ~0.74:1** _(through afternoon — dinner pending; ~12g fibre)_
 **Auto (Google Health):** sleep 7.5 h · resting HR 67 · steps = end-of-day · **Fitbit Sleep Score (app): 81** (96% efficiency · deep 73m · REM 89m — proxy calibration data point #1)
 
 ---

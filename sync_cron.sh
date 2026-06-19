@@ -6,7 +6,8 @@ DIR="/Users/richard/claude-workspace/body and mind"
 cd "$DIR" || exit 1
 echo "===== $(date) ====="
 git pull --rebase --quiet 2>/dev/null
-/opt/homebrew/bin/python3 gh_sync.py pull
+ARG="$1"; [ "$ARG" = "today" ] && ARG=$(date +%F)   # no arg → yesterday; "today" → today's date
+/opt/homebrew/bin/python3 gh_sync.py pull $ARG
 git add tracker.csv
 if git commit -m "cron: daily health sync" --quiet 2>/dev/null; then
   if git push --quiet 2>/dev/null; then
