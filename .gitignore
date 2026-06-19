@@ -11,3 +11,4 @@
 
 # local logging UI inbox (transient queue Claude processes)
 tracker_ui/inbox.jsonl
+tracker_ui/cron.log
