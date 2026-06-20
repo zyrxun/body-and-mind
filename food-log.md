@@ -99,10 +99,12 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
 | Drink | Double-shot black coffee ☕ | 6 | 0.3 | 5 | 115 |
 | Lunch | Jumbo Salmon sushi, 8pc (4 onigiri + 4 nigiri, no soy) | 593 | 20 | ~500 | ~450 |
-| Snack | Protein shake (1 scoop C4 whey, water) | 130 | 25 | 110 | 150 |
 | Snack | Banana, 144.7g w/ peel (~94g flesh) | 84 | 1.0 | 1 | 337 |
+| Dinner | Nando's ½ chicken | ~530 | 60 | ~1,800 | ~800 |
+| Dinner | Coke Zero | 1 | 0 | ~40 | 0 |
+| Dessert | Shaved ice + blueberries (~est, syrup assumed) | ~60 | 0.5 | ~5 | ~30 |
 
-**So far: ~1,202 kcal · ~78 g protein · ~149 g carbs · ~34 g fat · ~12 g fibre · ~807 mg Na · ~1,917 mg K · K:Na ~2.4:1** _(breakfast + lunch + snack — Nando's dinner to come)_
+**Day total: ~1,663 kcal · ~114 g protein · ~157 g carbs · ~64 g fat · ~13 g fibre · ~2,542 mg Na · ~2,597 mg K · K:Na ~1.0:1**
 
 ---
 
