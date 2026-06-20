@@ -23,6 +23,9 @@ scheduled weekly agent also reads it to know what to do.
 - **Back off (eat more / rest) if:** strength tanking, sleep/mood/energy/libido crash, or always cold
 - **This week only (through Jun 22):** still recomp ~2,550 to lock the maintenance number.
 - **Fixed daily intake** (breakfast + whey) — see food-log.md
+- **When recommending food, check ALL goals** — carbs, **fat ≥floor**, fibre, K:Na, *and* cut-micros
+  (omega-3, iron, zinc, magnesium, calcium, B12) — not just protein. Flag if he's low on fat or a
+  micro that day, and note how the food fits (e.g. salmon → omega-3 + fat; beans → fibre/iron/Mg).
 
 ## Files (storage layout)
 - `progress.md` — plan + dashboard + weekly log + adjustments log
