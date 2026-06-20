@@ -98,8 +98,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
 | Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
 | Drink | Double-shot black coffee ☕ | 6 | 0.3 | 5 | 115 |
+| Lunch | Jumbo Salmon sushi, 8pc (4 onigiri + 4 nigiri, no soy) | 593 | 20 | ~500 | ~450 |
 
-**So far: ~395 kcal · ~32 g protein · ~196 mg Na · ~980 mg K · K:Na ~5.0:1 · ~8 g fibre** _(breakfast + coffee — lunch TBD, Nando's dinner)_
+**So far: ~988 kcal · ~52 g protein · ~125 g carbs · ~32 g fat · ~10 g fibre · ~696 mg Na · ~1,430 mg K · K:Na ~2.1:1** _(breakfast + lunch — Nando's dinner to come)_
 
 ---
 
