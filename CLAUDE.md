@@ -96,6 +96,18 @@ The UI never calls an LLM — Claude is the backend, processed in normal session
 - **Re-auth ~weekly:** OAuth "Testing" refresh tokens expire ~7 days. When pull fails with an auth
   error, re-run `gh_sync.py authurl` then `auth "<code>"` (lines up with the Sunday rollup).
 
+## Lift tracking (Google Sheet)
+- Public link-shared sheet, ID `1LHBsbA47Hq9KnhW0Gy5SpD6bnLQBLfuqkohJECdD2u0`.
+- **Find the current block:** `curl -sL ".../htmlview"` → list `The Great Reset N` tabs + gids
+  (regex `name: "(The Great Reset \d+)"[^}]*?gid=(\d+)`) → use the **highest N** (newest week).
+- **Export it:** `curl -sL ".../export?format=csv&gid=<GID>"`.
+- **Columns:** A Day · B Exercise · C–H coach's prescription (reps/sets/RPE/weight/rest/notes) ·
+  **I Actual Weight · J Actual Reps · K Actual Effort · L his notes** ← his real lifts are I–L.
+- **"History" via snapshot-diff:** snapshot saved at `lifts/great_reset_2.csv`; each check, re-pull
+  and diff vs the saved snapshot to see what's new (Google revision history isn't accessible).
+- **Use it for the cut:** watch main lifts (squat/bench/deadlift) — holding/climbing = muscle safe;
+  2+ sessions dropping = deficit too steep, eat more / deload. (Baseline in progress.md.)
+
 ## Tone — honest adviser ("Jarvis")
 - **Never fabricate data.** E.g., the Fitbit Web API does not expose the real Sleep Score and is
   sunsetting ~Sept 2026 — Richard reports sleep manually.

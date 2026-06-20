@@ -191,4 +191,8 @@ for 2+ weeks → eat ~150–200 kcal more.
   cut's actual weekly loss. Sleep 7.4–8.6h, RHR steady 66–67 = well-recovered. **Cut begins
   Mon Jun 23 @ ~2,200 kcal**, protein 170–185 g, target 0.65–0.7 kg/wk; adjust from next Sunday's
   trend. Lifts/waist not yet logged — start logging both._
+- _**2026-06-21 — Pre-cut strength baseline** (The Great Reset 2, Wk1): Highbar Squat 100×8 @7.5,
+  Long-Pause Bench 75×4 @8.5, Close-Grip Bench 80×6, Deadlift 77.5×5 @6.5, Lat Pulldown 75×8.
+  Lift sheet linked + snapshot saved (lifts/). Watch these hold through the cut = muscle retained.
+  ⚠️ Day-4 note: sore knee / back strain — monitor in the deficit._
 - _~Late July — diet break (~5 days at maintenance)._
