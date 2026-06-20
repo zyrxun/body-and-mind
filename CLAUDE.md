@@ -15,9 +15,23 @@ scheduled weekly agent also reads it to know what to do.
   - The steep deficit is affordable because maintenance is HIGH (17–24k steps + lifting + added
     cardio) — deficit comes from activity, not starvation.
 
-## Daily targets (CUT — from Jun 23)
-- **Calories ~2,200** (calibrate to ~0.65–0.7 kg/wk loss) · **Protein 170–185 g** · **Fiber ≥30 g** · **Fat ≥55 g**
+## Daily targets — full macro + micro dashboard
+
+| Macro | Recomp (now, ~2,550) | Cut (from Jun 23, ~2,200) |
+|---|---|---|
+| Protein | 150–165 g | 170–185 g |
+| Fat | 70–90 g (floor 60) | 60–75 g (floor 55) |
+| Carbs | ~280–310 g | ~210–240 g |
+| Fibre | ≥30 g | ≥30 g |
+| Added sugar | <40 g | <30 g |
+
+- **Sugar target is ADDED/free sugar only** (sweets, syrups, soft drink). Natural sugar in his
+  fruit/yogurt is fine (comes with fibre/K/protein) — don't flag it.
 - **K:Na 4:1** — sodium ≤~1,300 mg, potassium ~4,700–5,500 mg · ☕ 1 black coffee daily
+- **Micros (daily):** omega-3 (EPA+DHA) ~500 mg · iron 8 mg · zinc 11 mg · magnesium ~400 mg ·
+  calcium 1,000 mg · vit D 600 IU · B12 2.4 µg · vit C 90 mg · water ~3 L.
+  Sources: salmon/fish-oil (omega-3); beef/beans/spinach (iron/Mg); beef/eggs/seeds (zinc);
+  yogurt/milk (calcium); fruit/veg (vit C).
 - **Cardio:** 12k+ steps/day · 2–3 zone-2 walks + 1–2 VO2 interval sessions/wk · **keep lifting heavy**
 - **Diet break:** ~5 days at maintenance around late July
 - **Back off (eat more / rest) if:** strength tanking, sleep/mood/energy/libido crash, or always cold
