@@ -103,8 +103,12 @@ The UI never calls an LLM — Claude is the backend, processed in normal session
 - **Export it:** `curl -sL ".../export?format=csv&gid=<GID>"`.
 - **Columns:** A Day · B Exercise · C–H coach's prescription (reps/sets/RPE/weight/rest/notes) ·
   **I Actual Weight · J Actual Reps · K Actual Effort · L his notes** ← his real lifts are I–L.
-- **"History" via snapshot-diff:** snapshot saved at `lifts/great_reset_2.csv`; each check, re-pull
-  and diff vs the saved snapshot to see what's new (Google revision history isn't accessible).
+- **New tab each week** (Great Reset 3, 4, …) — always read the highest N. Confirmed Jun 21.
+  **Training week resets on WEDNESDAYS** (block began a Wednesday), so a new tab appears each Wed.
+  The Sunday rollup lands mid-training-week → current tab is partially filled; that's expected.
+- **"History" via snapshot-diff:** save each tab to `lifts/<tab-slug>.csv` (e.g. great_reset_2.csv);
+  each check, re-pull the current tab and diff vs its saved snapshot to see what's new this week
+  (Google revision history isn't accessible). A brand-new tab = a new week's session.
 - **Use it for the cut:** watch main lifts (squat/bench/deadlift) — holding/climbing = muscle safe;
   2+ sessions dropping = deficit too steep, eat more / deload. (Baseline in progress.md.)
 
