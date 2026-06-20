@@ -109,6 +109,19 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 ---
 
+### 2026-06-21 — weigh-in: 71.35 kg (fasted ✅) · last recomp day before cut
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein yogurt, 192.5g | 154 | 16.9 | 100 | 290 |
+| Breakfast | Banana, 154.2g w/ peel (~100g flesh) | 89 | 1.1 | 1 | 358 |
+| Breakfast | Frozen blueberries, 35.9g | 20 | 0.3 | 1 | 28 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+
+**So far: ~328 kcal · ~31 g protein · ~39 g carbs · ~6.5 g fat · ~8 g fibre · ~157 mg Na · ~751 mg K · K:Na ~4.8:1** _(breakfast)_
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|
