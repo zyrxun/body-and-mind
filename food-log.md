@@ -99,8 +99,10 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
 | Drink | Double-shot black coffee ☕ | 6 | 0.3 | 5 | 115 |
 | Lunch | Jumbo Salmon sushi, 8pc (4 onigiri + 4 nigiri, no soy) | 593 | 20 | ~500 | ~450 |
+| Snack | Protein shake (1 scoop C4 whey, water) | 130 | 25 | 110 | 150 |
+| Snack | Banana, 144.7g w/ peel (~94g flesh) | 84 | 1.0 | 1 | 337 |
 
-**So far: ~988 kcal · ~52 g protein · ~125 g carbs · ~32 g fat · ~10 g fibre · ~696 mg Na · ~1,430 mg K · K:Na ~2.1:1** _(breakfast + lunch — Nando's dinner to come)_
+**So far: ~1,202 kcal · ~78 g protein · ~149 g carbs · ~34 g fat · ~12 g fibre · ~807 mg Na · ~1,917 mg K · K:Na ~2.4:1** _(breakfast + lunch + snack — Nando's dinner to come)_
 
 ---
 
