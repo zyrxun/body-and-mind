@@ -32,6 +32,12 @@ scheduled weekly agent also reads it to know what to do.
   calcium 1,000 mg · vit D 600 IU · B12 2.4 µg · vit C 90 mg · water ~3 L.
   Sources: salmon/fish-oil (omega-3); beef/beans/spinach (iron/Mg); beef/eggs/seeds (zinc);
   yogurt/milk (calcium); fruit/veg (vit C).
+- **🧠 Brain/cognitive performance (he's a student — wants focus optimized):**
+  **DHA** (oily fish 2–3×/wk or fish-oil) · **choline ~550 mg** (whole eggs — KEEP the yolk, beef) ·
+  **flavonoids** (blueberries/berries daily) · **iron/B12/folate** (low = brain fog) ·
+  **stable glucose** (complex carbs + protein/fat, cap added sugar — prevents post-meal focus dip) ·
+  caffeine before 2pm + hydration. Most already covered by his eggs/salmon/blueberries/coffee/beef —
+  flag DHA on non-fish days. When recommending food, factor cognition too.
 - **Cardio:** 12k+ steps/day · 2–3 zone-2 walks + 1–2 VO2 interval sessions/wk · **keep lifting heavy**
 - **Diet break:** ~5 days at maintenance around late July
 - **Back off (eat more / rest) if:** strength tanking, sleep/mood/energy/libido crash, or always cold
