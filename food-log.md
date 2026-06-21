@@ -128,8 +128,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Dinner | Spicy Chinese chicken, 56g edible (66.2g − 9.8g bone) (~est) | ~110 | 12 | ~300 | 170 |
 | Dinner | Extra mushrooms, 8.1g | 2 | 0.3 | 1 | 26 |
 | Snack | ½ protein bar (full: 225kcal/38P/2F/6C) | 113 | 19 | ~75 | ~50 |
+| Snack | C4 whey (1 scoop) + Anchor full cream milk 240g | 281 | 33 | ~213 | ~510 |
 
-**Day total: ~1,407 kcal · ~106 g protein · ~110 g carbs · ~58 g fat · ~24 g fibre · ~1,552 mg Na · ~2,762 mg K · K:Na ~1.8:1**
+**Day total: ~1,688 kcal · ~139 g protein · ~124 g carbs · ~68 g fat · ~24 g fibre · ~1,765 mg Na · ~3,272 mg K · K:Na ~1.9:1**
 
 ---
 
