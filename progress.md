@@ -176,7 +176,7 @@ for 2+ weeks → eat ~150–200 kcal more.
 | Week | Date | Phase | Avg weight | Avg daily kcal | Waist | Top-set lifts (key ones) | Energy/sleep (1–5) | Notes |
 |---|---|---|---|---|---|---|---|---|
 | 0 | 2026-06-17 | Recomp | 72.55 kg | — | | | | Baseline. Daily detail in food-log.md. |
-| 1 | 2026-06-21 | Recomp→**Cut** | **71.38 kg** (fasted) | ~2,430 (2 days, atypical) | | | sleep 7.4–8.6h, RHR 66–67 | Cut starts Mon Jun 23. See rollup note below. |
+| 1 | 2026-06-21 | Recomp→**Cut** | **71.38 kg** (fasted) | ~2,430 (2 days, atypical) | | | sleep 7.4–8.6h, RHR 66–67 | Cut starts Mon Jun 22. See rollup note below. |
 
 > **Maintenance check (updated weekly from food-log.md):** avg daily kcal vs avg weight change
 > tells us your real maintenance. Flat weight at X kcal → X is maintenance; weight down at X → real
@@ -189,7 +189,7 @@ for 2+ weeks → eat ~150–200 kcal more.
   (17–25k/day) → maintenance is clearly HIGH (~2,700–2,900 est). Only 2 days of intake logged
   (cheat + eating-out, atypical) → can't pin maintenance precisely yet; will calibrate from the
   cut's actual weekly loss. Sleep 7.4–8.6h, RHR steady 66–67 = well-recovered. **Cut begins
-  Mon Jun 23 @ ~2,200 kcal**, protein 170–185 g, target 0.65–0.7 kg/wk; adjust from next Sunday's
+  Mon Jun 22 @ ~2,200 kcal**, protein 170–185 g, target 0.65–0.7 kg/wk; adjust from next Sunday's
   trend. Lifts/waist not yet logged — start logging both._
 - _**2026-06-21 — Pre-cut strength baseline** (The Great Reset 2, Wk1): Highbar Squat 100×8 @7.5,
   Long-Pause Bench 75×4 @8.5, Close-Grip Bench 80×6, Deadlift 77.5×5 @6.5, Lat Pulldown 75×8.

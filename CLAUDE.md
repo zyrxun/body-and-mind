@@ -8,8 +8,8 @@ scheduled weekly agent also reads it to know what to do.
 - 19M, 5'7", **~71.9 kg (Jun 19 2026)**, ~15–16% body fat.
 - Goal: **single-digit body fat (~9%, ~66–67 kg) by Aug 22, 2026** (returns to Detroit) — the
   healthy way, NO crash.
-- Approach: **finish this week of recomp (through Sun Jun 22) to lock true maintenance, then an
-  AGGRESSIVE-BUT-HEALTHY CUT, Mon Jun 23 → Aug 22** (~8.5 wks).
+- Approach: **finish this week of recomp (through Sun Jun 21) to lock true maintenance, then an
+  AGGRESSIVE-BUT-HEALTHY CUT, Mon Jun 22 → Aug 22** (~8.5 wks).
   - Target rate **~0.65–0.7 kg/week** — **hard cap ~1% BW/wk; if the scale drops faster, EAT MORE.**
   - Cut calories ≈ maintenance − ~700 (start ~2,200; calibrate weekly from the weight trend).
   - The steep deficit is affordable because maintenance is HIGH (17–24k steps + lifting + added
@@ -17,7 +17,7 @@ scheduled weekly agent also reads it to know what to do.
 
 ## Daily targets — full macro + micro dashboard
 
-| Macro | Recomp (now, ~2,550) | Cut (from Jun 23, ~2,200) |
+| Macro | Recomp (now, ~2,550) | Cut (from Jun 22, ~2,200) |
 |---|---|---|
 | Protein | 150–165 g | 170–185 g |
 | Fat | 70–90 g (floor 60) | 60–75 g (floor 55) |
@@ -41,7 +41,7 @@ scheduled weekly agent also reads it to know what to do.
 - **Cardio:** 12k+ steps/day · 2–3 zone-2 walks + 1–2 VO2 interval sessions/wk · **keep lifting heavy**
 - **Diet break:** ~5 days at maintenance around late July
 - **Back off (eat more / rest) if:** strength tanking, sleep/mood/energy/libido crash, or always cold
-- **This week only (through Jun 22):** still recomp ~2,550 to lock the maintenance number.
+- **Recomp through Sun Jun 21 (done today):** locks the maintenance number; cut starts Mon Jun 22.
 - **Fixed daily intake** (breakfast + whey) — see food-log.md
 - **When recommending food, check ALL goals** — carbs, **fat ≥floor**, fibre, K:Na, *and* cut-micros
   (omega-3, iron, zinc, magnesium, calcium, B12) — not just protein. Flag if he's low on fat or a

@@ -121,8 +121,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Lunch | Mum's beef+lentil+potato+carrot+tomato curry, 289g (~est) | ~370 | 24 | ~500 | ~880 |
 | Lunch | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
 | Lunch | Iceberg lettuce, handful (~30g, raw) | 4 | 0.3 | 3 | 40 |
+| Pre-WO | MuscleTech Shatter (1 scoop, blue rasp) — 200mg caf, 400mg tyrosine, 1.2g β-alanine | ~10 | 0 | ~40 | 0 |
 
-**So far: ~851 kcal · ~62 g protein · ~85 g carbs · ~30 g fat · ~19 g fibre · ~726 mg Na · ~1,956 mg K · K:Na ~2.7:1** _(breakfast + fruit + lunch)_
+**So far: ~861 kcal · ~62 g protein · ~86 g carbs · ~30 g fat · ~19 g fibre · ~766 mg Na · ~1,956 mg K · K:Na ~2.6:1** _(breakfast + fruit + lunch + pre-WO; no coffee today — caffeine via pre-WO)_
 
 ---
 
