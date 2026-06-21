@@ -118,8 +118,11 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Frozen blueberries, 35.9g | 20 | 0.3 | 1 | 28 |
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
 | Snack | ½ apple (~90g) + ½ orange (~65g) | 77 | 0.8 | 1 | 220 |
+| Lunch | Mum's beef+lentil+potato+carrot+tomato curry, 289g (~est) | ~370 | 24 | ~500 | ~880 |
+| Lunch | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
+| Lunch | Iceberg lettuce, handful (~30g, raw) | 4 | 0.3 | 3 | 40 |
 
-**So far: ~405 kcal · ~32 g protein · ~58 g carbs · ~7 g fat · ~11.5 g fibre · ~158 mg Na · ~971 mg K · K:Na ~6.1:1** _(breakfast + fruit snack)_
+**So far: ~851 kcal · ~62 g protein · ~85 g carbs · ~30 g fat · ~19 g fibre · ~726 mg Na · ~1,956 mg K · K:Na ~2.7:1** _(breakfast + fruit + lunch)_
 
 ---
 
