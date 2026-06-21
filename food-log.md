@@ -134,6 +134,22 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 ---
 
+## 🔪 CUT begins — target ~2,200 kcal · protein 170–185g · fibre ≥30g · fat ≥55g · K:Na 4:1
+
+### 2026-06-22 (Mon) — weigh-in: 71.10 kg (fasted ✅) · DAY 1 of cut
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein yogurt, 120g | 96 | 10.6 | 62 | 180 |
+| Breakfast | Banana, 167.6g w/ peel (~109g flesh) | 97 | 1.2 | 1 | 390 |
+| Breakfast | Egg, 64.3g w/ shell (~57g edible) | 81 | 7.2 | 81 | 79 |
+| Breakfast | Frozen blueberries, 50.6g | 29 | 0.4 | 1 | 39 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+
+**So far: ~368 kcal · ~32 g protein · ~40 g carbs · ~10 g fat · ~7 g fibre · ~200 mg Na · ~763 mg K · K:Na ~3.8:1** _(breakfast)_
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|
