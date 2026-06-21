@@ -2,7 +2,7 @@
 
 > Running file. Update the **Weekly Log** at the bottom each week. Everything above is the plan — revisit it at each phase change and adjust.
 
-_Started: 2026-06-17 · Approach: **Hybrid — Recomp now → Mini-cut for summer**_
+_Started: 2026-06-17 · **ACTIVE PHASE: CUT (from Mon Jun 22) → single-digit BF by Aug 22**_
 
 ---
 
@@ -12,10 +12,10 @@ _Started: 2026-06-17 · Approach: **Hybrid — Recomp now → Mini-cut for summe
 |---|---|
 | Age / Sex | 19 M |
 | Height | 5'7" (170 cm) |
-| Starting weight | **72.55 kg (160 lb)** — 2026-06-17 |
-| Current build | Fairly lean — abs faintly visible, soft lower belly / minor love handles |
-| Goal | Lean out (face especially) → visible 6-pack, keep/build muscle |
-| Target | By **end of summer (~mid-Sept 2026)** |
+| Starting weight | 72.55 kg (2026-06-17) → **71.10 kg fasted (Jun 22, cut start)** |
+| Current build | Fairly lean — abs faintly visible, soft lower belly / minor love handles (~15–16% BF) |
+| Goal | **Single-digit body fat (~9%, ~66–67 kg)** — lean face + visible 6-pack, keep muscle |
+| Target | **By Aug 22, 2026** (returns to Detroit) |
 | Training | Lifting regularly (log split below) |
 | Food setup | Asian family / home cooking |
 
@@ -23,48 +23,48 @@ _Started: 2026-06-17 · Approach: **Hybrid — Recomp now → Mini-cut for summe
 
 ---
 
-## Daily targets at a glance
+## Daily targets at a glance — CUT (active)
 
-| | Recomp phase (now) | Mini-cut phase (final ~6 wks) |
-|---|---|---|
-| **Calories** | ~2,550 (maintenance) | ~2,100–2,200 (−400) |
-| **Protein** | 150–165 g | 160–170 g |
-| **Fat (floor)** | 60–70 g | 60–70 g |
-| **Carbs** | remainder (~300+ g) | remainder (~230 g) |
-| **Fiber** | ≥30 g | ≥30 g |
-| **Scale should** | stay ~flat | drift down 0.4–0.6 kg/wk |
+| | Target |
+|---|---|
+| **Calories** | **~2,200** (calibrate weekly to the loss rate) |
+| **Protein** | **170–185 g** (the muscle-retention lever — highest priority) |
+| **Fat (floor)** | ≥55 g |
+| **Carbs** | remainder (~210–240 g) — concentrate around training |
+| **Fibre** | ≥30 g · **Added sugar** <30 g |
+| **K:Na** | 4:1 (sodium ≤1,300 mg · potassium ~4,700–5,500 mg) |
+| **Scale should** | drift down **~0.65–0.7 kg/week** (hard cap 1% BW/wk) |
 
-> **Maintenance is an estimate.** Week 1: eat ~2,550/day, weigh daily. If the 7-day average
-> holds, that's your real maintenance. Adjust ±150 and lock it in before trusting the rest.
+> **The deficit is affordable because activity is HIGH** (17–25k steps + lifting). Eating ~2,200
+> still leaves a big deficit. **Calibrate from the weekly trend:** if losing >1% BW/wk → eat +150–200;
+> if flat for 2 wks → trim ~150. Re-dial every Sunday rollup.
 
 ---
 
-## The Plan
+## The Plan — THE CUT (Mon Jun 22 → Aug 22, ~8.5 weeks)
 
-### Phase A — RECOMP (now → ~late July, weeks 1–7)
-- Eat **at maintenance (~2,550 kcal)**, protein high, and **drive progressive overload** —
-  adding reps/weight is the actual engine here, not the diet.
-- Optional fine-tune: eat slightly **above** maintenance on training days, slightly **below**
-  on rest days, netting ~maintenance for the week.
-- **Success = lifts climbing + waist/photos improving while the scale stays ~flat.**
-  Do NOT chase scale loss in this phase — flat is the goal.
+**Goal:** ~71.1 → **~66–67 kg at single-digit BF** (~5 kg fat off an already-lean base).
+**Rate:** ~0.65–0.7 kg/week. **Why it's not a crash:** maintenance is high (~2,700–2,900 from
+17–25k steps + lifting), so eating ~2,200 is a real deficit driven by *activity*, not starvation.
 
-### Phase B — MINI-CUT (~late July → ~mid-Sept, weeks 8–13)
-- Drop to **~2,100–2,200 kcal** (~400 deficit). Target **0.4–0.6 kg/week** (~0.5–0.7% BW)
-  → ~3–4 kg off an already-lean base is enough to reveal abs.
-- Keep protein high (**160–170 g**) and **keep training heavy** to hold the muscle you built;
-  only trim training volume if recovery tanks.
-- Add **8–10k steps/day** to widen the deficit without having to cut food harder.
-- This is when the **face leans out** — it's one of the last places to change, so be patient;
-  manage water/sodium/sleep/alcohol for day-to-day facial bloat.
+### The 4 levers
+1. **Calories ~2,200** — calibrated weekly from the actual loss rate (don't chase a perfect daily number).
+2. **Protein 170–185 g** — the #1 muscle-retention lever; aim ~40–50 g per meal across 4 meals.
+   Sources: eggs, chicken, lean pork, fish, tofu, edamame, Greek yogurt, milk, whey, lean beef.
+3. **Lift HEAVY** — keep the working weights in the lift sheet holding/climbing = muscle is safe.
+   Trim volume only if recovery tanks; don't add junk volume in a deficit.
+4. **Steps/cardio** — 12k+ steps/day (you're already 17–25k) widens the deficit without cutting food.
 
-### Protein (the muscle-retention lever — both phases)
-- **150–165 g/day** (≈1 g/lb, ~2.0–2.2 g/kg), across **3–4 meals** of ~35–50 g.
-- Sources: eggs, chicken, lean pork, fish, tofu, edamame, Greek yogurt, milk, whey.
+### The "no crash" guardrails (non-negotiable)
+- **Cap loss at ~1% BW/week.** Dropping faster for 2 wks → eat +150–200 kcal.
+- **Floors:** protein ≥170 g · fat ≥55 g · never zero carbs · fibre ≥30 g.
+- **Diet break:** ~5 days at maintenance (~2,700) around late July.
+- **Back off / deload if:** strength drops 2+ sessions, sleep/mood/energy/libido tank, always cold,
+  or the knee/back niggle flares (recovery is harder in a deficit).
 
-### Carbs & fat
-- **Fat floor ~60–70 g** (hormones) — don't go under.
-- **Carbs take the remainder** and fuel your lifts. Don't fear rice; keto isn't needed.
+### Face leaning out (the priority look)
+- Leans as overall BF drops — often the *last* place to change, so be patient.
+- Day-to-day puffiness = water: manage **sodium (4:1 goal), hydration (~3 L), sleep (7–9 h)**, alcohol.
 
 ---
 
