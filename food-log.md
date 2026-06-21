@@ -122,8 +122,13 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Lunch | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
 | Lunch | Iceberg lettuce, handful (~30g, raw) | 4 | 0.3 | 3 | 40 |
 | Pre-WO | MuscleTech Shatter (1 scoop, blue rasp) — 200mg caf, 400mg tyrosine, 1.2g β-alanine | ~10 | 0 | ~40 | 0 |
+| Dinner | Sweet potato, 47.4g | 41 | 0.8 | ~10 | 160 |
+| Dinner | 蒜泥白肉 pork (belly), 53.2g + garlic sauce (~est) | ~240 | 10 | ~320 | 150 |
+| Dinner | Steamed cabbage + mushroom, 105g (~est) | 30 | 2 | ~80 | 250 |
+| Dinner | Spicy Chinese chicken, 56g edible (66.2g − 9.8g bone) (~est) | ~110 | 12 | ~300 | 170 |
+| Dinner | Extra mushrooms, 8.1g | 2 | 0.3 | 1 | 26 |
 
-**So far: ~861 kcal · ~62 g protein · ~86 g carbs · ~30 g fat · ~19 g fibre · ~766 mg Na · ~1,956 mg K · K:Na ~2.6:1** _(breakfast + fruit + lunch + pre-WO; no coffee today — caffeine via pre-WO)_
+**Day total: ~1,294 kcal · ~87 g protein · ~107 g carbs · ~57 g fat · ~23 g fibre · ~1,477 mg Na · ~2,712 mg K · K:Na ~1.8:1**
 
 ---
 
