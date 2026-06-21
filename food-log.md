@@ -145,8 +145,11 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Egg, 64.3g w/ shell (~57g edible) | 81 | 7.2 | 81 | 79 |
 | Breakfast | Frozen blueberries, 50.6g | 29 | 0.4 | 1 | 39 |
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+| Meal 2 | Salmon, 100g | 180 | 20 | 44 | 363 |
+| Meal 2 | Yesterday's beef-lentil curry, 130g (~est) | 166 | 10.8 | ~225 | 396 |
+| Meal 2 | Sweet potato, 127g | 114 | 2.5 | ~8 | 600 |
 
-**So far: ~368 kcal · ~32 g protein · ~40 g carbs · ~10 g fat · ~7 g fibre · ~200 mg Na · ~763 mg K · K:Na ~3.8:1** _(breakfast)_
+**So far: ~828 kcal · ~65 g protein · ~79 g carbs · ~29 g fat · ~14 g fibre · ~477 mg Na · ~2,122 mg K · K:Na ~4.4:1** _(breakfast + meal 2)_
 
 ---
 
