@@ -127,8 +127,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Dinner | Steamed cabbage + mushroom, 105g (~est) | 30 | 2 | ~80 | 250 |
 | Dinner | Spicy Chinese chicken, 56g edible (66.2g − 9.8g bone) (~est) | ~110 | 12 | ~300 | 170 |
 | Dinner | Extra mushrooms, 8.1g | 2 | 0.3 | 1 | 26 |
+| Snack | ½ protein bar (full: 225kcal/38P/2F/6C) | 113 | 19 | ~75 | ~50 |
 
-**Day total: ~1,294 kcal · ~87 g protein · ~107 g carbs · ~57 g fat · ~23 g fibre · ~1,477 mg Na · ~2,712 mg K · K:Na ~1.8:1**
+**Day total: ~1,407 kcal · ~106 g protein · ~110 g carbs · ~58 g fat · ~24 g fibre · ~1,552 mg Na · ~2,762 mg K · K:Na ~1.8:1**
 
 ---
 
