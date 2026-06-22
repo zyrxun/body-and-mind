@@ -156,6 +156,12 @@ def update_tracker(d, fields):
     with open(TRACKER, newline="") as f:
         reader = csv.DictReader(f)
         header, rows = reader.fieldnames, list(reader)
+    # Safety net: a stray unquoted comma in Notes makes DictReader overflow into a
+    # None key, which then crashes DictWriter. Fold any overflow back into Notes.
+    for r in rows:
+        extra = r.pop(None, None)
+        if extra:
+            r["Notes"] = (r.get("Notes") or "") + " " + " ".join(str(x) for x in extra)
     ds = d.isoformat()
     row = next((r for r in rows if r["Date"] == ds), None)
     if row is None:

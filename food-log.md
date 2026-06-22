@@ -160,6 +160,21 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 ---
 
+### 2026-06-23 (Tue) — DAY 2 of cut · _weigh-in: pending_
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein yogurt, 120g | 96 | 10.6 | 62 | 180 |
+| Breakfast | Rolled oats, 20g dry | 76 | 2.6 | 0 | 70 |
+| Breakfast | Frozen blueberries, 50g | 29 | 0.4 | 1 | 39 |
+| Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
+| Breakfast | Banana, 153.8g w/ peel (~100g flesh) | 89 | 1.1 | 1 | 358 |
+| Breakfast | C4 Hershey's whey, 1 scoop (36g) | 130 | 25 | 110 | 150 |
+
+**So far: ~492 kcal · ~46 g protein · ~52 g carbs · ~12 g fat · ~9 g fibre · ~239 mg Na · ~862 mg K · K:Na ~3.6:1** _(breakfast — first oats bowl)_
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|
