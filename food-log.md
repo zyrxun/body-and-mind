@@ -150,8 +150,13 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Meal 2 | Sweet potato, 127g | 114 | 2.5 | ~8 | 600 |
 | Pre-WO | Banana (~medium 118g flesh, est) — quick carbs pre-gym | 105 | 1.3 | 1 | 422 |
 | Snack | Shrewsbury biscuit ×1 | 75 | 0.7 | 45 | 15 |
+| Post-WO | Ugly Face strawberry whey, 1 scoop + water (~est) | 120 | 25 | ~60 | ~150 |
+| Dinner | Boiled fish, 111g | 110 | 22 | ~80 | 370 |
+| Dinner | Grilled chicken wings, 120g (~est, ~65g edible) | 200 | 19 | ~250 | 160 |
+| Dinner | Potato wedges, 450g potato + ~1 tbsp oil, unsalted (~est) | 470 | 9 | ~25 | 1900 |
+| Dinner | Broccoli, ~80g (~est) | 27 | 2.2 | ~26 | 253 |
 
-**So far: ~1,067 kcal · ~72 g protein · ~116 g carbs · ~37 g fat · ~17 g fibre · ~1,459 mg Na · ~2,446 mg K · K:Na ~1.7:1** _(breakfast + meal 2 + pre-WO)_
+**Day total: ~1,994 kcal · ~149 g protein · ~204 g carbs · ~66 g fat · ~29 g fibre · ~1,900 mg Na · ~5,279 mg K · K:Na ~2.8:1**
 
 ---
 
