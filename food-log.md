@@ -160,7 +160,7 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 ---
 
-### 2026-06-23 (Tue) — DAY 2 of cut · _weigh-in: pending_
+### 2026-06-23 (Tue) — DAY 2 of cut · weigh-in: 71.35 kg ⚠️ post-few-bites (not clean fasted)
 
 | Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
 |---|---|---|---|---|---|
