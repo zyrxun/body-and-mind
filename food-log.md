@@ -145,11 +145,11 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Egg, 64.3g w/ shell (~57g edible) | 81 | 7.2 | 81 | 79 |
 | Breakfast | Frozen blueberries, 50.6g | 29 | 0.4 | 1 | 39 |
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
-| Meal 2 | Smoked salmon, 100g (salt-cured — ~est, brand varies 600–1,200mg Na) | 117 | 18 | ~700 | 175 |
+| Meal 2 | Aoraki cold-smoked King salmon, 100g (label: 239kcal/24.2P/15.8F, 1g omega-3) | 239 | 24.2 | 980 | ~250 |
 | Meal 2 | Yesterday's beef-lentil curry, 130g (~est) | 166 | 10.8 | ~225 | 396 |
 | Meal 2 | Sweet potato, 127g | 114 | 2.5 | ~8 | 600 |
 
-**So far: ~765 kcal · ~63 g protein · ~79 g carbs · ~23 g fat · ~14 g fibre · ~1,133 mg Na · ~1,934 mg K · K:Na ~1.7:1** _(breakfast + meal 2)_
+**So far: ~887 kcal · ~70 g protein · ~79 g carbs · ~34 g fat · ~14 g fibre · ~1,413 mg Na · ~2,009 mg K · K:Na ~1.4:1** _(breakfast + meal 2)_
 
 ---
 
