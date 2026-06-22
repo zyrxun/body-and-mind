@@ -148,8 +148,10 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Meal 2 | Aoraki cold-smoked King salmon, 100g (label: 239kcal/24.2P/15.8F, 1g omega-3) | 239 | 24.2 | 980 | ~250 |
 | Meal 2 | Yesterday's beef-lentil curry, 130g (~est) | 166 | 10.8 | ~225 | 396 |
 | Meal 2 | Sweet potato, 127g | 114 | 2.5 | ~8 | 600 |
+| Pre-WO | Banana (~medium 118g flesh, est) — quick carbs pre-gym | 105 | 1.3 | 1 | 422 |
+| Snack | Shrewsbury biscuit ×1 | 75 | 0.7 | 45 | 15 |
 
-**So far: ~887 kcal · ~70 g protein · ~79 g carbs · ~34 g fat · ~14 g fibre · ~1,413 mg Na · ~2,009 mg K · K:Na ~1.4:1** _(breakfast + meal 2)_
+**So far: ~1,067 kcal · ~72 g protein · ~116 g carbs · ~37 g fat · ~17 g fibre · ~1,459 mg Na · ~2,446 mg K · K:Na ~1.7:1** _(breakfast + meal 2 + pre-WO)_
 
 ---
 
