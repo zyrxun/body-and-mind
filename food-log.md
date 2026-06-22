@@ -153,10 +153,10 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Post-WO | Ugly Face strawberry whey, 1 scoop + water (~est) | 120 | 25 | ~60 | ~150 |
 | Dinner | Boiled fish, 111g | 110 | 22 | ~80 | 370 |
 | Dinner | Grilled chicken wings, 120g (~est, ~65g edible) | 200 | 19 | ~250 | 160 |
-| Dinner | Potato wedges, 450g potato + ~1 tbsp oil, unsalted (~est) | 470 | 9 | ~25 | 1900 |
+| Dinner | Potato wedges, 430g (450 − 20g dad ate) + ~1 tbsp oil, unsalted (~est) | 450 | 8.6 | ~24 | 1815 |
 | Dinner | Broccoli, ~80g (~est) | 27 | 2.2 | ~26 | 253 |
 
-**Day total: ~1,994 kcal · ~149 g protein · ~204 g carbs · ~66 g fat · ~29 g fibre · ~1,900 mg Na · ~5,279 mg K · K:Na ~2.8:1**
+**Day total: ~1,974 kcal · ~149 g protein · ~200 g carbs · ~65 g fat · ~29 g fibre · ~1,899 mg Na · ~5,194 mg K · K:Na ~2.7:1**
 
 ---
 
