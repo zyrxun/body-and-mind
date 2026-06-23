@@ -182,6 +182,15 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 **After lunch: ~1,104 kcal · ~88 g protein · ~40 g fat · ~16.6 g fibre · ~833 mg Na · ~2,337 mg K · K:Na ~2.8:1 · omega-3 1,665 mg ✅**
 
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Dinner | Tofu + beef mince + celery/carrot/peas/corn Chinese dish, 250g (~est; home-cooked) | ~350 | ~25 | ~700 | ~450 |
+| Dinner | Pumpkin, 126g cooked | ~33 | ~1.3 | ~1 | ~535 |
+| Dinner | Pork ribs bone-in, 53.6g total (~27g edible) + apple sauce (~est) | ~100 | ~7 | ~80 | ~100 |
+| Dinner | Hainanese rice, 150g cooked (~est) | ~240 | ~4.5 | ~375 | ~55 |
+
+**Day total: ~1,827 kcal · ~126 g protein · ~69 g fat · ~22.4 g fibre · ~1,989 mg Na · ~3,477 mg K · K:Na ~1.7:1** _(pre-whey; all dinner items ~est — home-cooked)_
+
 ---
 
 ### Week 1 summary
