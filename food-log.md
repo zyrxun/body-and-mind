@@ -193,6 +193,24 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 ---
 
+---
+
+## Week 2 — 2026-06-24 → 2026-06-30 · Phase: Cut
+
+### 2026-06-24 (Wed) — DAY 3 of cut · weigh-in: 70.75 kg (fasted ✅)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt (unsweetened), 150g | 120 | 13.2 | 78 | 225 |
+| Breakfast | Frozen blueberries, 53.5g | 30 | 0.4 | 1 | 41 |
+| Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
+| Breakfast | Banana, 132.5g w/ peel (~86g flesh) | 77 | 0.9 | 1 | 308 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+
+**So far: ~364 kcal · ~33 g protein · ~13 g fat · ~3.5 g fibre · ~200 mg Na · ~714 mg K**
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|
