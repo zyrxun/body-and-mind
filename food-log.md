@@ -173,6 +173,16 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 **So far: ~492 kcal · ~46 g protein · ~52 g carbs · ~12 g fat · ~9 g fibre · ~239 mg Na · ~862 mg K · K:Na ~3.6:1** _(breakfast — first oats bowl)_
 
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Lunch | John West Wild Alaskan Pink Salmon 210g can, drained (~158g) | 228 | 36.3 | 577 | 250 |
+| Lunch | Avocado, 31g | 50 | 0.6 | 2 | 150 |
+| Lunch | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
+| Lunch | Potato wedges, 250g (unsalted) + 1 tbsp olive oil (~est) | 313 | 5 | 15 | 1063 |
+| Lunch | Honey drizzle, ~1 tsp (7g) | 21 | 0 | 0 | 12 |
+
+**After lunch: ~1,176 kcal · ~94 g protein · ~45 g fat · ~16.7 g fibre · ~898 mg Na · ~2,402 mg K · K:Na ~2.7:1 · omega-3 1,665 mg ✅**
+
 ---
 
 ### Week 1 summary
