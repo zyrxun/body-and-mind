@@ -209,7 +209,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Honey drizzle, ~1 tsp (7g) | 21 | 0 | 0 | 12 |
 | Breakfast | Rolled oats, 50g dry | 190 | 6 | 2 | 165 |
 
-**So far: ~575 kcal · ~39 g protein · ~13 g fat · ~8.5 g fibre · ~202 mg Na · ~891 mg K**
+| Pre-WO | Sourdough bread, 49.1g | 134 | 4.4 | 245 | 59 |
+
+**So far (pre-gym): ~709 kcal · ~43 g protein · ~13.6 g fat · ~9.5 g fibre · ~447 mg Na · ~950 mg K**
 
 ---
 
