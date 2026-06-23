@@ -206,8 +206,10 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
 | Breakfast | Banana, 132.5g w/ peel (~86g flesh) | 77 | 0.9 | 1 | 308 |
 | Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+| Breakfast | Honey drizzle, ~1 tsp (7g) | 21 | 0 | 0 | 12 |
+| Breakfast | Rolled oats, 50g dry | 190 | 6 | 2 | 165 |
 
-**So far: ~364 kcal · ~33 g protein · ~13 g fat · ~3.5 g fibre · ~200 mg Na · ~714 mg K**
+**So far: ~575 kcal · ~39 g protein · ~13 g fat · ~8.5 g fibre · ~202 mg Na · ~891 mg K**
 
 ---
 
