@@ -210,8 +210,9 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 | Breakfast | Rolled oats, 50g dry | 190 | 6 | 2 | 165 |
 
 | Pre-WO | Sourdough bread, 49.1g | 134 | 4.4 | 245 | 59 |
+| Pre-WO | MuscleTech Shatter, 1 scoop (blue rasp) — 200mg caf | ~10 | 0 | ~40 | 0 |
 
-**So far (pre-gym): ~709 kcal · ~43 g protein · ~13.6 g fat · ~9.5 g fibre · ~447 mg Na · ~950 mg K**
+**So far (pre-gym): ~719 kcal · ~43 g protein · ~13.6 g fat · ~9.5 g fibre · ~487 mg Na · ~950 mg K**
 
 ---
 
