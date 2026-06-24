@@ -214,6 +214,14 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 **So far (pre-gym): ~719 kcal · ~43 g protein · ~13.6 g fat · ~9.5 g fibre · ~487 mg Na · ~950 mg K**
 
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Lunch | John West tuna springwater, 95g can (drained) | 69 | 16 | 250 | 200 |
+| Lunch | Chicken gizzard boiled (no salt), 203g | 191 | 35.9 | 140 | 406 |
+| Lunch | Soup (~potato/leek/carrot/cabbage/salt-reduced broth), 400g (~est) | ~142 | ~3.6 | ~281 | ~760 |
+
+**After lunch: ~1,121 kcal · ~99 g protein · ~19 g fat · ~14.5 g fibre · ~1,158 mg Na · ~2,316 mg K**
+
 ---
 
 ### Week 1 summary
