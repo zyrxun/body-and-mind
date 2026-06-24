@@ -234,6 +234,20 @@ _(all dinner items ~est; sodium over from marinade + salt-reduced broth — unav
 
 ---
 
+### 2026-06-25 (Thu) — DAY 4 of cut · weigh-in: 70.50 kg (fasted ✅)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 155.2g | 124 | 13.7 | 79 | 233 |
+| Breakfast | Frozen blueberries, 51.7g | 29 | 0.4 | 1 | 40 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+| Breakfast | Banana, 176.8g w/ peel (~115g flesh) | 102 | 1.3 | 1 | 412 |
+| Breakfast | Boiled egg ×1 | 72 | 6.3 | 65 | 65 |
+
+**So far: ~392 kcal · ~34 g protein · ~13 g fat · ~4.2 g fibre · ~201 mg Na · ~825 mg K**
+
+---
+
 ### Week 1 summary
 | Metric | Value |
 |---|---|
