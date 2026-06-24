@@ -222,6 +222,16 @@ _Actual breakfast — smaller than the "fixed" template above, so logging real i
 
 **After lunch: ~1,121 kcal · ~99 g protein · ~19 g fat · ~14.5 g fibre · ~1,158 mg Na · ~2,316 mg K**
 
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Post-WO | C4 Hershey's whey, 1 scoop (36g) | 130 | 25 | 110 | 150 |
+| Dinner | Korean galbi short rib, 223.4g edible (334g bone-in − 110.6g bone) + Wang sauce/kiwi marinade (~est) | ~670 | ~49 | ~354 | ~300 |
+| Dinner | Broccoli, 100g steamed (no salt) | 34 | 2.8 | 33 | 316 |
+| Dinner | Leftover soup, 262.2g (~est) | ~93 | ~2.4 | ~184 | ~499 |
+
+**Day total: ~2,048 kcal · ~178 g protein · ~74 g fat · ~20.4 g fibre · ~1,839 mg Na · ~3,581 mg K · K:Na ~1.95:1**
+_(all dinner items ~est; sodium over from marinade + salt-reduced broth — unavoidable family dinner)_
+
 ---
 
 ### Week 1 summary
