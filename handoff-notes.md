@@ -1,63 +1,94 @@
-# Session Handoff — 2026-06-23
+# Session Handoff — 2026-06-27
 
 ### 🎯 What We Were Working On
-Built and are now actively running **"Body & Mind"** — a personal health/fitness tracking system for Richard's cut. This session went from designing the diet plan → building the whole tooling stack → daily food/lift/health logging. Currently on **Day 2 of the cut**.
+Continuing the **"Body & Mind" cut tracking** — daily food logging, macro estimation, lift tracking, and health sync for Richard's Jun 22 → Aug 22 aggressive-but-healthy cut. This session covered Days 2–4 of the cut (Jun 23–25) plus a sick day (Jun 26).
 
 ### 🌿 Branch & Environment
-- **Git:** two private GitHub repos — `zyrxun/body-and-mind` (health) and `zyrxun/finance` (ledger). Branch `main`.
-- **Secrets (gitignored, local only):** `.gh_config.json`, `.gh_tokens.json` (Google Health OAuth).
-- **Automation:** launchd agent `com.bodymind.healthsync` (8am + 11:55pm) runs `sync_cron.sh`.
-- **Connectors authed:** Google Calendar (weekly reminders), Google Health API (via gh_sync.py).
-- **No package deps** — everything is Python stdlib.
+- **Git:** `zyrxun/body-and-mind`, branch `main`. All changes committed + pushed each session.
+- **Secrets (gitignored):** `.gh_config.json`, `.gh_tokens.json` (Google Health OAuth).
+- **Automation:** launchd `com.bodymind.healthsync` (8am + 11:55pm) runs `sync_cron.sh`.
+- **Google OAuth:** "Testing" mode — refresh token expires ~weekly. Re-auth: `gh_sync.py authurl` → `auth "<code>"`. Due around Sun Jun 28 rollup.
+- **No package deps** — Python stdlib only.
 
 ### ✅ What Was Completed
-- [x] Full diet plan: **aggressive-but-healthy CUT** (Jun 22 → Aug 22) to single-digit BF, ~2,200 kcal, protein 170–185g
-- [x] `tracker.csv` (daily time-series), `food-log.md` (itemized), `progress.md` (plan, now in cut mode), `WORKFLOW.md`, `CLAUDE.md` (playbook)
-- [x] **Google Health API sync** (`gh_sync.py`) — auto-pulls steps/sleep/resting-HR; launchd 2×/day
-- [x] **Lift tracking** — reads Google Sheet (cols I–L) "The Great Reset N" tabs, snapshot-diff
-- [x] **Local logging UI** (`tracker_ui/`, port 8642) → queues to inbox.jsonl, Claude processes
-- [x] Custom goals baked into playbook: **K:Na 4:1**, fibre ≥30g, brain/cognition nutrients, full macro+micro targets, holistic food-rec rule
-- [x] Weekly Sunday calendar reminders (Auckland → Aug 16, Detroit from Aug 23) with embedded prompts
-- [x] Logged Jun 17–23; first weekly rollup done Jun 21
+- [x] **Jun 23 (Day 2):** Full day logged — breakfast (oats bowl), lunch (John West salmon + wedges + avocado), dinner (Chinese family: tofu+beef mince dish + pumpkin + Hainanese chicken rice + pork ribs). Totals: ~1,827 kcal / 126g P (short — no post-WO whey) / 69g F / 22g fibre. Na over from Chinese cooking.
+- [x] **Jun 24 (Day 3):** Full day logged — breakfast (yogurt/berries/egg/banana/½ whey/oats/honey/sourdough pre-WO), MuscleTech Shatter pre-WO, lunch (springwater tuna + gizzard 203g + soup 400g), C4 post-WO whey, dinner (galbi 223.4g edible + broccoli + leftover soup). Totals: ~2,048 kcal / 178g P ✅ / 74g F ✅ / 20g fibre / Na over (family galbi).
+- [x] **Great Reset 3 (Week 3) lift sheet pulled + snapshotted** (`lifts/great_reset_3.csv`). Day 1 lifts confirmed: squat 102.5kg×8 ✅ bench 75kg×4 ✅ — all targets hit on cut. Leg press/hamstring/leg extension/lat-pulldown accessories done.
+- [x] **Jun 25 (Day 4):** Breakfast logged (yogurt/berries/½ whey/banana/egg — ~392 kcal / 34g P). Steps 13,126 ✅. Food untracked rest of day — session credits ran out.
+- [x] **Jun 26:** Sick day. Rest, no training. Steps 1,357. Sleep 8.63h. Food untracked.
+- [x] **Health data synced** for Jun 25 + Jun 26 via gh_sync.py.
+- [x] **Tonsil stones discussed** — diagnosed likely cause: dairy residue from thick whey shakes sitting in throat crypts. Fix: gargle/rinse with water immediately after every shake and yogurt. He's already at 3L/day so dehydration ruled out.
+- [x] **Coffee vs pre-workout resolved:** Pre-WO (200mg caf) replaces coffee on training days. Rest days = 1 black coffee before 2pm. Stop flagging "no coffee" on gym days.
 
 ### 🔧 Decisions Made
 | Decision | Why |
-|----------|-----|
-| Aggressive cut (~0.65–0.7 kg/wk), hard Aug 22 deadline | Richard chose it after hearing trade-offs; honor "no crash" guardrails |
-| Inbox processing kept MANUAL (no auto `claude -p` agent) | Auto-mode blocked a skip-permissions launchd agent; Richard agreed manual is safer |
-| Health sync = launchd not cron | Cron misses runs when laptop asleep; launchd catches up on wake |
-| Weigh-ins: judge 7-day fasted avg only | Daily scale is water/food noise, esp. early cut |
+|---|---|
+| Pre-WO Shatter counts as daily caffeine source on training days | 200mg caf from Shatter > double-shot coffee; stacking both unnecessary and jittery |
+| Tuna mercury: 2 cans of John West skipjack = fine | Skipjack is lowest-mercury tuna (~0.012 ppm); concern is for pregnant women/kids, not healthy adult males |
+| Wang Korean BBQ sauce Na: calculated per-serving not per-100g | 1/3 bottle for 2kg meat; his ~223g = 11% of total → ~11.6g sauce absorbed → ~220mg Na from sauce |
+| Sick day (Jun 26): don't stress deficit | Illness + undereating accelerates muscle loss — eat enough protein, rest, hydrate |
+| Skip tuna cans on high-Na days | Springwater tuna ~250mg Na/can; reserve for days with fresh Na budget |
 
-### 💸 Technical Debt / ⚠️ Known Issues
-- [ ] **Google OAuth is "Testing" mode → refresh token expires ~weekly.** Re-auth: `gh_sync.py authurl` → `auth "<code>"` (lines up w/ Sunday rollup).
-- [ ] **Steps undercounted some days** (Fitbit Inspire 3 off during part of a session). Jun 22 logged 10,391 but real was higher.
-- [ ] **Weight does NOT auto-sync** — Richard doesn't log weight to Fitbit, so weigh-ins are manual.
-- [ ] **CSV comma bug (FIXED):** never put unquoted commas in tracker.csv Notes via manual Edit — it overflowed DictReader and dropped a row. gh_sync.py now folds overflow back into Notes. Use semicolons/dashes in notes.
-- [ ] `tracker_ui/` Week 1 summary block in food-log.md is stale (says 0/7) — never updated.
+### ⚠️ Known Issues / Blockers
+- [ ] **Jun 25 food log incomplete** — only breakfast logged before credits ran out. Macro row in tracker.csv is blank for the full day. Pick up tomorrow as a new day; don't try to reconstruct.
+- [ ] **Jun 26 food log blank** — sick day, intentionally skipped. Note in tracker says "Sick day; rest; food untracked."
+- [ ] **Google OAuth re-auth due ~Jun 28** (weekly expiry). Run `gh_sync.py authurl` → `auth "<code>"` during Sunday rollup.
+- [ ] **Week 1 summary block in food-log.md** still shows "0/7 days logged" — stale placeholder, never updated.
+- [ ] **Sleep score Jun 26** — not yet captured (was sick). Ask at next session.
+- [ ] **Weekly rollup due Sun Jun 28** — first cut-week rollup. Need to recalculate maintenance from weight trend and decide if 2,200 kcal target needs adjusting.
+- [ ] **Great Reset 3 Day 2+ lifts** — only Day 1 filled in. Pull updated snapshot when he next trains.
 
-### 📂 Key Files Touched (all in `body and mind/`)
-- `CLAUDE.md` — operating playbook (auto-loads); cut targets, K:Na, brain nutrients, lift-sheet method, calc method
-- `tracker.csv` — daily rows (Jun 17–23)
-- `food-log.md` — itemized meals
-- `progress.md` — full cut-mode plan + weekly log
-- `gh_sync.py` — Google Health sync (hardened against comma bug)
-- `sync_cron.sh` + `healthsync.plist` — launchd automation
-- `tracker_ui/server.py` + `index.html` — logging UI
-- `WORKFLOW.md` — user's daily/weekly routine
+### 📂 Key Files Touched
+- `body and mind/food-log.md` — Days 2–4 logged (Jun 23–25); Week 2 section added starting Jun 24
+- `body and mind/tracker.csv` — rows Jun 23–26 updated with macros/health data/sleep scores
+- `body and mind/lifts/great_reset_3.csv` — new file; Week 3 lift sheet snapshotted + Day 1 actuals saved
+- `body and mind/handoff-notes.md` — this file
 
 ### 🔜 Next Steps
-1. **Day 2 (Jun 23) in progress:** breakfast logged (oats bowl, 46g protein). Gave a low-sodium lunch rec; **waiting for Richard to report lunch**. Then dinner. Keep today low-sodium (yesterday's smoked salmon blew sodium budget).
-2. **New training week starts Wed Jun 24** on the lift sheet (new "Great Reset" tab) — pull + log his session.
-3. **Next weekly rollup: Sun Jun 28** — recalc maintenance from the cut's first-week loss rate; adjust calories.
-4. Encourage **clean fasted weigh-ins** (before any food) — today's was post-bites.
+1. **Jun 27 (today):** Fasted weigh-in + breakfast report — resume normal logging. He's still a bit sick so keep meals light/nourishing. Don't push hard training.
+2. **Sun Jun 28 — weekly rollup:** Pull tracker.csv rows Jun 22–28, compute 7-day avg weight + avg daily kcal, derive implied maintenance, adjust cut target if needed. Update progress.md Weekly Log. Re-auth Google OAuth.
+3. **Pull Great Reset 3 sheet again** when he next trains — diff against snapshot to see new Day 2+ lifts.
+4. **Tonsil stones follow-up** — ask if gargle-after-shakes routine is helping after ~1 week.
+5. **Salmon** — 822g was marinated (lemon/garlic/ginger/honey/olive oil, zero added salt) for family dinner Jun 25. May or may not have been eaten; ask.
 
 ### 🧠 Brain Dump
-**Mental model:** Richard logs food/weight/coffee/sleep-score in chat (or UI inbox). Claude estimates macros (per-gram from labels × weight; `~` for label-less foods), updates food-log.md + tracker.csv, commits/pushes each time. Health data (steps/sleep/HR) auto-syncs via launchd. Lifts read from a public Google Sheet. Everything judged on weekly averages.
 
-**Momentum note:** Just gave a low-sodium lunch rec (chicken + bean + avocado bowl, to fix today's low fat at 12g vs 55 floor). Day 2 status: ~492 kcal, 46g protein, K:Na 3.6:1 so far; ~1,710 cal + ~125g protein left.
+**Weight trend (cut so far):**
+- Cut start: 71.10 kg fasted (Jun 22)
+- Jun 24: 70.75 kg fasted ✅
+- Jun 25: 70.50 kg fasted ✅
+- Jun 26: sick day, weight unknown
+- 7-day avg as of Jun 25: ~71.19 kg (slow movement = correct; daily drops are water noise)
+- Target rate: 0.65–0.7 kg/wk. Trend is healthy — don't adjust calories until Sunday rollup.
 
-**Current cut numbers:** Start 71.10 kg fasted (Jun 22) → target ~66–67 kg single-digit BF by Aug 22. Fasted trend ~71.3. Maintenance est HIGH (~2,700–2,900, from 17–25k steps).
+**Macro patterns observed:**
+- Fat floor (55g) is hard to hit without olive oil or fatty fish — gizzard/tuna are too lean alone. Always need an oil source or fatty fish.
+- Fibre consistently short (20–22g vs 30g target) — needs beans/lentils at lunch or dinner daily.
+- Protein easy to hit on training days with whey; hard on rest days with only family food.
+- Sodium busts on Chinese family dinner nights — unavoidable; compensate next day.
 
-**The Hack Log:** Use semicolons not commas in tracker Notes. Steps may be undercounted. Salmon was smoked (Aoraki, 980mg Na/100g) — flag smoked/cured/brined/pickled as high-sodium always.
+**Sodium cheat sheet (from this session):**
+- John West springwater tuna 95g can: ~250mg Na
+- John West Wild Alaskan Pink Salmon 210g drained: ~577mg Na; omega-3 1,665mg ✅
+- Wang Korean BBQ sauce: ~1,900mg Na/100g (contains soy sauce despite mum saying "no soy" — it's in the ingredients)
+- Galbi with homemade Wang sauce (1/3 bottle / 2kg meat, ~223g serving): ~354mg Na total
+- MuscleTech Shatter 1 scoop: ~40mg Na, 200mg caffeine
+- C4 Hershey's whey 1 scoop: ~130 kcal, 25g protein, 110mg Na
+- Aoraki cold-smoked salmon: 980mg Na/100g — HIGH, flag always
 
-**Last successful prompt:** "gimme a low sodium lunch rec" → returned the chicken+bean+avocado bowl with full macro/micro fit.
+**Food preferences / family meal patterns:**
+- Mum cooks Chinese family dinners regularly (tofu+beef mince, Hainanese chicken rice, galbi, pork+pumpkin soup)
+- Family has salt-reduced chicken broth on hand (~150mg Na/100ml)
+- He has: Greek yogurt (The Collective More-Than-Protein), frozen blueberries, eggs, bananas, whey (C4 + Ugly Face), oats as fixed daily items
+- He likes: Korean food, Chinese family meals, sushi, poke bowls, Nando's, GYG
+
+**Mental model:** Richard logs food/weight/coffee/sleep-score in chat. Claude estimates macros (per-gram from labels × weight; `~` for restaurant/label-less), updates food-log.md + tracker.csv, commits+pushes each time. Health data auto-syncs via launchd. Lifts read from Google Sheet "The Great Reset N" (highest tab = current week; cols I–L = actuals). Judge everything on 7-day averages.
+
+**The Hack Log:**
+- Use semicolons not commas in tracker.csv Notes field
+- Jun 23 weight (71.35) was post-few-bites — flagged as noise, not clean fasted
+- Steps undercounted Jun 22 (Fitbit off during walk)
+- Wang sauce "no soy" claim from mum — the product DOES contain soy sauce in ingredients; sodium calculated from label anyway
+
+**Last successful prompt:**
+"70.50kg fasted. 155.2g greek yogurt, 51.7 frozen blueberries, 1/2 scoop of c4 whey 176.8 banana and 1 boiled egg" → Claude logged breakfast, pulled health sync, gave remaining targets for the day.
