@@ -47,6 +47,9 @@ scheduled weekly agent also reads it to know what to do.
   (omega-3, iron, zinc, magnesium, calcium, B12) — not just protein. Flag if he's low on fat or a
   micro that day, and note how the food fits (e.g. salmon → omega-3 + fat; beans → fibre/iron/Mg).
 
+## Cookbook
+- `cookbook_recipes.md` — **128 recipes** extracted from *The Ultimate Anabolic Cookbook 2.0* by Greg Doucette, with per-serving macros + tags (high-protein, low-cal, high-fiber, quick, vegetarian, gluten-free). When recommending meals, **read this file first** and pick from it, or generate a new recipe, or fetch one online — your choice based on what fits the day's macro gaps.
+
 ## Files (storage layout)
 - `progress.md` — plan + dashboard + weekly log + adjustments log
 - `food-log.md` — daily itemized meals + weigh-ins + fixed-intake block (CURRENT month)

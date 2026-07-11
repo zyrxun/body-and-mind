@@ -1,94 +1,103 @@
-# Session Handoff — 2026-06-27
+# Session Handoff — 2026-07-11
 
-### 🎯 What We Were Working On
-Continuing the **"Body & Mind" cut tracking** — daily food logging, macro estimation, lift tracking, and health sync for Richard's Jun 22 → Aug 22 aggressive-but-healthy cut. This session covered Days 2–4 of the cut (Jun 23–25) plus a sick day (Jun 26).
+## 🎯 What We Were Working On
+Multi-day nutrition catch-up for Richard's cut (Jun 22 → Aug 22): logged Jul 6 dinner through Jul 11 lunch/post-WO across food-log.md and tracker.csv, ran gh_sync.py for all days, and answered fitness/nutrition questions throughout.
 
-### 🌿 Branch & Environment
-- **Git:** `zyrxun/body-and-mind`, branch `main`. All changes committed + pushed each session.
-- **Secrets (gitignored):** `.gh_config.json`, `.gh_tokens.json` (Google Health OAuth).
-- **Automation:** launchd `com.bodymind.healthsync` (8am + 11:55pm) runs `sync_cron.sh`.
-- **Google OAuth:** "Testing" mode — refresh token expires ~weekly. Re-auth: `gh_sync.py authurl` → `auth "<code>"`. Due around Sun Jun 28 rollup.
-- **No package deps** — Python stdlib only.
+---
 
-### ✅ What Was Completed
-- [x] **Jun 23 (Day 2):** Full day logged — breakfast (oats bowl), lunch (John West salmon + wedges + avocado), dinner (Chinese family: tofu+beef mince dish + pumpkin + Hainanese chicken rice + pork ribs). Totals: ~1,827 kcal / 126g P (short — no post-WO whey) / 69g F / 22g fibre. Na over from Chinese cooking.
-- [x] **Jun 24 (Day 3):** Full day logged — breakfast (yogurt/berries/egg/banana/½ whey/oats/honey/sourdough pre-WO), MuscleTech Shatter pre-WO, lunch (springwater tuna + gizzard 203g + soup 400g), C4 post-WO whey, dinner (galbi 223.4g edible + broccoli + leftover soup). Totals: ~2,048 kcal / 178g P ✅ / 74g F ✅ / 20g fibre / Na over (family galbi).
-- [x] **Great Reset 3 (Week 3) lift sheet pulled + snapshotted** (`lifts/great_reset_3.csv`). Day 1 lifts confirmed: squat 102.5kg×8 ✅ bench 75kg×4 ✅ — all targets hit on cut. Leg press/hamstring/leg extension/lat-pulldown accessories done.
-- [x] **Jun 25 (Day 4):** Breakfast logged (yogurt/berries/½ whey/banana/egg — ~392 kcal / 34g P). Steps 13,126 ✅. Food untracked rest of day — session credits ran out.
-- [x] **Jun 26:** Sick day. Rest, no training. Steps 1,357. Sleep 8.63h. Food untracked.
-- [x] **Health data synced** for Jun 25 + Jun 26 via gh_sync.py.
-- [x] **Tonsil stones discussed** — diagnosed likely cause: dairy residue from thick whey shakes sitting in throat crypts. Fix: gargle/rinse with water immediately after every shake and yogurt. He's already at 3L/day so dehydration ruled out.
-- [x] **Coffee vs pre-workout resolved:** Pre-WO (200mg caf) replaces coffee on training days. Rest days = 1 black coffee before 2pm. Stop flagging "no coffee" on gym days.
+## 🌿 Branch & Environment
+- **Git branch:** main (working directly, no feature branch)
+- **Environment changes:** none
+- **Dependencies:** none added
 
-### 🔧 Decisions Made
+---
+
+## ✅ What Was Completed
+- [x] Finalized Jul 6 entry: hot pot dinner (~2 plates beef, tomato broth ~est); Day total 2,213 kcal / 131g P
+- [x] Logged Jul 7 full day: Inca by Nic Wat $98 tasting (~est from TripAdvisor dishes); 2,714 kcal / 233g P
+- [x] Logged Jul 8 full day: protein shake + sourdough/smoked salmon lunch + beef+carrot soup; 1,330 kcal / 107g P
+- [x] Logged Jul 9 full day: DDG lemongrass chicken lunch + 12 BBQ skewers dinner (~est); 1,809 kcal / 177g P
+- [x] Logged Jul 10 full day (including 2nd dinner correction): dumplings + katsu/rooster/veg dinner + steak+ciabatta 2nd dinner; 3,210 kcal / 272g P
+- [x] Logged Jul 11 breakfast + post-WO/lunch: yogurt+egg+blueberries+Basic Supp+banana+coffee + creatine×2 + shake + tuna + 452g wedges + lettuce; ~1,024 kcal / ~93g P so far
+- [x] Ran gh_sync.py for Jul 7–11 (all synced; Jul 11 steps only 248 = Fitbit not fully synced yet)
+- [x] Updated tracker.csv with finalized macros + sleep/steps/RHR for all days
+- [x] Corrected Jul 9 skewer count: 8 → 12 (user confirmed "closer to 12+")
+- [x] Corrected steak+ciabatta entry: initially filed under Jul 11, corrected to Jul 10 as 2nd dinner
+- [x] Graphify pipeline built on "body and mind/" (pre-compaction): 49 nodes, 101 edges, 8 communities → graphify-out/
+
+---
+
+## 🔧 Decisions Made
+
 | Decision | Why |
 |---|---|
-| Pre-WO Shatter counts as daily caffeine source on training days | 200mg caf from Shatter > double-shot coffee; stacking both unnecessary and jittery |
-| Tuna mercury: 2 cans of John West skipjack = fine | Skipjack is lowest-mercury tuna (~0.012 ppm); concern is for pregnant women/kids, not healthy adult males |
-| Wang Korean BBQ sauce Na: calculated per-serving not per-100g | 1/3 bottle for 2kg meat; his ~223g = 11% of total → ~11.6g sauce absorbed → ~220mg Na from sauce |
-| Sick day (Jun 26): don't stress deficit | Illness + undereating accelerates muscle loss — eat enough protein, rest, hydrate |
-| Skip tuna cans on high-Na days | Springwater tuna ~250mg Na/can; reserve for days with fresh Na budget |
+| Inca tasting estimated ~1,400 kcal / ~80g P (~est) | Menu not public (Google Drive, blocked); used TripAdvisor dish names (ceviche, chicken karaage, salmon/cod, beef fillet, churros) to build 8-course Nikkei estimate |
+| Jul 9 skewers: 12 × ~35g = ~420g total | User confirmed "closer to 12+" when asked to clarify "a lot" |
+| Jul 10 steak ~500g / ciabatta ~250g split assumed | User said 750g total; split not confirmed — ask next session |
+| Basic Supplement Whey Blend Boston Cream Donut used from Jul 7 onward | User bought this brand; C4 Hershey's tub finished Jul 10 morning |
+| Jul 7 weight (71.45 kg post-gym) flagged, not used for trend | User confirmed it wasn't fasted |
 
-### ⚠️ Known Issues / Blockers
-- [ ] **Jun 25 food log incomplete** — only breakfast logged before credits ran out. Macro row in tracker.csv is blank for the full day. Pick up tomorrow as a new day; don't try to reconstruct.
-- [ ] **Jun 26 food log blank** — sick day, intentionally skipped. Note in tracker says "Sick day; rest; food untracked."
-- [ ] **Google OAuth re-auth due ~Jun 28** (weekly expiry). Run `gh_sync.py authurl` → `auth "<code>"` during Sunday rollup.
-- [ ] **Week 1 summary block in food-log.md** still shows "0/7 days logged" — stale placeholder, never updated.
-- [ ] **Sleep score Jun 26** — not yet captured (was sick). Ask at next session.
-- [ ] **Weekly rollup due Sun Jun 28** — first cut-week rollup. Need to recalculate maintenance from weight trend and decide if 2,200 kcal target needs adjusting.
-- [ ] **Great Reset 3 Day 2+ lifts** — only Day 1 filled in. Pull updated snapshot when he next trains.
+---
 
-### 📂 Key Files Touched
-- `body and mind/food-log.md` — Days 2–4 logged (Jun 23–25); Week 2 section added starting Jun 24
-- `body and mind/tracker.csv` — rows Jun 23–26 updated with macros/health data/sleep scores
-- `body and mind/lifts/great_reset_3.csv` — new file; Week 3 lift sheet snapshotted + Day 1 actuals saved
-- `body and mind/handoff-notes.md` — this file
+## 💸 Technical Debt Incurred
+- [ ] Inca tasting still ~est — if Richard can describe the actual courses, Jul 7 dinner macros can be refined
+- [ ] Jul 10 steak/ciabatta 500g/250g split is assumed, not confirmed
+- [ ] Jul 11 tracker row macros are partial — needs dinner before finalizing
+- [ ] Lifts not pulled this week (Week 4) — Google Sheet check skipped again
 
-### 🔜 Next Steps
-1. **Jun 27 (today):** Fasted weigh-in + breakfast report — resume normal logging. He's still a bit sick so keep meals light/nourishing. Don't push hard training.
-2. **Sun Jun 28 — weekly rollup:** Pull tracker.csv rows Jun 22–28, compute 7-day avg weight + avg daily kcal, derive implied maintenance, adjust cut target if needed. Update progress.md Weekly Log. Re-auth Google OAuth.
-3. **Pull Great Reset 3 sheet again** when he next trains — diff against snapshot to see new Day 2+ lifts.
-4. **Tonsil stones follow-up** — ask if gargle-after-shakes routine is helping after ~1 week.
-5. **Salmon** — 822g was marinated (lemon/garlic/ginger/honey/olive oil, zero added salt) for family dinner Jun 25. May or may not have been eaten; ask.
+---
 
-### 🧠 Brain Dump
+## ⚠️ Known Issues / Blockers
+- [ ] **Jul 11 dinner not logged** — session ended mid-day; next session needs to capture dinner and finalize tracker row
+- [ ] **Week 4 Sunday rollup (Jul 12) due tomorrow** — need Jul 12 fasted weight; compute 7-day avg; update progress.md weekly log + adjustments log; pull lifts from Google Sheet
+- [ ] **gh_sync.py re-auth** — tokens expire ~weekly. If pull fails next session: `python3 gh_sync.py authurl` then `auth "<code>"`
+- [ ] **Jul 11 steps (248)** — Fitbit not fully synced; re-run `python3 gh_sync.py pull 2026-07-11` after day ends
 
-**Weight trend (cut so far):**
-- Cut start: 71.10 kg fasted (Jun 22)
-- Jun 24: 70.75 kg fasted ✅
-- Jun 25: 70.50 kg fasted ✅
-- Jun 26: sick day, weight unknown
-- 7-day avg as of Jun 25: ~71.19 kg (slow movement = correct; daily drops are water noise)
-- Target rate: 0.65–0.7 kg/wk. Trend is healthy — don't adjust calories until Sunday rollup.
+---
 
-**Macro patterns observed:**
-- Fat floor (55g) is hard to hit without olive oil or fatty fish — gizzard/tuna are too lean alone. Always need an oil source or fatty fish.
-- Fibre consistently short (20–22g vs 30g target) — needs beans/lentils at lunch or dinner daily.
-- Protein easy to hit on training days with whey; hard on rest days with only family food.
-- Sodium busts on Chinese family dinner nights — unavoidable; compensate next day.
+## 📂 Key Files Touched
+- `body and mind/food-log.md` — Added Jul 6 dinner + Jul 7–10 full days + Jul 11 partial (breakfast/post-WO/lunch); fixed steak entry (moved from Jul 11 → Jul 10 2nd dinner)
+- `body and mind/tracker.csv` — Updated Jul 6 macros; added Jul 7–11 rows with gh_sync data + manual macros + sleep scores
+- `body and mind/progress.md` — Week 3 rollup added (earlier in session, before compaction)
+- `body and mind/graphify-out/` — Built this session: graph.json, GRAPH_REPORT.md, graph.html
 
-**Sodium cheat sheet (from this session):**
-- John West springwater tuna 95g can: ~250mg Na
-- John West Wild Alaskan Pink Salmon 210g drained: ~577mg Na; omega-3 1,665mg ✅
-- Wang Korean BBQ sauce: ~1,900mg Na/100g (contains soy sauce despite mum saying "no soy" — it's in the ingredients)
-- Galbi with homemade Wang sauce (1/3 bottle / 2kg meat, ~223g serving): ~354mg Na total
-- MuscleTech Shatter 1 scoop: ~40mg Na, 200mg caffeine
-- C4 Hershey's whey 1 scoop: ~130 kcal, 25g protein, 110mg Na
-- Aoraki cold-smoked salmon: 980mg Na/100g — HIGH, flag always
+---
 
-**Food preferences / family meal patterns:**
-- Mum cooks Chinese family dinners regularly (tofu+beef mince, Hainanese chicken rice, galbi, pork+pumpkin soup)
-- Family has salt-reduced chicken broth on hand (~150mg Na/100ml)
-- He has: Greek yogurt (The Collective More-Than-Protein), frozen blueberries, eggs, bananas, whey (C4 + Ugly Face), oats as fixed daily items
-- He likes: Korean food, Chinese family meals, sushi, poke bowls, Nando's, GYG
+## 🔗 Resources & References
+- Inca by Nic Wat: https://www.incarestaurant.co.nz/ (set menu on Google Drive, blocked; used TripAdvisor instead)
+- Duck Duck Goose menu: https://www.duckduckgoosenz.com/menu — confirmed lemongrass chicken lunch express $11.50 = chicken + rice + veg
 
-**Mental model:** Richard logs food/weight/coffee/sleep-score in chat. Claude estimates macros (per-gram from labels × weight; `~` for restaurant/label-less), updates food-log.md + tracker.csv, commits+pushes each time. Health data auto-syncs via launchd. Lifts read from Google Sheet "The Great Reset N" (highest tab = current week; cols I–L = actuals). Judge everything on 7-day averages.
+---
+
+## 🔜 Next Steps
+1. **Log Jul 11 dinner** — at ~1,024 kcal / 93g P / 20g F after lunch; fat floor (≥55g) is the critical gap tonight (−35g); needs ~1,176 kcal + ~77g P + fat-containing food (chicken thigh, eggs, yogurt, oily fish)
+2. **Re-run gh_sync for Jul 11** after day ends: `python3 gh_sync.py pull 2026-07-11`
+3. **Week 4 rollup (Jul 12, Sunday)** — get fasted weight on waking; compute 7-day avg (Jul 6–12); update progress.md weekly log table + adjustments note; pull lifts from Google Sheet (`1LHBsbA47Hq9KnhW0Gy5SpD6bnLQBLfuqkohJECdD2u0`)
+4. **Confirm Jul 10 steak/ciabatta split** (~500g steak / ~250g ciabatta assumed from 750g total)
+5. Remind Richard about **daily black coffee habit** — was not mentioned on Jul 11 until prompted; it's in the plan for K:Na
+
+---
+
+## 🧠 Brain Dump
+
+**Current cut status:**
+Week 4 of cut (Jul 6–12). 7-day avg weight: 71.75 (Jul 6) → 71.32 (Jul 10) → 71.35 (Jul 11, slightly inflated by big steak+dumplings dinner). New cut low was 70.65 kg on Jul 10. Pre-illness all-time cut low was 70.50 (Jun 25) — very close. Target ~66–67 kg by Aug 22, ~4.5–5 kg still to go in ~6 weeks.
+
+Week 4 (Jul 6–10, 5 days): avg kcal ~2,255 ✅, avg protein ~184g ✅ — wild day-to-day variance (1,330 kcal on Jul 8 vs 3,210 on Jul 10) but weekly averages converged correctly.
+
+**Recurring flags to carry forward:**
+- Fibre consistently 7–17g vs ≥30g target — no beans, oats, or pulses most days
+- K:Na only hits 4:1 on home-cooking days with potatoes; eating out repeatedly blows it
+- Jul 8 only 6.38h sleep — watch for gym fatigue in the next session or two
+- Protein powder: **Basic Supplement Whey Blend Boston Cream Donut** (new tub, started Jul 7 post-WO). C4 Hershey's tub finished Jul 10 morning.
+
+**Where session ended:**
+Mid-day Jul 11. Richard just logged post-WO + lunch (tuna + 452g potato wedges + lettuce). K:Na already 4.17:1 ✅ from the potato potassium. Fat floor is the critical gap for tonight (only 20g fat so far, need ≥55g total). The user said "continue" at the end of their last food message, suggesting more to add — it's possible they had more to say and the session ended before they could.
 
 **The Hack Log:**
-- Use semicolons not commas in tracker.csv Notes field
-- Jun 23 weight (71.35) was post-few-bites — flagged as noise, not clean fasted
-- Steps undercounted Jun 22 (Fitbit off during walk)
-- Wang sauce "no soy" claim from mum — the product DOES contain soy sauce in ingredients; sodium calculated from label anyway
+- Inca tasting estimated from TripAdvisor à la carte reviews — those may not be the exact tasting courses. Rough ~est only.
+- Jul 9 skewers: 12 × 35g = 420g total (~est). "A lot" confirmed as "closer to 12+" but exact count/cut unknown.
+- Jul 10 steak/ciabatta: assumed 500/250g split from 750g total — not confirmed by user.
 
 **Last successful prompt:**
-"70.50kg fasted. 155.2g greek yogurt, 51.7 frozen blueberries, 1/2 scoop of c4 whey 176.8 banana and 1 boiled egg" → Claude logged breakfast, pulled health sync, gave remaining targets for the day.
+> "after my workout today which i didn't record i had a creatine 5g and a basic supplement full scoop. I had john west springwater tuna 185g and 452g potato wedges with a drizzle of oil, garlic powder and paprika no added salt. 100g iceberg lettuce as well / continue"
