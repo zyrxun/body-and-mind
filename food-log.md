@@ -642,3 +642,50 @@ Steps: 9,994 · Sleep: 8.03 hrs · Sleep score: 78 · Resting HR: 68
 |---|---|---|---|---|---|
 | Post-WO | Basic Supplement Whey Blend Boston Cream, 1 scoop + water | ~120 | ~24 | ~100 | ~150 |
 | Post-WO | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 120g | 96 | 10.6 | 62 | 180 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Basic Supplement Whey Blend Boston Cream, ½ scoop + water | ~60 | ~12 | ~50 | ~75 |
+| Breakfast | Chia seeds, 10g (mixed into yogurt) | ~49 | ~1.7 | ~2 | ~41 |
+| Breakfast | Banana, 149.8g w/ peel (~97g flesh) | ~87 | ~1.1 | ~1 | ~349 |
+| Breakfast | Black coffee ☕ | 5 | 0 | 5 | 115 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Lunch | Steamed beef, 169.6g | ~305 | ~47.5 | ~102 | ~560 |
+| Lunch | Steamed broccoli, 200g | ~70 | ~5.6 | ~66 | ~586 |
+| Lunch | Hainan rice (cooked), 60g | ~102 | ~1.6 | ~120 | ~33 |
+| Lunch | Pizza Hut Hawaiian, 116g | ~302 | ~13.3 | ~638 | ~174 |
+| Dinner | 石锅鸡 (stone pot chicken), 130g ~est | ~195 | ~16.9 | ~715 | ~325 |
+| Dinner | 土豆牛腩 (beef brisket & potato), 100g ~est | ~170 | ~13 | ~650 | ~300 |
+| Dinner | 香辣肚丝 (spicy tripe strips), 40g ~est | ~52 | ~5.6 | ~260 | ~80 |
+| Dinner | 椒盐排条 (salt & pepper pork strips), 30g ~est | ~90 | ~5.4 | ~210 | ~75 |
+| Dinner | White rice (cooked), 100g | ~130 | ~2.7 | ~1 | ~35 |
+
+**Day total: ~1,928 kcal · ~168g protein · ~67.7g fat · ~156g carbs · ~18.75g fibre · ~3,043mg Na ❌ · ~3,181mg K · K:Na ~1.05:1 ❌**
+⚠️ Na way over (pizza lunch + 4 salty Chinese dishes dinner); fibre short ~18.75g; K:Na poor; calories + protein ✅
+Steps: 861 · Sleep: 6.77 hrs · Sleep score: 71 · Resting HR: 67
+
+---
+
+### 2026-07-13 (Mon) — DAY 22 of cut · weigh-in: 72.2 kg ⚠️ water retention carries over · Sleep score: 71
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Post-WO | Basic Supplement Whey Blend Boston Cream, 1 scoop + water | ~120 | ~24 | ~100 | ~150 |
+| Post-WO | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 120g | 96 | 10.6 | 62 | 180 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Basic Supplement Whey Blend Boston Cream, ½ scoop + water | ~60 | ~12 | ~50 | ~75 |
+| Breakfast | Chia seeds, 10g (mixed into yogurt) | ~49 | ~1.7 | ~2 | ~41 |
+| Breakfast | Banana, 149.8g w/ peel (~97g flesh) | ~87 | ~1.1 | ~1 | ~349 |
+| Breakfast | Black coffee ☕ | 5 | 0 | 5 | 115 |
+| Drink | 喜茶 低糖低脂 茉莉浓抹 牛乳茶, ~500ml ~est | ~140 | ~4.5 | ~60 | ~60 |
+| Lunch | Torbay Bakery braised lamb ragu pie, ~200g ~est | ~440 | ~16 | ~900 | ~200 |
+| Lunch | Chicken skewer, ~90g meat ~est | ~160 | ~22 | ~400 | ~250 |
+| Dinner | Mama Kopitian Hanoi chicken rice ~est (rice ~150g + poached chicken ~150g + dipping sauce) | ~480 | ~26 | ~800 | ~350 |
+| Dinner | McDonald's soft serve cone ~est | ~155 | ~3.5 | ~75 | ~180 |
+
+**Day total: ~1,892 kcal · ~128g protein · ~70.3g fat · ~180g carbs · ~10.2g fibre · ~2,520mg Na ❌ · ~2,053mg K · K:Na ~0.81:1 ❌**
+⚠️ Protein short ~128g (42g under target) · Fibre very short ~10.2g · Na 3rd consecutive day over — pie ~900mg + Hanoi rice sauce ~800mg · Added sugar ~22g from soft serve
+Steps: 2,852 · Sleep: 7.03 hrs · Sleep score: 71 · Resting HR: 65
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
