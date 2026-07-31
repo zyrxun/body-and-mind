@@ -689,3 +689,199 @@ Steps: 861 · Sleep: 6.77 hrs · Sleep score: 71 · Resting HR: 67
 ⚠️ Protein short ~128g (42g under target) · Fibre very short ~10.2g · Na 3rd consecutive day over — pie ~900mg + Hanoi rice sauce ~800mg · Added sugar ~22g from soft serve
 Steps: 2,852 · Sleep: 7.03 hrs · Sleep score: 71 · Resting HR: 65
 | Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+
+---
+
+### 2026-07-14 (Tue) — DAY 23 of cut · weigh-in: 72.3 kg ⚠️ water retention (3 consecutive high-Na days) · Sleep score: ?
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 100g | 80 | 8.8 | 52 | 150 |
+| Breakfast | Frozen blueberries, 72g | ~41 | ~0.5 | ~1 | ~55 |
+| Breakfast | Chia seeds, 10g (mixed into yogurt) | ~49 | ~1.7 | ~2 | ~41 |
+| Breakfast | Basic Supplement Whey Blend Boston Cream, ½ scoop + water | ~60 | ~12 | ~50 | ~75 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Banana, 152.3g w/ peel (~99g flesh) | ~88 | ~1.1 | ~1 | ~354 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Black coffee ☕ | 5 | 0 | 5 | 115 |
+
+---
+
+### 2026-07-22 (Wed) — DAY 31 of cut · weigh-in: 71.9 kg · Sleep score: ? · Back from Fiji (Jul 15–21 food untracked)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 125g | 100 | 11 | 65 | 188 |
+| Breakfast | Coffee double shot + whole milk to 10oz (~235ml milk) | ~158 | ~8 | ~103 | ~457 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Basic Supplement Whey Blend Boston Cream, ½ scoop + water | ~60 | ~12 | ~50 | ~75 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Banana, 145g w/ peel (~94g flesh) | ~84 | ~1 | ~1 | ~337 |
+| Lunch | Steamed white fish, 218.2g | ~218 | ~43.6 | ~142 | ~829 |
+| Lunch | White rice (cooked), 124.3g | ~162 | ~3.4 | ~1 | ~44 |
+| Lunch | Egg + tomato, 130.8g (~60% egg / 40% tomato ~est) | ~122 | ~10.4 | ~104 | ~203 |
+| Dinner | Basic Supplement Whey Blend Boston Cream, 1 scoop + ~200ml whole milk | ~250 | ~30.8 | ~188 | ~454 |
+| Dinner | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Dinner | One plate potato + meat + rice + vegetables ~est | ~505 | ~28 | ~200 | ~771 |
+
+**Day total: ~1,688 kcal · ~149g protein · ~47.4g fat · ~166g carbs · ~9.2g fibre · ~854mg Na ✅ · ~3,396mg K · K:Na ~3.98:1**
+⚠️ Protein ~21g under 170g target · Fat ~7.6g under 55g floor · Fibre very short ~9.2g vs ≥30g · Calories ~262 under 1,950 (acceptable cut deficit)
+
+---
+
+### 2026-07-23 (Wed) — DAY 32 of cut · weigh-in: 71.35 kg ✅ water clearing · Sleep score: 85 ✅ · RHR: 63 ✅
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 125g | 100 | 11 | 65 | 188 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Basic Supplement Whey Blend Boston Cream, ½ scoop + water | ~60 | ~12 | ~50 | ~75 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Banana, 118.7g w/ peel (~77g flesh) | ~69 | ~0.85 | ~1 | ~276 |
+
+| Breakfast | Chia seeds, 15g (mixed into yogurt) | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | Flat white / latte, double shot to 10oz w/ milk | ~120 | ~7 | ~80 | ~290 |
+| Lunch | Pita Pit Petita — white bread, grilled steak, rice, cheddar, cooked mushrooms, mixed salad, garlic aioli, salt (~est) | ~680 | ~38 | ~1200 | ~800 |
+| Dinner | Chicken wings, 241.7g bone-in unsalted cooked (70.4g bones after → 171.3g edible) | ~497 | ~46.1 | ~161 | ~360 |
+| Dinner | Broccoli, 91.3g steamed | ~32 | ~2.2 | ~37 | ~267 |
+| Dinner | Sweet potato, 77.1g cooked | ~66 | ~1.2 | ~21 | ~260 |
+| Dinner | Wheat rice, 33.6g cooked | ~44 | ~0.9 | ~2 | ~27 |
+| Dinner | Egg and shrimp, 58.5g (~est) | ~100 | ~10 | ~150 | ~95 |
+| Evening | Basic Supplement Whey Blend Boston Cream, 1 scoop + water | ~120 | ~25 | ~100 | ~150 |
+| Evening | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+---
+
+### 2026-07-24 (Thu) — DAY 33 of cut · weigh-in: 70.95 kg ↓ dropping well
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 100g | 80 | 8.8 | 52 | 150 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | Banana, 117g w/ peel (~76g flesh) | ~68 | ~0.84 | ~1 | ~272 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | C4 Hershey's whey, 1.5 scoops + water | ~195 | ~37.5 | ~165 | ~225 |
+| Breakfast | Musashi creatine, 10g | 0 | 0 | 0 | 0 |
+| Breakfast | Latte, 8oz | ~110 | ~6 | ~75 | ~280 |
+| Lunch | Mum's curry mince (beef, potato, onion, mushroom), 250g (~est) | ~380 | ~26 | ~400 | ~700 |
+| Lunch | Raw lettuce (untracked) | ~5 | ~0.3 | ~2 | ~30 |
+| Dinner | Mum's curry mince (beef, potato, onion, mushroom), 300g (~est) | ~456 | ~31.2 | ~480 | ~840 |
+| Dinner | Raw lettuce, more (~est) | ~10 | ~0.5 | ~3 | ~50 |
+
+**Day total: ~1,473 kcal · ~120g protein · ~67g fat · ~99g carbs · ~13g fibre · ~1,247mg Na · ~2,665mg K · K:Na ~2.1:1**
+---
+
+### 2026-07-25 (Fri) — DAY 34 of cut · weigh-in: 71.74 kg (food/water weight ↑)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | WF Food glutinous rice (half serving, 90g) | ~168 | ~4.9 | ~287 | ~80 |
+| Breakfast | Grilled banana, 84.8g flesh | ~75 | ~0.93 | ~1 | ~304 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 140g | ~112 | ~12.3 | ~73 | ~210 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | C4 Hershey's whey, ½ scoop + water | ~65 | ~12.5 | ~55 | ~75 |
+| Breakfast | Musashi creatine, 10g | 0 | 0 | 0 | 0 |
+| Lunch | Zeta Greek Kitchen Athena wrap, no aioli (~est) — grilled chicken, chips, caramelised onion, parsley, pita | ~680 | ~46 | ~580 | ~800 |
+| Dinner | Lamb slices (hot pot, boiled in water), 260g raw (~est) | ~650 | ~44.2 | ~182 | ~806 |
+| Dinner | Mixed hot pot vegetables — mushrooms, bok choy, cabbage etc. (~est) | ~70 | ~4 | ~30 | ~450 |
+
+**Day total: ~1,994 kcal · ~134g protein · ~93g fat · ~154g carbs · ~14g fibre · ~1,279mg Na · ~2,873mg K · K:Na ~2.25:1**
+
+---
+
+### 2026-07-26 (Sat) — DAY 35 of cut · weigh-in: 71.45 kg ↓ · Sleep score: 72
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 125g | ~100 | ~11 | ~65 | ~188 |
+| Breakfast | Frozen blueberries, 100g | ~57 | ~0.7 | ~1 | ~77 |
+| Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | C4 Hershey's whey, ½ scoop + water | ~65 | ~12.5 | ~55 | ~75 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Banana, 148.6g w/ peel (~96.6g flesh) | ~86 | ~1.06 | ~1 | ~346 |
+| Breakfast | Latte, 8oz w/ milk | ~110 | ~6 | ~75 | ~280 |
+---
+
+### 2026-07-27 (Sun) — DAY 36 of cut · weigh-in: 71.9 kg (noodle/carb water ↑) · Sleep score: 82 ✅
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 125g | ~100 | ~11 | ~65 | ~188 |
+| Breakfast | Frozen blueberries, 100g | ~57 | ~0.7 | ~1 | ~77 |
+| Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | C4 Hershey's whey, 1 full scoop + water | ~130 | ~25 | ~110 | ~150 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Banana, 180g w/ peel (~117g flesh) | ~104 | ~1.29 | ~1 | ~419 |
+| Lunch | Juicy Grill lamb döner wrap, no sauce (~est) — flatbread, lamb döner ~150g, salad | ~555 | ~32.3 | ~640 | ~380 |
+| Lunch | Chips, small side (~est) | ~280 | ~3.2 | ~220 | ~370 |
+| Lunch | Diet Coke | 0 | 0 | ~45 | 0 |
+| Dinner | Boiled eggs ×3 (150g) | ~216 | ~18.9 | ~195 | ~207 |
+| Dinner | Lean beef, 80g steamed (plain) | ~174 | ~20.9 | ~60 | ~254 |
+| Dinner | Broccoli, 100g steamed (plain) | ~35 | ~2.4 | ~41 | ~293 |
+
+**Day total: ~1,770 kcal · ~124.3 g protein · ~16.1 g fibre · ~1,424 mg Na · ~2,568 mg K · K:Na ~1.80:1** _(protein 124.3g ↓ short; Na 1,424mg slightly over from chips; fibre 16.1g ↓ low; half chicken wrap eaten next day)_
+
+---
+
+### 2026-07-28 (Mon) — DAY 37 of cut · weigh-in: 71.5 kg · Sleep score: 82 ✅
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 150g | ~120 | ~13.2 | ~78 | ~225 |
+| Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | C4 Hershey's whey, 1 full scoop + water | ~130 | ~25 | ~110 | ~150 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Banana, 115g w/ peel (~75g flesh) | ~67 | ~0.8 | ~1 | ~268 |
+| Breakfast | Boiled egg ×1 | ~72 | ~6.3 | ~65 | ~65 |
+| Breakfast | Strawberries ×2 (~25g) | ~8 | ~0.2 | ~1 | ~46 |
+
+| Lunch | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Lunch | Latte 10oz (whole milk ~220ml + double shot) | ~139 | ~7.2 | ~107 | ~457 |
+
+| Pre-WO | Pam's plain rice cakes ×3 (~27g) | ~105 | ~1.8 | ~75 | ~57 |
+| Pre-WO | Honey, 1 tsp (~7g) | ~21 | 0 | ~1 | ~11 |
+| Lunch | Juicy Grill half chicken wrap (no sauce, ~est) — flatbread ~40g, grilled chicken ~75g, salad | ~253 | ~29.2 | ~225 | ~330 |
+
+| Post-WO | C4 Hershey's whey, 1 scoop + water | ~130 | ~25 | ~110 | ~150 |
+| Post-WO | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+
+**So far: ~1,152 kcal · ~111.5 g protein · ~8.3 g fibre · ~783 mg Na · ~1,969 mg K · K:Na ~2.5:1**
+
+_Dinner + evening not logged — day left incomplete._
+
+---
+
+### 2026-07-29 (Tue) — DAY 38 of cut
+
+_Food untracked (no data given) — 11,310 steps, 8.25h sleep, RHR 64 synced from Fitbit only._
+
+---
+
+### 2026-07-30 (Wed) — DAY 39 of cut
+
+_Food untracked (no data given) — 23,321 steps (highest non-Fiji day of the cut), 6.63h sleep (short), RHR 63 synced from Fitbit only._
+
+---
+
+### 2026-07-31 (Thu) — DAY 40 of cut
+
+_Food untracked (no data given) — 1,784 steps, no sleep/RHR synced._
+
+---
+
+### 2026-08-01 (Fri) — DAY 41 of cut
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, ~125g (~est, weight not given) | ~100 | ~11 | ~65 | ~188 |
+| Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
+| Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
+| Breakfast | Scrambled eggs ×2 (~100g, ~est — assumed no added butter/oil/milk) | ~144 | ~12.6 | ~142 | ~140 |
+| Breakfast | Banana, 100g w/ peel (~65g flesh, ~est ratio) | ~58 | ~0.7 | ~1 | ~233 |
+
+**So far: ~404 kcal · ~27.1 g protein · ~16.5 g fat (~est) · ~33 g carbs (~est) · ~8.1 g fibre (~est) · ~214 mg Na · ~644 mg K · K:Na ~3.0:1**
