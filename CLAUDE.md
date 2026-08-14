@@ -17,11 +17,11 @@ scheduled weekly agent also reads it to know what to do.
 
 ## Daily targets — full macro + micro dashboard
 
-| Macro | Recomp (now, ~2,550) | Cut (from Jun 22, ~2,200) |
+| Macro | Recomp (now, ~2,550) | Cut (~1,900–1,950 since Wk4 rollup 2026-07-12, was ~2,200) |
 |---|---|---|
 | Protein | 150–165 g | 170–185 g |
 | Fat | 70–90 g (floor 60) | 60–75 g (floor 55) |
-| Carbs | ~280–310 g | ~210–240 g |
+| Carbs | ~280–310 g | ~150–190 g |
 | Fibre | ≥30 g | ≥30 g |
 | Added sugar | <40 g | <30 g |
 
@@ -38,6 +38,32 @@ scheduled weekly agent also reads it to know what to do.
   **stable glucose** (complex carbs + protein/fat, cap added sugar — prevents post-meal focus dip) ·
   caffeine before 2pm + hydration. Most already covered by his eggs/salmon/blueberries/coffee/beef —
   flag DHA on non-fish days. When recommending food, factor cognition too.
+## Hormone & deficiency watch (diet-inferred, no lab data — added 2026-08-15)
+No blood/hormone panel exists; everything here is inferred from intake/training/sleep patterns,
+never a diagnosis. Biggest risk factors present in the log: sustained deficit + high training +
+a sub-10% BF target (classic low-T/RED-S setup for a lean 19M), fat intake often under the 55g
+floor, chronic fibre/veg shortfall (zinc/magnesium proxy), no fatty-fish routine (omega-3 gap),
+NZ winter = low sun → low vit D, and inconsistent sleep (T release is sleep-dependent — the
+single biggest lever, bigger than any micro below). Thyroid: a prolonged deficit can itself
+suppress T3, and the low-sodium strategy (avoiding iodized salt/processed food) may also be
+cutting iodine — watch for cold intolerance/fatigue/hair thinning beyond normal cut fatigue.
+- **Current supplement stack:** creatine 5g/day, whey (1–2 scoops/day), occasional vit C.
+- **Added 2026-08-15 (foundational repletion, NOT hormone boosters):** vitamin D3 1,000–2,000
+  IU/day (biggest single gap — winter + sparse dietary sources + direct testosterone-receptor
+  link), magnesium glycinate/citrate ~300–400mg before bed (sleep + the cramping already flagged
+  in lift notes + modest T support when deficient), zinc 15–25mg/day (take away from
+  dairy/calcium — competes for absorption), fish oil/omega-3 ~1–2g EPA+DHA/day (already a food
+  target that's rarely hit — also covers the cognition goal above). Log these like any other
+  item once Richard confirms he's actually taking them.
+- **Explicitly NOT recommending:** DHEA, "test boosters," or any other hormone-adjacent
+  product — unproven/unregulated and inappropriate to add speculatively for a 19M; foundational
+  nutrient repletion first, always.
+- **Real answer needs labs, not inference.** If Richard wants ground truth: a basic panel
+  (total/free T, TSH + free T4, 25-OH vit D, ferritin) — ideally drawn **after Aug 22**, since
+  mid-cut numbers read artificially low and aren't his baseline.
+- **Flag in rollups:** libido/mood/cold-intolerance/energy crash (already a guardrail below) is
+  the real-world signal in the absence of labs — weight it far more than any single micro number.
+
 - **Cardio:** 12k+ steps/day · 2–3 zone-2 walks + 1–2 VO2 interval sessions/wk · **keep lifting heavy**
 - **Diet break:** ~5 days at maintenance around late July
 - **Back off (eat more / rest) if:** strength tanking, sleep/mood/energy/libido crash, or always cold

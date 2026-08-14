@@ -44,4 +44,18 @@ Date,Phase,Weight_kg,Avg_7day_kg,Calories,Protein_g,Fiber_g,Sodium_mg,Potassium_
 2026-07-29,Cut,,,,,,,,,8.25,,64,11310,,Day 38 cut; food/weigh-in untracked (no data given)
 2026-07-30,Cut,,,,,,,,,6.63,,63,23321,,Day 39 cut; food/weigh-in untracked (no data given); highest non-Fiji step day of the cut; sleep only 6.63h
 2026-07-31,Cut,,,,,,,,,,,,1784,,Day 40 cut; food/weigh-in untracked (no data given)
-2026-08-01,Cut,,,,,,,,,,,,,,Day 41 cut; breakfast logged (below); weigh-in/coffee not yet reported
+2026-08-01,Cut,72.2,,1577,117.1,16.5,1456,2965,2.04,,,,3952,,Day 41 cut; 72.2 water/carb retention vs 71.5 Jul 28; lunch rice+beef/egg/onion+broccoli + coconut water + cashews; dinner rice+prawns+kumera+小炒鸡+pork; protein short 117g; fibre short 16.5g; Na over 1456mg (小炒鸡 sauce); sleep/RHR missing (gh_sync auth expired ~Jul 31); coffee not reported
+2026-08-02,Cut,71.90,,,,,,,,,,,96,,Day 42 cut; 71.90 ↓ vs 72.2 Aug 1; breakfast logged  day in progress; sleep score/coffee not yet reported
+2026-08-03,Cut,72.4,,3557,232.3,14.4,2612,3917,1.50,7.8,,64,888,,Day 43 cut; 72.4 ↑ vs 71.90 Aug 2 (expected — Aug 2 was high-Na high-fat day  water not fat); big cheat dinner (~1kg fried eggs/steak/rice + 2 custard donuts  ~est); calories +1 600 over  fat 167.5g (2x cap)  Na 2 612mg (2x cap); protein 232g excellent; one-day event not a trend
+2026-08-04,Cut,72.45,,,,,,,,,,,,,Day 44 cut; 72.45 ~flat vs 72.4 Aug 3 — likely still carrying water from yesterday's big Na/carb day; breakfast logged  day in progress
+2026-08-05,Cut,,,,,,,,,,,,3362,,Day 45 cut; food/weigh-in untracked (no data given)
+2026-08-06,Cut,,,,,,,,,,,,12077,,Day 46 cut; food/weigh-in untracked (no data given)
+2026-08-07,Cut,,,,,,,,,,,,4087,,Day 47 cut; food/weigh-in untracked (no data given)
+2026-08-08,Cut,,,,,,,,,,,,669,,Day 48 cut; no weigh-in given; breakfast logged  day in progress
+2026-08-09,Cut,,,,,,,,,6.97,,65,20399,,Day 49 cut; food/weigh-in untracked (no data given)
+2026-08-10,Cut,,,,,,,,,5.95,,66,24163,,Day 50 cut; food/weigh-in untracked (no data given)
+2026-08-11,Cut,,,,,,,,,7.02,,65,14316,,Day 51 cut; food/weigh-in untracked (no data given)
+2026-08-12,Cut,,,,,,,,,8.92,,65,15294,,Day 52 cut; food/weigh-in untracked (no data given)
+2026-08-13,Cut,,,,,,,,,8.2,,65,4301,,Day 53 cut; food/weigh-in untracked (no data given)
+2026-08-14,Cut,,,,,,,,,8.48,,64,1033,,Day 54 cut; food/weigh-in untracked (no data given)
+2026-08-15,Cut,70.85,,,,,,,,,,,,,Day 55 cut; 70.85kg fasted-ish (reported first thing) vs 72.45 Aug 4 (last recorded) after an 11-day untracked gap (Aug 5-14  activity-only); breakfast logged  day in progress

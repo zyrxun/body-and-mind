@@ -466,6 +466,19 @@
 **Key ingredients:** (OR 23 SERVINGS) Mix together thoroughly to make sure the turkey meat gets all the · 900g (32 oz) lean ground turkey or seasonings. · beef, raw 2. Using an ice cream scoop, portion out the meatball mixture as · desired. Form the balls in your hands by rolling them back and · 160g Panko breadcrumbs · forth. Place them on a baking sheet tray that has been coated with · 960 ml beef broth · cooking spray.
 
 
+### Lentil-Boosted Lean Shepherd's Pie (Custom — cut-friendly)
+*Custom recipe, not from the book · 4 servings · high-protein · high-fiber · low-cal · low-sodium · gluten-free*
+
+| kcal | Protein | Carbs | Fat | Fibre |
+|------|---------|-------|-----|-------|
+| 446 | 40g | 52g | 10g | 10g |
+
+**Key ingredients:** 500g extra-lean (5% fat) beef mince · 150g cooked brown/green lentils (or 1 can, drained) · 1 onion, diced · 2 carrots, diced · 100g frozen peas · 2 cloves garlic, minced · 2 tbsp no-salt-added tomato paste · 240ml low-sodium/no-salt-added beef stock · 1 tsp Worcestershire sauce · fresh thyme + black pepper (no added salt) · 700g potato, skin-on, boiled · 100g low-fat Greek yogurt · 50ml skim milk · 14g (1 tbsp) unsalted butter
+
+**Method:** Brown the mince in a dry pan (lean enough that it doesn't need oil). Add onion, carrot, garlic — cook until soft. Stir in lentils, peas, tomato paste, stock, Worcestershire, thyme, pepper. Simmer ~15 min until thickened. Meanwhile boil the potatoes until fork-tender, drain, and mash with the yogurt, milk, and butter instead of cream/extra butter. Spread the mince mixture in a baking dish, top with the mash, rough up the surface with a fork. Bake at 200°C/400°F for 20-25 min until golden.
+
+**Why it fits the cut:** half the meat is swapped for lentils (fibre + extra protein without extra fat), no-salt-added stock/tomato paste keeps sodium to ~191mg/serving vs. ~800-1,200mg in a traditional version, and Greek yogurt replaces cream in the mash. K:Na ~8.9:1 per serving — this one meal alone would fix a day's ratio. Two servings (if hungrier): ~892 kcal / 79g protein / 20g fat / 104g carb / 21g fibre / 382mg Na.
+
 ## Dinner – Pizza
 
 ### Cauliflower Pizza VEGETARIAN

@@ -27,15 +27,15 @@ _Started: 2026-06-17 · **ACTIVE PHASE: CUT (from Mon Jun 22) → single-digit B
 
 | | Target |
 |---|---|
-| **Calories** | **~2,200** (calibrate weekly to the loss rate) |
+| **Calories** | **~1,900–1,950** (adjusted down from 2,200 at Wk4 rollup, 2026-07-12 — calibrate weekly) |
 | **Protein** | **170–185 g** (the muscle-retention lever — highest priority) |
 | **Fat (floor)** | ≥55 g |
-| **Carbs** | remainder (~210–240 g) — concentrate around training |
+| **Carbs** | remainder (~150–190 g) — concentrate around training |
 | **Fibre** | ≥30 g · **Added sugar** <30 g |
 | **K:Na** | 4:1 (sodium ≤1,300 mg · potassium ~4,700–5,500 mg) |
 | **Scale should** | drift down **~0.65–0.7 kg/week** (hard cap 1% BW/wk) |
 
-> **The deficit is affordable because activity is HIGH** (17–25k steps + lifting). Eating ~2,200
+> **The deficit is affordable because activity is HIGH** (17–25k steps + lifting). Eating ~1,900–1,950
 > still leaves a big deficit. **Calibrate from the weekly trend:** if losing >1% BW/wk → eat +150–200;
 > if flat for 2 wks → trim ~150. Re-dial every Sunday rollup.
 
@@ -45,10 +45,10 @@ _Started: 2026-06-17 · **ACTIVE PHASE: CUT (from Mon Jun 22) → single-digit B
 
 **Goal:** ~71.1 → **~66–67 kg at single-digit BF** (~5 kg fat off an already-lean base).
 **Rate:** ~0.65–0.7 kg/week. **Why it's not a crash:** maintenance is high (~2,700–2,900 from
-17–25k steps + lifting), so eating ~2,200 is a real deficit driven by *activity*, not starvation.
+17–25k steps + lifting), so eating ~1,900–1,950 is a real deficit driven by *activity*, not starvation.
 
 ### The 4 levers
-1. **Calories ~2,200** — calibrated weekly from the actual loss rate (don't chase a perfect daily number).
+1. **Calories ~1,900–1,950** — calibrated weekly from the actual loss rate (don't chase a perfect daily number).
 2. **Protein 170–185 g** — the #1 muscle-retention lever; aim ~40–50 g per meal across 4 meals.
    Sources: eggs, chicken, lean pork, fish, tofu, edamame, Greek yogurt, milk, whey, lean beef.
 3. **Lift HEAVY** — keep the working weights in the lift sheet holding/climbing = muscle is safe.
@@ -179,6 +179,8 @@ for 2+ weeks → eat ~150–200 kcal more.
 | 1 | 2026-06-21 | Recomp→**Cut** | **71.38 kg** (fasted) | ~2,430 (2 days, atypical) | | | sleep 7.4–8.6h, RHR 66–67 | Cut starts Mon Jun 22. See rollup note below. |
 | 2 | 2026-06-28 | **Cut Wk 1** | **71.18 kg** (6/7 days; 3 sick) | ~1,835 (4 of 7 days; 3 sick/untracked) | — | Squat 102.5×8, Bench 75×4 (Jun 24 only — sick rest of week) | sleep avg 8.1h (range 5.6–9.8h); RHR 67–69 | 3 sick days (Jun 26–28) inflate scale — pre-sick drop 71.10→70.50 was on pace. No calorie adjustment. See note. |
 | 3 | 2026-07-05 | **Cut Wk 2** | **71.73 kg** (7/7 days) | ~2,227 (7/7 days) | — | not pulled this week | sleep avg ~8h; RHR 67–68 | Avg up vs Wk2 (+0.55 kg) but context: Wk2 avg was illness-depressed + this week had 2× high-sodium days (Jul 2–3, 72.1 kg = water). Clean readings 71.15–71.55. Calories essentially on target (2,227 vs 2,200). Protein avg 161g/day — short of 170g target, main flag. K:Na avg 1.35:1 — eating out (KFC, pho, Chinese) keeps blowing Na. **No calorie adjustment** — weight signal noisy; need one more clean week. |
+| 4 | 2026-07-12 | **Cut Wk 3** | **71.43 kg** | ~2,128 | — | Squat 105×8, DL 85×5 (+2.5kg) | sleep avg ~8h | −0.30 kg vs Wk3. Fasted lows 70.65 (Jul 10) + 70.90 (Jul 9). Calorie target → **1,900–1,950**. Protein avg 174g ✅. Time alarm raised. |
+| 5–6 | 2026-07-26 | **Cut Wk 5–6** | **71.48 kg** (5 pts post-Fiji) | ~1,804 (4 days) | — | not checked | sleep 72–85 range | Fiji week untracked. Post-Fiji flat vs Wk4 (+0.05 kg). **⚠️ Protein avg 142g/day — 4 days consecutive short. Fibre avg 13.4g — chronic.** 27 days to deadline. Target ~68 kg realistic. No cal adjustment — fix protein. |
 
 > **Maintenance check (updated weekly from food-log.md):** avg daily kcal vs avg weight change
 > tells us your real maintenance. Flat weight at X kcal → X is maintenance; weight down at X → real
@@ -200,4 +202,15 @@ for 2+ weeks → eat ~150–200 kcal more.
 - _**2026-06-28 — CUT WEEK 1 ROLLUP:** 7-day avg weight 71.18 kg (vs pre-cut 71.80 kg avg) = **−0.62 kg** — right on the 0.65–0.7/wk target. Pre-sick clean readings (Jun 22–25: 71.10→70.75→70.50) showed the cut working perfectly; sick days (Jun 26–28) inflated the scale with water/cortisol retention — not fat. Food only logged 4/7 days; avg 1,835 kcal on those days (target 2,200) — sick days pulled it down, not representative. **No calorie adjustment** — need a clean week of data first. Protein short most days (only Jun 24 hit 178g ✅; other days 71–149g); fix this when healthy. Fibre short all week (max 29g vs ≥30g target). K:Na never hit 4:1 (best 2.74 from potatoes on Day 1). Sleep strong before illness (8–9h); crashed to 5.6h / score 49 on Jun 28. RHR crept to 69 on Jun 27 (immune response), back to 67 Jun 28. **One training session** (Jun 24): Squat 102.5×8 ✅ (baseline was 100×8 — up), Bench 75×4 (held baseline). **Action items for Week 2:** (1) recover fully before returning to gym; (2) hit 170g+ protein on healthy days; (3) hit 2,200 kcal — eating under isn't better when losing correctly; (4) use potato wedges + banana every day for K:Na._
 - _**2026-07-05 — CUT WEEK 3 ROLLUP:** 7-day avg weight 71.73 kg (vs 71.18 Wk2 = +0.55 kg nominally). Context: Wk2 avg was illness-deflated; this week included 2× high-sodium days (Jul 2–3) showing 72.10 on scale = water retention, not fat. Clean fasted readings this week: 71.15 (Jun 30), 71.55 (Jun 29 + Jul 5) — real fat loss is continuing. **Avg daily calories 2,227 kcal — essentially on target ✅.** Avg protein 161g/day — SHORT of 170–185g target; biggest flag this week. Avg K:Na 1.35:1 — eating out (KFC, pho, Korean BBQ, Chinese) repeatedly blows the sodium budget; home cooking days were the only clean K:Na days. **No calorie adjustment** — spend one clean week of home cooking to get a true maintenance signal. Gym: Jul 4 confirmed (6k run + lifting); one session logged. **Action items Wk3:** (1) hit 170g+ protein daily — prioritise chicken thigh, tuna, eggs, Greek yogurt; (2) limit eating out to 1×/week to control sodium; (3) wedges + banana every day for K; (4) keep calories 2,100–2,200, don't go under._
 - _**2026-07-12 — CUT WEEK 4 ROLLUP:** 7-day avg weight **71.43 kg** (vs 71.73 Wk3 = **−0.30 kg** on the weekly avg). Rolling avg pace Jul 5→11: **0.44 kg/wk** — below the 0.65–0.7 target. Context: Jul 10–12 water retention from a big sodium dinner (steak+ciabatta+dumplings+soy, 2,675mg Na) inflated the average; true fasted lows were 70.65 (Jul 10 new cut low ✅) and 70.90 (Jul 9). Real fat loss pace is probably closer to 0.5 kg/wk based on fasted lows, but still not fast enough. **Avg daily calories 2,128 kcal** — below the 2,200 target but massive swings (1,330 on Jul 8; 3,210 on Jul 10) — inconsistency is the problem, not the average. **Avg protein 174g/day** (3/6 days hit 170g+) — protein average fine but too many low days (107g Jul 8, 123g Jul 11, 131g Jul 6). **⚠️ TIME ALARM:** 5.9 weeks to Aug 22 (5.1 effective after diet break). From 71.35 rolling avg to 66.5 kg target = 4.85 kg to lose. Pace needed: **0.95 kg/wk** — exceeds the 1% BW cap (~0.71 kg/wk max safe). Best realistic outcome at max safe pace = **~67.5–68 kg by Aug 22**, not 66–67 kg. **Calorie adjustment: DROP to 1,900–1,950 kcal.** Implied maintenance from this week's data is ~2,616 kcal; maint−700 = 1,916 kcal → round to 1,950 as target. Consider shortening diet break to 3 days if willing. **Gym Week 4:** Day 1 Squat 105×8 @8 ✅ (held from prescribed); Day 2 CGBP 85-87×6 @8 (slightly under 87.5×8 prescribed — explained by shoulder session 2 days prior); Day 3 Deadlift **85×5 ✅ UP +2.5 kg** from 82.5 prescription; Day 4 Tempo Squat 100×4 @8 ✅; Larsen Press 75×6 (vs 77.5×8 prescribed — slightly under). Overall: muscle holding well, deadlift went up. **Action items Wk5:** (1) **1,900–1,950 kcal every day — kill the swings**; (2) hit 170g+ protein daily no exceptions; (3) sort fat floor ≥55g (was 45g Jul 11); (4) add omega-3 daily (salmon, fish oil, or sardines); (5) reassess diet break timing — 3 days not 5 given time pressure._
-- _~Late July — diet break (~3–5 days at maintenance, timing TBD based on Week 5 progress)._
+- _**2026-07-26 — CUT WEEK 5–6 ROLLUP (post-Fiji catch-up):** Fiji week (Jul 13–21) = 9 days untracked food; only activity data (Fitbit). Post-Fiji 7-day avg weight **71.48 kg** (5 data pts: Jul 22–26; Jul 20–21 no data) vs **71.43 kg** Wk4 avg = effectively **flat** over 2 weeks. Not alarming — Fiji had high activity (16–20k steps most days), so any eating-out calories were likely offset. True fasted lows post-return: 70.95 (Jul 24) — trend still moving. **Avg daily calories 1,804 kcal** (4 complete days Jul 22–25; target 1,900) — running slightly under target; no calorie adjustment needed. **⚠️ PROTEIN CRISIS: avg 142g/day vs 170–185g target** — 4 consecutive days short (149→164→120→134g). Culprits: curry mince (low protein density), glutinous rice breakfast (Jul 25 swapped protein for carbs), Pita Pit (wrap protein moderate). Fix: every breakfast must have ≥1 full scoop whey, not half. **Avg fibre 13.4g/day — chronic shortfall** (target 30g; never hit it post-Fiji). Avg sodium 1,329mg/day — just over limit, driven by Jul 23 Pita Pit (1,935mg). **⚠️ TIME ALARM UPDATE:** 27 days (3.9 wks) to Aug 22. At 71.45 kg now, realistic target still **~68 kg** (max safe loss 2.7 kg at 0.71 kg/wk cap). At recent pace (~0.55 kg/wk) landing ~69.3 kg. Need to tighten up. **No calorie adjustment** — problem is protein consistency, not calories. **Lifts not checked this rollup** (no gym reports post-Fiji). **Action items Wk6:** (1) **Full scoop whey at breakfast every day — non-negotiable**; (2) hit 170g+ protein daily — chicken breast or fish at every lunch + dinner; (3) fix fibre: broccoli 150–200g at dinner every day; (4) keep Na under 1,200mg on home-cook days to bank credit for eating-out days; (5) check lift sheet and report numbers._
+- _~Late July — diet break (~3–5 days at maintenance, timing TBD based on Week 6 progress — now overdue given time pressure; consider skipping or limiting to 2 days)._
+- _**2026-08-15 — Back after a multi-week break; no rollup since Jul 26.** Food/weigh-ins went
+  fully untracked Aug 5–14 (11 days) — activity-only data recovered via gh_sync (steps/sleep/RHR
+  backfilled, food not reconstructable). Last clean weight was 72.45 kg (Aug 4); today's fasted-ish
+  weigh-in is **70.85 kg**, but that gap is too wide to read as real progress — treat it as a fresh
+  starting point, not a trend, until a few clean days rebuild the average. **7 days to the Aug 22
+  deadline** — realistically not enough runway left for the original 66–67 kg single-digit-BF
+  target; reframe the remaining week around consistency (protein, sleep, no more blank days) over
+  hitting a number. Also added a standing **Hormone & deficiency watch** to CLAUDE.md today (diet-
+  inferred only, no labs) — see that file for the reasoning and the 4 new foundational supplements
+  proposed (vit D3, magnesium, zinc, fish oil)._

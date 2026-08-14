@@ -874,14 +874,176 @@ _Food untracked (no data given) — 1,784 steps, no sleep/RHR synced._
 
 ---
 
-### 2026-08-01 (Fri) — DAY 41 of cut
+### 2026-08-02 (Sun) — DAY 42 of cut · weigh-in: 71.90 kg
 
 | Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
 |---|---|---|---|---|---|
-| Breakfast | The Collective More-Than-Protein Greek yogurt, ~125g (~est, weight not given) | ~100 | ~11 | ~65 | ~188 |
+| Breakfast | The Collective More-Than-Protein yogurt, 100g | 80 | 8.8 | 52 | 150 |
+| Breakfast | Frozen blueberries, 60g | ~35 | ~0.5 | ~1 | ~47 |
+| Breakfast | C4 Hershey's whey, 1 scoop (36g) | 130 | 25 | 110 | 150 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Scrambled egg ×1 (~50g, ~est) | ~72 | ~6.3 | ~71 | ~70 |
+| Breakfast | Chia seeds, 10g | ~49 | ~1.6 | ~3 | ~29 |
+
+**So far: ~366 kcal · ~42.2 g protein · ~10 g fat (~est) · ~18.6 g carbs (~est) · ~5.3 g fibre (~est) · ~237 mg Na · ~446 mg K · K:Na ~1.88:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Lunch | Steak and pepper pie, Dairy Flat Bakery, 1 single-serve (~200g, ~est — no published label, typical NZ bakery pie) | ~520 | ~19 | ~950 | ~230 |
+
+**So far (after lunch): ~886 kcal · ~61.2 g protein · ~40 g fat (~est) · ~60.6 g carbs (~est) · ~6.8 g fibre (~est) · ~1,187 mg Na · ~676 mg K · K:Na ~0.57:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Snack | Loaded steak sandwich, homemade (@kaithomps IG recipe — ciabatta, havarti, flank steak, butter-balsamic-Worcestershire caramelized onions, bacon-wrapped asparagus, parmesan, mayo-dijon-hot sauce spread), 1 sandwich (~est, no label — reconstructed from ingredient list, ±25%) | ~1,030 | ~63 | ~1,970 | ~960 |
+| Snack | Garlic parmesan steak croquette, 1 piece (~90g, ~est — recipe not published, generic breaded/fried croquette estimate) | ~220 | ~12 | ~380 | ~120 |
+| Snack | French toast, Aroma Studio, half serving (~est — generic cafe French toast w/ syrup/butter) | ~250 | ~6 | ~225 | ~100 |
+| Snack | 双皮奶 (double skin milk), half serving (~90g, ~est — milk + egg white + sugar, steamed Cantonese dessert) | ~81 | ~3.6 | ~44 | ~120 |
+
+**So far (after snacks): ~2,467 kcal · ~145.8 g protein · ~138.4 g fat (~est) · ~179.6 g carbs (~est) · ~9.8 g fibre (~est) · ~3,806 mg Na · ~1,976 mg K · K:Na ~0.52:1**
+
+---
+
+### 2026-08-01 (Fri) — DAY 41 of cut · weigh-in: 72.2 kg
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 100g | 80 | 8.8 | 52 | 150 |
 | Breakfast | Chia seeds, 15g | ~73 | ~2.4 | ~5 | ~44 |
 | Breakfast | Frozen blueberries, 50g | ~29 | ~0.4 | ~1 | ~39 |
 | Breakfast | Scrambled eggs ×2 (~100g, ~est — assumed no added butter/oil/milk) | ~144 | ~12.6 | ~142 | ~140 |
 | Breakfast | Banana, 100g w/ peel (~65g flesh, ~est ratio) | ~58 | ~0.7 | ~1 | ~233 |
 
-**So far: ~404 kcal · ~27.1 g protein · ~16.5 g fat (~est) · ~33 g carbs (~est) · ~8.1 g fibre (~est) · ~214 mg Na · ~644 mg K · K:Na ~3.0:1**
+**So far: ~384 kcal · ~24.9 g protein · ~16.1 g fat (~est) · ~31 g carbs (~est) · ~8.1 g fibre (~est) · ~201 mg Na · ~606 mg K · K:Na ~3.0:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Lunch | Hanoi chicken rice, 115g cooked | ~150 | ~3.1 | ~115 | ~46 |
+| Lunch | Beef + egg + onion stir-fry, 156g total (~est — mostly beef, partial egg, light onion, soy-seasoned) | ~330 | ~33 | ~430 | ~510 |
+| Lunch | Broccoli, 126g steamed | ~43 | ~3.5 | ~38 | ~398 |
+| Drink | UFC Refresh 100% Coconut Water, 1 cup (~250ml) | 60 | 0 | 50 | 550 |
+| Snack | Coles Chilli & Maple Cashews, 16g | ~86 | ~2.4 | ~12 | ~78 |
+
+**So far (after lunch + coconut water + cashew snack): ~1,053 kcal · ~66.9 g protein · ~41.1 g fat (~est) · ~96.5 g carbs (~est) · ~12.9 g fibre (~est) · ~846 mg Na · ~2,188 mg K · K:Na ~2.59:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Dinner | Hanoi chicken rice, 142.4g cooked | ~185 | ~3.8 | ~142 | ~57 |
+| Dinner | Prawns, 103.7g (~est — assumed plain steamed/boiled, no added salt) | ~103 | ~24.9 | ~115 | ~269 |
+| Dinner | Kumera (sweet potato), 66g cooked | ~50 | ~0.9 | ~18 | ~152 |
+| Dinner | 小炒鸡 chicken stir-fry, 63.7g (~est — Hunan-style, soy/chilli-seasoned) | ~115 | ~12.7 | ~319 | ~191 |
+| Dinner | Pork, 29.3g (~est — plain cooked) | ~71 | ~7.9 | ~16 | ~108 |
+
+**Day total: ~1,577 kcal · ~117.1 g protein · ~50.2 g fat (~est) · ~151.3 g carbs (~est) · ~16.5 g fibre (~est) · ~1,456 mg Na · ~2,965 mg K · K:Na ~2.04:1**
+
+---
+
+### 2026-08-04 (Tue) — DAY 44 of cut · weigh-in: 72.45 kg (~flat vs 72.4 Aug 3)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 100g | 80 | 8.8 | 52 | 150 |
+| Breakfast | Frozen blueberries, 50g | 28 | 0.4 | 1 | 39 |
+| Breakfast | Chia seeds, 6g | 29 | 1.0 | 2 | 17 |
+| Breakfast | C4 Hershey's whey, ½ scoop (18g) | 65 | 12.5 | 55 | 75 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Drink | UFC Refresh 100% Coconut Water, ½ cup (~125ml) | 30 | 0 | 25 | 275 |
+
+**So far: ~232 kcal · ~22.7 g protein · ~4.0 g fat (~est) · ~26 g carbs (~est) · ~3.2 g fibre (~est) · ~135 mg Na · ~556 mg K · K:Na ~4.12:1**
+
+_Lunch/dinner not logged — day left incomplete._
+
+---
+
+### 2026-08-05 to 2026-08-07 — DAYS 45–47 of cut
+
+_Food/weigh-in untracked (no data given). Steps only: Aug 5 = 3,362 · Aug 6 = 12,077 · Aug 7 = 4,087._
+
+---
+
+### 2026-08-08 (Sat) — DAY 48 of cut · weigh-in: not given
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 100g | 80 | 8.8 | 52 | 150 |
+| Breakfast | Frozen blueberries, 50g | 28 | 0.4 | 1 | 39 |
+| Breakfast | Chia seeds, 10g | 49 | 1.6 | 3 | 29 |
+| Breakfast | Rice cakes (lightly salted) ×2 | 70 | 1.4 | 58 | 22 |
+| Breakfast | Honey drizzle, 1 tsp (7g) | 21 | 0 | 0 | 11 |
+| Breakfast | C4 Hershey's whey, 1 scoop (36g) | 130 | 25 | 110 | 150 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+
+**So far: ~378 kcal · ~37.2 g protein · ~5.9 g fat (~est) · ~43 g carbs (~est) · ~5.2 g fibre (~est) · ~224 mg Na · ~401 mg K · K:Na ~1.79:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Lunch | Mum's curry mince (beef, potato, onion, mushroom), 250g (~est) | ~380 | ~26 | ~400 | ~700 |
+| Lunch | Rice, cooked, 100g | 130 | 2.7 | 1 | 35 |
+
+**So far (after lunch): ~888 kcal · ~65.9 g protein · ~24.2 g fat (~est) · ~101 g carbs (~est) · ~9.4 g fibre (~est) · ~625 mg Na · ~1,136 mg K · K:Na ~1.82:1**
+
+---
+
+### 2026-08-03 (Mon) — DAY 43 of cut · weigh-in: 72.4 kg ⚠️ up vs 71.90 Aug 2 (expected — Aug 2 was a very high-Na/high-fat day; water, not fat)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 163g | 130 | 14.3 | 85 | 245 |
+| Breakfast | C4 Hershey's whey, 1 scoop (36g) | 130 | 25 | 110 | 150 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Breakfast | Frozen blueberries, 68.4g | 39 | 0.5 | 2 | 53 |
+| Breakfast | Scrambled egg ×1 (~50g), diluted with Anchor full cream milk 50g | 105 | 8.0 | 93 | 145 |
+| Breakfast | Chia seeds, 10g | 49 | 1.6 | 3 | 29 |
+| Breakfast | Banana, 164.6g w/ peel (~107g flesh) | 95 | 1.2 | 1 | 383 |
+
+**So far: ~548 kcal · ~50.6 g protein · ~13.6 g fat (~est) · ~56.8 g carbs (~est) · ~7.8 g fibre (~est) · ~294 mg Na · ~1,005 mg K · K:Na ~3.42:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Lunch | Chicken wings, grilled, ~170g bone-in (~est weight) | ~284 | ~27 | ~354 | ~226 |
+| Lunch | Aoraki cold-smoked King salmon, ~20g (~est weight) | ~48 | ~4.8 | ~196 | ~50 |
+| Lunch | Celery, ~120g (~est weight) | ~16 | ~0.9 | ~97 | ~312 |
+| Lunch | Garlic parmesan steak croquette ×1 (~90g, ~est, from Aug 2 batch) | ~220 | ~12 | ~380 | ~120 |
+
+**So far (after lunch): ~1,116 kcal · ~95.3 g protein · ~49.6 g fat (~est) · ~76.8 g carbs (~est) · ~10.8 g fibre (~est) · ~1,321 mg Na · ~1,713 mg K · K:Na ~1.30:1**
+⚠️ Sodium now over the 1,300mg daily cap (1,321mg) with dinner still ahead — croquette pushed it over. Keep dinner unsalted/plain (no soy, no cured meats) to limit further overage.
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Drink | UFC Refresh 100% Coconut Water, 193.3ml | 46 | 0 | 39 | 425 |
+
+**So far (after coconut water): ~1,162 kcal · ~95.3 g protein · ~49.6 g fat (~est) · ~88.4 g carbs (~est) · ~10.8 g fibre (~est) · ~1,360 mg Na · ~2,138 mg K · K:Na ~1.57:1**
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Dinner | Fried eggs + steak pieces + rice, ~1kg combined home-cooked (~est split: ~250g eggs/4, ~350g steak, ~400g rice — no individual weights given, wide uncertainty ±25-30%) | ~1,755 | ~127 | ~1,042 | ~1,679 |
+| Dinner | Custard-filled donuts, homemade, ×2 (~est, no recipe/label) | ~640 | ~10 | ~210 | ~100 |
+
+**Day total: ~3,557 kcal · ~232.3 g protein · ~167.5 g fat (~est) · ~282 g carbs (~est) · ~14.4 g fibre (~est) · ~2,612 mg Na · ~3,917 mg K · K:Na ~1.50:1**
+⚠️ Big day across the board — calories ~1,600-1,650 over target, fat 167.5g (more than double the 75g cap), sodium 2,612mg (2x cap). Protein 232g is excellent though. This is a one-day cheat, not a trend — expect a water-weight bump tomorrow, judge the week not this day.
+
+---
+
+### 2026-08-09 to 2026-08-14 — DAYS 49–54 of cut
+
+_Food/weigh-in untracked (no data given). Steps only: Aug 9 = 20,399 · Aug 10 = 24,163 · Aug 11 = 14,316 · Aug 12 = 15,294 · Aug 13 = 4,301 · Aug 14 = 1,033._
+
+---
+
+### 2026-08-15 (Sat) — DAY 55 of cut · weigh-in: 70.85 kg (↓ 1.60 kg vs 72.45 Aug 4, the last recorded weight — 11 days untracked in between, so this drop can't be judged against a clean baseline)
+
+| Meal | Food | kcal | Protein | Sodium (mg) | Potassium (mg) |
+|---|---|---|---|---|---|
+| Breakfast | The Collective More-Than-Protein Greek yogurt, 100g | 80 | 8.8 | 52 | 150 |
+| Breakfast | Frozen blueberries, 50g | 28 | 0.4 | 1 | 39 |
+| Breakfast | Chia seeds, 10g | 49 | 1.6 | 3 | 29 |
+| Breakfast | Rice cakes (lightly salted) ×2 | 70 | 1.4 | 58 | 22 |
+| Breakfast | Honey drizzle, 1 tsp (7g) | 21 | 0 | 0 | 11 |
+| Breakfast | Scrambled egg ×1 (~50g, no added fat) | ~72 | ~6.3 | ~71 | ~70 |
+| Breakfast | Whey protein, 1 scoop, diluted with UFC coconut water ~70g (~est — brand not restated, using Basic Supplement Boston Cream figures) | ~137 | ~24 | ~114 | ~304 |
+| Breakfast | Musashi creatine, 5g | 0 | 0 | 0 | 0 |
+| Supplement | Vitamin C tablet, 1000mg (~est — plain ascorbic acid, no label given) | ~0 | 0 | ~0 | ~0 |
+
+**So far: ~457 kcal · ~42.5 g protein · ~12.0 g fat (~est) · ~45 g carbs (~est) · ~5.0 g fibre (~est) · ~299 mg Na · ~625 mg K · K:Na ~2.09:1**
+
+_Lunch/dinner not logged — day left incomplete._
