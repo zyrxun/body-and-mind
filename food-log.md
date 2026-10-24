@@ -1047,3 +1047,26 @@ _Food/weigh-in untracked (no data given). Steps only: Aug 9 = 20,399 · Aug 10 =
 **So far: ~457 kcal · ~42.5 g protein · ~12.0 g fat (~est) · ~45 g carbs (~est) · ~5.0 g fibre (~est) · ~299 mg Na · ~625 mg K · K:Na ~2.09:1**
 
 _Lunch/dinner not logged — day left incomplete._
+
+---
+
+### 2026-10-24 (Sat) — grocery haul · Meijer #64, Ann Arbor-Saline Rd (receipt image kept local-only in receipts/)
+
+| Item | Amount |
+|---|---|
+| Bananas | 2.31 lb @ $0.49/lb · $1.13 |
+| Ramen noodle soup | $0.59 |
+| Meijer drink mix (~est) | $2.69 |
+| La Colombe coffee ×2, one FREE | $2.89 + $2.89 − $2.89 |
+| Coca Cola | $2.99 (+$0.20 bottle deposit) |
+| Coca Cola Zero | $2.99 |
+| Barilla pasta | $3.39 |
+| Organic tomatoes | 1.33 lb @ $3.49/lb · $4.64 |
+| Parchment paper (non-food) | $3.49 |
+| Chicken thighs | $10.58 |
+| Meijer fruit (~est tray/box) | $13.99 |
+| Noodle soup bowl (was $2.49) | $1.99 |
+| Candy (was ~$4.09) | $3.89 |
+
+**Total: $55.66 (incl. $0.21 MI sales tax) · savings $4.39 · item math verified against receipt total.**
+_Meals for today not yet reported — when Richard reports what he ate, itemize macros per playbook. Staples look solid: chicken thighs, fruit, bananas, tomatoes._

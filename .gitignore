@@ -9,6 +9,9 @@
 .env
 *.secret
 
+# receipt photos — local only (may contain card / approval-code details)
+receipts/
+
 # local logging UI inbox (transient queue Claude processes)
 tracker_ui/inbox.jsonl
 tracker_ui/*.log
