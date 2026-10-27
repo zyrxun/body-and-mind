@@ -19,21 +19,23 @@ _Started: 2026-06-17 · **ACTIVE PHASE: CUT (from Mon Jun 22) → single-digit B
 | Training | Lifting regularly (log split below) |
 | Food setup | Asian family / home cooking |
 
-**Training split (set 2026-10-27 — Richard: legs on weekends, 1–2×/week; skippable labs treated as free time):**
-- **Mon — Push** · gym window 5:00–7:30pm
-- **Tue — Pull** · gym window 5:00–7:30pm
-- **Wed — REST** (heaviest class day + 5:30pm standing hangout)
-- **Thu — Upper (moderate)** · start ~5:45pm (EECS 201 lab 3:30–5:30 first)
-- **Fri — REST / light cardio** (longest class day; homework blocks 8–10pm)
-- **Sat — Leg A: squat/quad focus** · flexible timing (MAT meeting 7pm some weeks)
-- **Sun — Leg B: hinge/glute focus** · after the 9am weekly check-in
+**Training split (v2 — set 2026-10-27: Richard prefers MORNING workouts; Mon = heaviest class day (EECS 281 lab 4:30–6:30) → rest day; legs on weekends 1–2×/week):**
+- **Mon — REST** (classes till 6:30 + EECS 281 lab + 8–10pm hw — worst training day) · 🔴 low-carb
+- **Tue — Push** · 6:40–8:00am before classes · 🟡
+- **Wed — Pull** · 6:40–8:00am (keeps the 5:30pm hangout free) · 🟡
+- **Thu — Upper** · 6:40–8:00am · 🟡
+- **Fri — REST / light cardio** · 🔴, but big carb dinner (rice/potato) to load Saturday
+- **Sat — Leg A: squat/quad focus** · ~9:30–11:00am, real carb breakfast ~8am · 🟢
+- **Sun — Leg B: hinge/glute focus — OR rest day if legs feel beat** · 🟢 if trained, 🟡 if rest
 
-Back-to-back weekend legs OK because A (quad/squat) and B (hinge/posterior) barely overlap in pattern. Legs on weekends = sleep in, gym is empty, no class interference.
+Morning-fuel rule (no time for a big meal at 6:40am): quick pre = banana + whey or rice cakes; main carbs post-workout + dinner. Weekend legs get a real breakfast first.
 
-**Carb cycling (wired to the split, ~1,870 kcal/day avg — protein NEVER cycles):**
-- 🟢 **Sat + Sun (legs):** ~1,950 kcal · carbs **230–250 g** · P 175 g · F ≥55 g — biggest carb meals ~2h before + right after the session
-- 🟡 **Mon/Tue/Thu (train):** ~1,900 kcal · carbs 160–180 g
-- 🔴 **Wed/Fri (rest):** ~1,750 kcal · carbs 100–120 g · F ~60–65 g — but keep a solid carb dinner Friday (rice/potato) to load for Saturday's legs
+**Legs 1× vs 2× (his question):** 1 good leg day is plenty for a recomp; 2× = slightly better growth frequency. Default: run Sunday as **optional** — train it if Saturday didn't wreck him, rest otherwise. The A (quad) / B (hinge) split is what makes back-to-back workable.
+
+**Carb cycling (v2 — protein NEVER cycles, ~170–185 g/day):**
+- 🟢 **Leg day (Sat, + Sun when trained):** ~1,950 kcal · carbs **230–250 g** — breakfast + post-workout + dinner
+- 🟡 **Train days (Tue/Wed/Thu):** ~1,900 kcal · carbs 160–180 g (post-workout + dinner)
+- 🔴 **Rest (Mon/Fri, Sun-if-rest):** ~1,750 kcal · carbs 100–120 g · F ~60–65 g — Fri dinner carb-loads regardless
 
 ---
 
