@@ -124,6 +124,15 @@ low-sodium soy or herbs — go easy on salt for your 4:1).
 - **Creatine — 5 g/day.** Cheapest, most proven supplement for *holding muscle + strength while
   cutting*. The water it adds goes to muscle, not your face.
 
+### Standing "foods to get" list (Richard, 2026-10-26)
+His own shopping/rotation list — work into meal + haul recommendations:
+- **Grains of paradise** — spice; thermogenesis/BAT in small trials; season lean cuts with it.
+- **Fermented kimchi** — probiotics + fibre + vit C/K, near-zero kcal; **sodium-heavy → counts
+  toward the ~1,300 mg Na cap**.
+- **Spicy food (capsaicin)** — appetite control + slight thermogenesis; fits the cut.
+- **Taurine-heavy foods** — scallops/shellfish, dark-meat poultry, fish, seaweed; recovery/sleep/BP
+  support (grounded framing, not a "test booster" — per the hormone-watch rules in CLAUDE.md).
+
 ---
 
 ## Custom goals
