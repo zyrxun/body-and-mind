@@ -1084,3 +1084,12 @@ Down from 72.55 kg start (2026-06-17) → −4.0 kg.
 | **Breakfast total** | | **226** | **6.9** | **71** | **694** |
 
 _Fibre so far: 4.3 g · no coffee reported yet · protein very light at breakfast (7g) — if the usual egg/whey happened, tell me; otherwise day protein will be a grind. Panda Express order recommended (see chat); will itemize when he confirms what he ordered._
+
+### 2026-10-27 — Late lunch: WingSnob (he went wings after all)
+| Item | Note | kcal | Protein | Na (mg) |
+|---|---|---|---|---|
+| 10 traditional wings, naked | **skin removed by hand** (~est: official 800 kcal/100 P/1,150 Na with skin → −45% kcal, −10% P, −50% Na) | ~450 | ~87 | ~580 |
+| 1 crispy cheese plank | **cheese only, batter discarded** (~est: plank batter not in nutrition PDF) | ~100 | ~8 | ~200 |
+| **Meal total** | | **~550** | **~95** | **~780** |
+
+_Day so far: **~776 kcal · ~102 g P · Na ~860 mg · K ~694 mg · fibre ~4.3 g** — protein pacing well; fat needs +33 g to reach floor, fibre needs a big push (veggies/oats), K low (banana/potato to come). Skin-off move = sneaky-good macro play. Also: cheese plank batter left uneaten — the wing snob has standards._
