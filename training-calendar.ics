@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//body-and-mind//training-split//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Training (Body & Mind)
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:push-tue@body-and-mind
+DTSTAMP:20261028T010000Z
+DTSTART;TZID=America/Detroit:20261103T064000
+DTEND;TZID=America/Detroit:20261103T080000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:🏋️ Push — Gym (wake ~6:10)
+COLOR:lavender
+DESCRIPTION:🟡 Train day · ~1,900 kcal · carbs 160–180 g\nPre 6:30: banana + whey\nLunch: 350 g batch (raw) / 500 g cooked\nDinner: 200 g potato fries + thighs + 1 tbsp olive oil\nWhey ×2 · protein 175 g
+END:VEVENT
+BEGIN:VEVENT
+UID:pull-wed@body-and-mind
+DTSTAMP:20261028T010000Z
+DTSTART;TZID=America/Detroit:20261104T064000
+DTEND;TZID=America/Detroit:20261104T080000
+RRULE:FREQ=WEEKLY;BYDAY=WE
+SUMMARY:🏋️ Pull — Gym (wake ~6:10)
+COLOR:lavender
+DESCRIPTION:🟡 Train day · ~1,900 kcal · carbs 160–180 g\nPre 6:30: banana + whey\nLunch: 350 g batch (raw) / 500 g cooked\nDinner: 200 g potato fries + thighs + 1 tbsp olive oil\nWhey ×2 · protein 175 g
+END:VEVENT
+BEGIN:VEVENT
+UID:upper-thu@body-and-mind
+DTSTAMP:20261028T010000Z
+DTSTART;TZID=America/Detroit:20261105T064000
+DTEND;TZID=America/Detroit:20261105T080000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:🏋️ Upper — Gym (wake ~6:10)
+COLOR:lavender
+DESCRIPTION:🟡 Train day · ~1,900 kcal · carbs 160–180 g\nPre 6:30: banana + whey\nLunch: 350 g batch (raw) / 500 g cooked\nDinner: 200 g potato fries + thighs + 1 tbsp olive oil\nWhey ×2 · protein 175 g
+END:VEVENT
+BEGIN:VEVENT
+UID:leg-a-sat@body-and-mind
+DTSTAMP:20261028T010000Z
+DTSTART;TZID=America/Detroit:20261031T093000
+DTEND;TZID=America/Detroit:20261031T110000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:🦵 Leg A — Squat/Quad (9:30am)
+COLOR:lavender
+DESCRIPTION:🟢 HIGH CARB · ~2,050 kcal · carbs 230–250 g\nBreakfast 8am: real carbs (bread + banana now / oats later)\nLunch: 450 g batch (raw) / 650 g cooked\nFries: 300–350 g + olive oil\nWhey ×2 · protein 175 g
+END:VEVENT
+BEGIN:VEVENT
+UID:leg-b-sun@body-and-mind
+DTSTAMP:20261028T010000Z
+DTSTART;TZID=America/Detroit:20261101T093000
+DTEND;TZID=America/Detroit:20261101T110000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:🦵 Leg B — Hinge (OPTIONAL — skip if beat)
+COLOR:lavender
+DESCRIPTION:OPTIONAL: train if Saturday didn't wreck you\, otherwise REST\n🟢 if trained: ~2,050 kcal · carbs 230–250 g · batch 450 g raw + fries\n🟡 if rest: ~1,900 kcal · carbs 160–180 g\nAfter the 9am weekly check-in
+END:VEVENT
+END:VCALENDAR
