@@ -73,6 +73,13 @@ cutting iodine — watch for cold intolerance/fatigue/hair thinning beyond norma
   (omega-3, iron, zinc, magnesium, calcium, B12) — not just protein. Flag if he's low on fat or a
   micro that day, and note how the food fits (e.g. salmon → omega-3 + fat; beans → fibre/iron/Mg).
 
+## Standing "foods to get" list (Richard's request, 2026-10-26)
+Regular shopping/rotation list he wants remembered — work these into meal recommendations:
+- **Grains of paradise** — spice; thermogenesis/BAT in small trials, use as a seasoning on lean cuts.
+- **Fermented kimchi** — probiotics + fibre + vit C/K, very low kcal; **sodium-heavy — count it toward the ~1,300 mg Na cap**.
+- **Spicy food (capsaicin)** — appetite control + slight thermogenesis; fits the cut.
+- **Taurine-heavy foods** — scallops/shellfish, dark-meat poultry, fish, seaweed; recovery/sleep/BP support (not a "test booster" — keep expectations grounded per the hormone-watch rules).
+
 ## Cookbook
 - `cookbook_recipes.md` — **128 recipes** extracted from *The Ultimate Anabolic Cookbook 2.0* by Greg Doucette, with per-serving macros + tags (high-protein, low-cal, high-fiber, quick, vegetarian, gluten-free). When recommending meals, **read this file first** and pick from it, or generate a new recipe, or fetch one online — your choice based on what fits the day's macro gaps.
 
