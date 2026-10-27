@@ -41,7 +41,7 @@ Morning-fuel rule (no time for a big meal at 6:40am): quick pre = banana + whey 
 **Inventory:** ~5 lb ground beef + 800 g raw-eq pasta + capsicum (mixed batch), chicken thighs (to bake), yogurt (full-fat), eggs, bread, bananas, whey, creatine. **Beef fat % assumed 80/20 — if leaner, add 1 tsp oil or an egg to hit the fat floor.**
 **Carb dial = pasta portion (raw-eq):** 🔴 rest 70–80 g · 🟡 train 100 g · 🟢 legs 130–150 g. Toast/banana fill the rest.
 **Daily skeleton:** B = 3 eggs + toast (alt: yogurt 150g + banana) + creatine 5 g · L = beef-pasta-capsicum bowl · D = 2–3 skinless baked thighs + toast + capsicum · whey ×2 (post + evening). If day protein <170 g → extra scoop.
-**Seasoning:** grains of paradise + hot sauce on the beef (his foods-to-get), kimchi side OK — counts toward the Na cap (~1,300 mg).
+**Seasoning:** grains of paradise + hot sauce on the beef (his foods-to-get), **marinara on the batch approved (~¼ cup/serving — fine, counts toward the Na cap ~150–250 mg; watch added sugar on the label)**, kimchi side OK — counts toward the Na cap (~1,300 mg).
 **Batch safety:** cooked beef+pasta keeps 3–4 days fridge — if this batch is cooked, FREEZE half today; raw is fine portioned frozen. Bake the whole thigh tray at once (~200°C/400°F, 35–40 min), fridge 3–4 days.
 **Gaps for next grocery run (foods-to-get list):** potato (K), kimchi, oats (fibre — day fibre is running ~15–20 g vs 30 g target), more capsicum/veg.
 
