@@ -45,6 +45,12 @@ Morning-fuel rule (no time for a big meal at 6:40am): quick pre = banana + whey 
 **Batch safety:** cooked beef+pasta keeps 3–4 days fridge — if this batch is cooked, FREEZE half today; raw is fine portioned frozen. Bake the whole thigh tray at once (~200°C/400°F, 35–40 min), fridge 3–4 days.
 **Gaps for next grocery run (foods-to-get list):** potato (K), kimchi, oats (fibre — day fibre is running ~15–20 g vs 30 g target), more capsicum/veg.
 
+**Meal plan v2 (2026-10-27 eve): beef confirmed 90/10 + potato fries available + batch eaten as one mixed portion.**
+Batch per 100 g — **raw basis: ~223 kcal / 18 P / 7.4 F / 18.5 C** · **cooked basis (drained): ~190 kcal / 15.5 P / 6.3 F / 16 C**
+Daily batch portion (lunch anchor): 🔴 rest **250 g raw / ~350 g cooked** · 🟡 train **350 g raw / ~500 g cooked** · 🟢 legs **450 g raw / ~650 g cooked**
+Potato fries (oven/air, 1 tbsp olive oil for the tray — 90/10 needs it for the fat floor): 🔴 none · 🟡 ~200 g · 🟢 ~300–350 g
+Fix vs v1: 90/10 confirmed → olive oil is mandatory not optional; 🟢 day runs ~2,050 kcal (carbs at 230 g from pasta/potato/bread can't fit in 1,950) — weekly average still ~1,880.
+
 ---
 
 ## Daily targets at a glance — CUT (active)
