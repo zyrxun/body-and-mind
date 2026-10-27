@@ -19,7 +19,21 @@ _Started: 2026-06-17 · **ACTIVE PHASE: CUT (from Mon Jun 22) → single-digit B
 | Training | Lifting regularly (log split below) |
 | Food setup | Asian family / home cooking |
 
-**Training split:** _fill in (e.g. PPL ×6, Upper/Lower ×4)_
+**Training split (set 2026-10-27 — Richard: legs on weekends, 1–2×/week; skippable labs treated as free time):**
+- **Mon — Push** · gym window 5:00–7:30pm
+- **Tue — Pull** · gym window 5:00–7:30pm
+- **Wed — REST** (heaviest class day + 5:30pm standing hangout)
+- **Thu — Upper (moderate)** · start ~5:45pm (EECS 201 lab 3:30–5:30 first)
+- **Fri — REST / light cardio** (longest class day; homework blocks 8–10pm)
+- **Sat — Leg A: squat/quad focus** · flexible timing (MAT meeting 7pm some weeks)
+- **Sun — Leg B: hinge/glute focus** · after the 9am weekly check-in
+
+Back-to-back weekend legs OK because A (quad/squat) and B (hinge/posterior) barely overlap in pattern. Legs on weekends = sleep in, gym is empty, no class interference.
+
+**Carb cycling (wired to the split, ~1,870 kcal/day avg — protein NEVER cycles):**
+- 🟢 **Sat + Sun (legs):** ~1,950 kcal · carbs **230–250 g** · P 175 g · F ≥55 g — biggest carb meals ~2h before + right after the session
+- 🟡 **Mon/Tue/Thu (train):** ~1,900 kcal · carbs 160–180 g
+- 🔴 **Wed/Fri (rest):** ~1,750 kcal · carbs 100–120 g · F ~60–65 g — but keep a solid carb dinner Friday (rice/potato) to load for Saturday's legs
 
 ---
 
