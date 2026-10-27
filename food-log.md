@@ -1070,3 +1070,17 @@ _Lunch/dinner not logged — day left incomplete._
 
 **Total: $55.66 (incl. $0.21 MI sales tax) · savings $4.39 · item math verified against receipt total.**
 _Meals for today not yet reported — when Richard reports what he ate, itemize macros per playbook. Staples look solid: chicken thighs, fruit, bananas, tomatoes._
+
+### 2026-10-27 (Tue) — weigh-in: 151 lb = **68.5 kg** (as reported · fasted status not confirmed)
+Stated goal (2026-10-27): recomp — cut fat, build muscle clean; **low-sodium / high-potassium** emphasis.
+Down from 72.55 kg start (2026-06-17) → −4.0 kg.
+
+| Meal | Item | kcal | Protein | Na (mg) | K (mg) |
+|---|---|---|---|---|---|
+| Breakfast | Full-fat yogurt, 150g | 92 | 5.2 | 69 | 233 |
+| Breakfast | Blueberries, 50g | 29 | 0.4 | 1 | 39 |
+| Breakfast | Banana, 1 medium (~118g) | 105 | 1.3 | 1 | 422 |
+| Breakfast | Creatine, 1 scoop (5g) | 0 | 0 | 0 | 0 |
+| **Breakfast total** | | **226** | **6.9** | **71** | **694** |
+
+_Fibre so far: 4.3 g · no coffee reported yet · protein very light at breakfast (7g) — if the usual egg/whey happened, tell me; otherwise day protein will be a grind. Panda Express order recommended (see chat); will itemize when he confirms what he ordered._
