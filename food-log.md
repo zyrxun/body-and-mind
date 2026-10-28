@@ -1112,3 +1112,12 @@ _Day so far: **~776 kcal · ~102 g P · Na ~860 mg · K ~694 mg · fibre ~4.3 g*
 | **Breakfast total** | **197** | **6.5** | **70** | **655** |
 
 _Pull day 6:40am — rest of card: batch 350 g lunch (marinara ok), 3 eggs + 2 toast, thighs + 200 g fries + 1 tbsp olive oil dinner, whey ×2._
+
+### 2026-10-28 — Lunch + pre-gym (lift moved to 2:30pm)
+| Item | kcal | Protein | C | Sugar | Na (mg) |
+|---|---|---|---|---|---|
+| Beef+pasta batch, 350 g (~est, raw basis) | ~780 | ~63 | ~65 | — | ~80 |
+| 1 cinnamon donut (~est) | ~280 | ~3 | ~32 | ~11 | ~250 |
+| **Running total** | **~1,257** | **~72.5** | **~97** | **11/30** | **~400** |
+
+_No 8:15 breakfast (eggs+toast skipped) — yogurt+banana only. Fine: totals still landable. Adjusted remainder: 2–3 thighs + toast + 200 g fries + olive oil + **1 whey scoop only** → day lands ~2,100 kcal / ~170 g P. Donut = pre-lift fast carbs at decent timing; added-sugar budget mostly used, nothing sweet after._
