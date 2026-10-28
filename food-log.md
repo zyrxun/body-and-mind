@@ -1121,3 +1121,11 @@ _Pull day 6:40am — rest of card: batch 350 g lunch (marinara ok), 3 eggs + 2 t
 | **Running total** | **~1,257** | **~72.5** | **~97** | **11/30** | **~400** |
 
 _No 8:15 breakfast (eggs+toast skipped) — yogurt+banana only. Fine: totals still landable. Adjusted remainder: 2–3 thighs + toast + 200 g fries + olive oil + **1 whey scoop only** → day lands ~2,100 kcal / ~170 g P. Donut = pre-lift fast carbs at decent timing; added-sugar budget mostly used, nothing sweet after._
+
+### 2026-10-28 — Dinner
+| Item | kcal | Protein | F | Na (mg) |
+|---|---|---|---|---|
+| Chicken thigh, **391 g bone-in skin-on** (~est: −25% bone → ~293 g meat+skin @ 245 kcal/100g) | ~720 | ~73 | ~45 | ~250 |
+
+**Day projection with full card (toast + 200 g fries + oil + whey): ~2,450 kcal · ~178 g P · F ~110 g.**
+_Trim call: drop toast + whey → ~2,250 kcal / ~150 g P; or keep whey, drop toast → ~2,370 / ~175 g P. One +400–550 day on a cut week is absorbable — skin is the tax; do not compensate tomorrow._
