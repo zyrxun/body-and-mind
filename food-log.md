@@ -1093,3 +1093,22 @@ _Fibre so far: 4.3 g · no coffee reported yet · protein very light at breakfas
 | **Meal total** | | **~550** | **~95** | **~780** |
 
 _Day so far: **~776 kcal · ~102 g P · Na ~860 mg · K ~694 mg · fibre ~4.3 g** — protein pacing well; fat needs +33 g to reach floor, fibre needs a big push (veggies/oats), K low (banana/potato to come). Skin-off move = sneaky-good macro play. Also: cheese plank batter left uneaten — the wing snob has standards._
+
+### 2026-10-27 — Dinner (reported 2026-10-28): batch + thigh
+| Item | kcal | Protein | Na (mg) |
+|---|---|---|---|
+| Beef+pasta batch, 250 g (~est, raw basis) | ~556 | ~45 | ~80 |
+| 1 baked chicken thigh, skin off (~est) | ~120 | ~21 | ~90 |
+| **Dinner total** | **~676** | **~66** | **~170** |
+
+**Tuesday final: ~1,450 kcal · ~168 g P · ~48 g C · ~45 g F · Na ~1,030 mg** — protein solid without whey; fat just under floor (~45 vs 55, within estimate error), carbs very low (fine on a rest day, no fries made). First plan-following day 👍
+
+### 2026-10-28 (Wed) — Breakfast
+| Item | kcal | Protein | Na (mg) | K (mg) |
+|---|---|---|---|---|
+| Full-fat yogurt, 150g | 92 | 5.2 | 69 | 233 |
+| Banana, 1 medium | 105 | 1.3 | 1 | 422 |
+| Creatine 5g (assumed in "the usual") | 0 | 0 | 0 | 0 |
+| **Breakfast total** | **197** | **6.5** | **70** | **655** |
+
+_Pull day 6:40am — rest of card: batch 350 g lunch (marinara ok), 3 eggs + 2 toast, thighs + 200 g fries + 1 tbsp olive oil dinner, whey ×2._
