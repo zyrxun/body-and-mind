@@ -1133,6 +1133,17 @@ _No 8:15 breakfast (eggs+toast skipped) — yogurt+banana only. Fine: totals sti
 **Wednesday final: ~2,352 kcal · ~150 g P · ~179 g C · ~113 g F · Na ~700 mg · K ~1,800 mg · added sugar 19/30 · fibre ~15 g** (before any toast/whey — add +80/+120 kcal if he had them).
 _No compensation Thursday — normal 🟡 Upper card. Skin-on thigh + oil is why fat overshot; that's the most satiating way to overshoot. Protein 150 g is the only soft spot; whey would have closed it._
 
+### 2026-10-29 (Thu) — Breakfast
+| Item | kcal | Protein | F | Na (mg) |
+|---|---|---|---|---|
+| 3 eggs | 210 | 19 | 15 | 210 |
+| 2 toast | 160 | 6 | 3 | 300 |
+| Butter (1 pat, ~7g, ~est) | 50 | 0 | 6 | 50 |
+| Ketchup, 1 tbsp splash (~est) | 19 | 0 | 0 | 154 |
+| **Breakfast total** | **~439** | **~25** | **~24** | **~714** |
+
+_Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the sugar budget (0.4/30 so far). Rest of card: whey post-lift, 350 g batch lunch, skinless thighs + toast + sweet-potato fries + oil dinner, whey evening._
+
 **Day projection with full card (toast + 200 g sweet potato fries + oil + whey): ~2,450 kcal · ~178 g P · F ~110 g.**
 _Fries swapped to **200 g sweet potato** (~est: ~180 kcal / 42 C / 6.6 g fiber / K ~950 mg — near-identical kcal to white potato, more fiber + vit A, slightly less K). Approved._
 _Trim call: drop toast + whey → ~2,250 kcal / ~150 g P; or keep whey, drop toast → ~2,370 / ~175 g P. One +400–550 day on a cut week is absorbable — skin is the tax; do not compensate tomorrow._
