@@ -1144,6 +1144,17 @@ _No compensation Thursday — normal 🟡 Upper card. Skin-on thigh + oil is why
 
 _Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the sugar budget (0.4/30 so far). Rest of card: whey post-lift, 350 g batch lunch, skinless thighs + toast + sweet-potato fries + oil dinner, whey evening._
 
+### 2026-10-29 — Lunch (~est: beef weighed cooked, thigh assumed bone-in skin-on like last night, fries baked unsalted)
+| Item | kcal | Protein | F | Na (mg) |
+|---|---|---|---|---|
+| Chicken thigh, 200 g oven-baked bone-in skin-on (~est: ~150 g meat+skin) | ~368 | ~37 | ~23 | ~170 |
+| Oven-baked fries, 102 g (~est, no oil listed) | ~95 | ~2 | ~1 | ~10 |
+| Ground beef, 100 g cooked 90/10 (~est) | ~230 | ~26 | ~15 | ~65 |
+| **Lunch total** | **~693** | **~65** | **~39** | **~245** |
+
+**Day running: ~1,132 kcal · ~90 g P · ~45 g C · ~63 g F · Na ~959/1,300** — sodium nearly half-spent by lunch → dinner must be light-handed (no kimchi, unsalted fries, small marinara).
+_Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
+
 **Day projection with full card (toast + 200 g sweet potato fries + oil + whey): ~2,450 kcal · ~178 g P · F ~110 g.**
 _Fries swapped to **200 g sweet potato** (~est: ~180 kcal / 42 C / 6.6 g fiber / K ~950 mg — near-identical kcal to white potato, more fiber + vit A, slightly less K). Approved._
 _Trim call: drop toast + whey → ~2,250 kcal / ~150 g P; or keep whey, drop toast → ~2,370 / ~175 g P. One +400–550 day on a cut week is absorbable — skin is the tax; do not compensate tomorrow._
