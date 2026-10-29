@@ -1126,6 +1126,12 @@ _No 8:15 breakfast (eggs+toast skipped) — yogurt+banana only. Fine: totals sti
 | Item | kcal | Protein | F | Na (mg) |
 |---|---|---|---|---|
 | Chicken thigh, **391 g bone-in skin-on** (~est: −25% bone → ~293 g meat+skin @ 245 kcal/100g) | ~720 | ~73 | ~45 | ~250 |
+| Sweet potato fries, 200 g + 1 tbsp olive oil (~est) | ~300 | ~4 | ~16 | ~40 |
+| Hershey's milk chocolate, 2 squares (~est) | ~75 | ~1 | ~4.4 | ~12 |
+| **Dinner total** | **~1,095** | **~78** | **~65** | **~302** |
+
+**Wednesday final: ~2,352 kcal · ~150 g P · ~179 g C · ~113 g F · Na ~700 mg · K ~1,800 mg · added sugar 19/30 · fibre ~15 g** (before any toast/whey — add +80/+120 kcal if he had them).
+_No compensation Thursday — normal 🟡 Upper card. Skin-on thigh + oil is why fat overshot; that's the most satiating way to overshoot. Protein 150 g is the only soft spot; whey would have closed it._
 
 **Day projection with full card (toast + 200 g sweet potato fries + oil + whey): ~2,450 kcal · ~178 g P · F ~110 g.**
 _Fries swapped to **200 g sweet potato** (~est: ~180 kcal / 42 C / 6.6 g fiber / K ~950 mg — near-identical kcal to white potato, more fiber + vit A, slightly less K). Approved._
