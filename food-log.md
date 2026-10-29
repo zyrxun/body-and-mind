@@ -1154,14 +1154,14 @@ _Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the
 
 **Day running: ~1,132 kcal · ~90 g P · ~45 g C · ~63 g F · Na ~959/1,300** — sodium nearly half-spent by lunch → dinner must be light-handed (no kimchi, unsalted fries, small marinara).
 
-### 2026-10-29 — Dinner (actual)
+### 2026-10-29 — Dinner (actual, corrected weight)
 | Item | kcal | Protein | F | Na (mg) |
 |---|---|---|---|---|
-| 2 chicken thighs, skinless (~est) | ~240 | ~42 | ~8 | ~170 |
+| Chicken thigh, **373 g bone-in, skinless** (~est: −25% bone → ~280 g meat @ 195 kcal/100g) | ~546 | ~77 | ~24 | ~240 |
 | ~~fries~~ — out of potatoes | — | — | — | — |
-| **Dinner total** | **~240** | **~42** | **~8** | **~170** |
+| **Dinner total** | **~546** | **~77** | **~24** | **~240** |
 
-**Thursday final (pre-whey): ~1,652 kcal · ~143 g P · Na ~1,629.** With whey ×2 → **~1,892 kcal / ~193 g P** — actually lands the 🟡 day almost exactly.
+**Thursday FINAL: ~1,958 kcal · ~178 g P · ~145 g C · Na ~1,699** — protein lands exactly in the 170–185 window, **no whey needed tonight** (2 scoops would push 228 g = wasteful). Solid day despite the bagel.
 _Friday: potatoes gone → carb-load shifts to the batch (pasta-heavy portion) + toast/banana. Saturday breakfast needs a carb source too — oats go on the grocery list (also the fibre fix)._
 _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
 
