@@ -1153,6 +1153,14 @@ _Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the
 | **Lunch total** | **~693** | **~65** | **~39** | **~245** |
 
 **Day running: ~1,132 kcal · ~90 g P · ~45 g C · ~63 g F · Na ~959/1,300** — sodium nearly half-spent by lunch → dinner must be light-handed (no kimchi, unsalted fries, small marinara).
+
+### 2026-10-29 — + Bagel
+| Item | kcal | Protein | C | Na (mg) |
+|---|---|---|---|---|
+| Plain bagel, 1 medium (~est) | ~280 | ~11 | ~56 | ~500 |
+| **New running total** | **~1,412** | **~101** | **~101** | **~1,459 — cap exceeded (1,300)** |
+
+_Sodium cap mildly blown (bagels are ~as salty as 3 bread slices). Not a crisis — one day. Tonight: ZERO added sodium — skinless thighs unseasoned + sweet-potato fries + olive oil + 1–2 whey, NO toast, no marinara/kimchi. Lands ~2,070–2,190 kcal / ~170–195 g P. Tomorrow resets._
 _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
 
 **Day projection with full card (toast + 200 g sweet potato fries + oil + whey): ~2,450 kcal · ~178 g P · F ~110 g.**
