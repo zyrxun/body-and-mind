@@ -49,7 +49,11 @@ Morning-fuel rule (no time for a big meal at 6:40am): quick pre = banana + whey 
 Batch per 100 g — **raw basis: ~223 kcal / 18 P / 7.4 F / 18.5 C** · **cooked basis (drained): ~190 kcal / 15.5 P / 6.3 F / 16 C**
 Daily batch portion (lunch anchor): 🔴 rest **250 g raw / ~350 g cooked** · 🟡 train **350 g raw / ~500 g cooked** · 🟢 legs **450 g raw / ~650 g cooked**
 Potato fries (oven/air, 1 tbsp olive oil for the tray — 90/10 needs it for the fat floor): 🔴 none · 🟡 ~200 g · 🟢 ~300–350 g
-Fix vs v1: 90/10 confirmed → olive oil is mandatory not optional; 🟢 day runs ~2,050 kcal (carbs at 230 g from pasta/potato/bread can't fit in 1,950) — weekly average still ~1,880.
+**Fix vs v1: 90/10 confirmed → olive oil is mandatory not optional; 🟢 day runs ~2,050 kcal (carbs at 230 g from pasta/potato/bread can't fit in 1,950) — weekly average still ~1,880.**
+
+**Health flag (2026-10-30):** Richard reports **bone pain when benching PRs**. Location not yet specified (sternum? ribs? shoulders?). Watch: if sharp/localized/worsening under load or persisting >1–2 weeks → campus health / doctor, no PRs through it. Week's diet was low Ca/vit D/omega-3 — grocery fix underway (milk, sardines, greens); collagen 15 g + vit C pre-workout added as low-risk tendon support.
+
+**Shopping basketball (2026-10-30 haul):** oats · white/black beans · potatoes/sweet · canned sardines or salmon (water) · spinach · bananas · kimchi · avocado · chicken family pack (unenhanced) · milk (2%) · collagen peptides · hand soap · grains of paradise (specialty)
 
 ---
 
