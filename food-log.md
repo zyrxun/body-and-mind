@@ -1168,10 +1168,10 @@ _Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the
 |---|---|---|---|---|---|
 | 3 eggs | 210 | 19 | 15 | 1 | 210 |
 | 2 toast | 160 | 6 | 3 | 30 | 300 |
-| Short rib + ground beef soup, 1 bowl w/ carrots (~est: braised rib is fatty; broth salt unknown) | ~350 | ~28 | ~22 | ~12 | ~400 |
-| **Breakfast total** | **~720** | **~53** | **~40** | ~43 | **~910** |
+| Short rib + ground beef soup, 1 bowl w/ carrots — **frozen, fat cap scooped off** (~est: skimmed ≈ −13 g fat vs braised) | ~290 | ~28 | ~9 | ~12 | ~400 |
+| **Breakfast total** | **~660** | **~53** | **~27** | ~43 | **~910** |
 
-_Sodium note: homemade short-rib broth pushed breakfast to ~910/1,300 — rest of day unsalted (naked ramen, no kimchi). Short rib demolished the fat floor before noon — keep dinner lean. Protein pacing excellent (53 g by 9am)._
+_Sodium note: homemade short-rib broth pushed breakfast to ~910/1,300 — rest of day unsalted (naked ramen, no kimchi). Fat cap skimmed = good move: day fat lands right around the 55 g floor, so still no added oil today. Protein pacing excellent (53 g by 9am)._
 _Friday: potatoes gone → carb-load shifts to the batch (pasta-heavy portion) + toast/banana. Saturday breakfast needs a carb source too — oats go on the grocery list (also the fibre fix)._
 _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
 
