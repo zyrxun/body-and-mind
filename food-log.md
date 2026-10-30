@@ -1162,6 +1162,16 @@ _Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the
 | **Dinner total** | **~546** | **~77** | **~24** | **~240** |
 
 **Thursday FINAL: ~1,958 kcal · ~178 g P · ~145 g C · Na ~1,699** — protein lands exactly in the 170–185 window, **no whey needed tonight** (2 scoops would push 228 g = wasteful). Solid day despite the bagel.
+
+### 2026-10-30 (Fri) — Breakfast (CARB-LOAD rest day)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs | 210 | 19 | 15 | 1 | 210 |
+| 2 toast | 160 | 6 | 3 | 30 | 300 |
+| Short rib + ground beef soup, 1 bowl w/ carrots (~est: braised rib is fatty; broth salt unknown) | ~350 | ~28 | ~22 | ~12 | ~400 |
+| **Breakfast total** | **~720** | **~53** | **~40** | ~43 | **~910** |
+
+_Sodium note: homemade short-rib broth pushed breakfast to ~910/1,300 — rest of day unsalted (naked ramen, no kimchi). Short rib demolished the fat floor before noon — keep dinner lean. Protein pacing excellent (53 g by 9am)._
 _Friday: potatoes gone → carb-load shifts to the batch (pasta-heavy portion) + toast/banana. Saturday breakfast needs a carb source too — oats go on the grocery list (also the fibre fix)._
 _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
 
