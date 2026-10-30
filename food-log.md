@@ -1172,7 +1172,17 @@ _Creatine assumed ✓. Butter + ketchup are trivial — ketchup adds ~4 g to the
 | **Breakfast total** | **~660** | **~53** | **~27** | ~43 | **~910** |
 
 _Sodium note: homemade short-rib broth pushed breakfast to ~910/1,300 — rest of day unsalted (naked ramen, no kimchi). Fat cap skimmed = good move: day fat lands right around the 55 g floor, so still no added oil today. Protein pacing excellent (53 g by 9am)._
-**Ramen confirmed from official label (Lotus Foods Millet & Brown Rice): 1 cake = 240 kcal / ~48 g C / 8 g P / 2 g F / 0 mg sodium (label serving = ½ cake = 120 kcal — that's where the 120 came from). Ingredients: brown rice + millet only.**
+**Ramen confirmed from official label (Lotus Foods Millet & Brown Rice): 1 cake = 240 kcal / ~48 g C / 8 g P / 2 g F / 0 mg sodium (label serving = ½ cake = 120 kcal). Ingredients: brown rice + millet only.**
+
+### 2026-10-30 — Lunch
+| Item | kcal | Protein | F | C | Added sugar | Na (mg) |
+|---|---|---|---|---|---|---|
+| Batch (beef+pasta), 300 g raw basis | ~669 | ~54 | ~22 | ~56 | — | ~60 |
+| KitKat bar, 1 standard (~est) | ~210 | ~3 | ~11 | ~26 | ~21 | ~25 |
+| **Lunch total** | **~879** | **~57** | **~33** | ~82 | ~21/30 | ~85 |
+
+**Friday running: ~1,539 kcal · ~110 g P · ~125 g C · ~60 g F · Na ~995 · added sugar 21/30**
+_Dinner = naked ramen cake + banana + whey ×2 (skip toast — KitKat already spent the flexible calories): lands ~2,120 kcal / ~168 g P / ~200 g C / Na ~1,200. Carb load exceeds the 150–160 target — exactly what Saturday legs want. Sugar budget nearly full: nothing sweet after the KitKat._
 _Friday: potatoes gone → carb-load shifts to the batch (pasta-heavy portion) + toast/banana. Saturday breakfast needs a carb source too — oats go on the grocery list (also the fibre fix)._
 _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
 
