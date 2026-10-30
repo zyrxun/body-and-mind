@@ -1178,11 +1178,11 @@ _Sodium note: homemade short-rib broth pushed breakfast to ~910/1,300 — rest o
 | Item | kcal | Protein | F | C | Added sugar | Na (mg) |
 |---|---|---|---|---|---|---|
 | Batch (beef+pasta), 300 g raw basis | ~669 | ~54 | ~22 | ~56 | — | ~60 |
-| KitKat bar, **75 g (~est — larger bar, not standard 41 g)** | ~385 | ~5 | ~20 | ~45 | ~38 | ~45 |
-| **Lunch total** | **~1,054** | **~59** | **~42** | ~101 | ~38/30 | ~105 |
+| KitKat bar, **mini, ~30 g total (corrected ×2 — was 41, then 75)** | ~155 | ~2 | ~8 | ~18 | ~15 | ~18 |
+| **Lunch total** | **~824** | **~56** | **~30** | ~74 | ~15/30 | ~78 |
 
-**Friday running: ~1,716 kcal · ~112 g P · ~144 g C · ~69 g F · Na ~1,015 · added sugar ~38/30 ⚠️ over cap**
-_Dinner = naked ramen cake + banana + whey ×2 → day lands **~2,300 kcal / ~170 g P / ~220 g C / Na ~1,250**. Sugar cap exceeded (38 vs 30) — one day, absorbed by an 8-a.m. leg session tomorrow; no compensation, nothing sweet tonight. Fat still ≥ floor without any added oil._
+**Friday running: ~1,484 kcal · ~109 g P · ~117 g C · ~57 g F · Na ~988 · added sugar ~15/30 ✓**
+_Dinner = naked ramen cake + banana + whey ×2 → day lands **~2,070 kcal / ~167 g P / ~192 g C / Na ~1,150**. Sugar back UNDER cap after the weight correction. Clean carb-load Friday._
 _Friday: potatoes gone → carb-load shifts to the batch (pasta-heavy portion) + toast/banana. Saturday breakfast needs a carb source too — oats go on the grocery list (also the fibre fix)._
 _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive oil + whey ×2 → ~1,950 kcal / ~185 g P. Carbs run ~110–140 g, a touch under 🟡 — add a banana if hunger shows._
 
