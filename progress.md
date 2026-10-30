@@ -53,7 +53,7 @@ Potato fries (oven/air, 1 tbsp olive oil for the tray — 90/10 needs it for the
 
 **Health flag (2026-10-30):** Richard reports **bone pain when benching PRs**. Location not yet specified (sternum? ribs? shoulders?). Watch: if sharp/localized/worsening under load or persisting >1–2 weeks → campus health / doctor, no PRs through it. Week's diet was low Ca/vit D/omega-3 — grocery fix underway (milk, sardines, greens); collagen 15 g + vit C pre-workout added as low-risk tendon support.
 
-**Shopping basketball (2026-10-30 haul):** oats · white/black beans · potatoes/sweet · canned sardines or salmon (water) · spinach · bananas · kimchi · avocado · chicken family pack (unenhanced) · milk (2%) · collagen peptides · hand soap · grains of paradise (specialty) · capsicum · onion · ground beef 90/10 (only if batch < ~600 g left — current stock should last 3–5 days)
+**Shopping basketball (2026-10-30 haul):** oats · white/black beans · potatoes/sweet · canned sardines or salmon (water) · spinach · bananas · kimchi · avocado · chicken family pack (unenhanced) · milk (2%) · collagen peptides · hand soap · grains of paradise (specialty) · capsicum · onion · **ground beef 5 lb (bulk — cook next batch with the new onion/capsicum, freeze surplus raw in meal-size portions)**
 
 ---
 
