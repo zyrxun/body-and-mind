@@ -1189,3 +1189,12 @@ _Close the day: 2 skinless thighs + 1 toast + 200 g sweet-potato fries + olive o
 **Day projection with full card (toast + 200 g sweet potato fries + oil + whey): ~2,450 kcal · ~178 g P · F ~110 g.**
 _Fries swapped to **200 g sweet potato** (~est: ~180 kcal / 42 C / 6.6 g fiber / K ~950 mg — near-identical kcal to white potato, more fiber + vit A, slightly less K). Approved._
 _Trim call: drop toast + whey → ~2,250 kcal / ~150 g P; or keep whey, drop toast → ~2,370 / ~175 g P. One +400–550 day on a cut week is absorbable — skin is the tax; do not compensate tomorrow._
+
+### 2026-10-31 (Sat) — Breakfast (LEG A day 🟢) — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Oats 60 g + 2% milk 400 g + banana + creatine 5 g + collagen 15 g | ~540 | ~25 | ~10 | ~86 | ~140 |
+
+_Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-porridge cards retired for good (preference logged in skill). Macros were on-plan: ~25 g P / 86 g C pre-squat. Last oat breakfast of the program._
+
+**Planned rest of 🟢 day:** lunch = batch 450 g raw-basis (~650 g cooked) + capsicum/onion + optional yogurt 150 g (~1,060–1,150 kcal / 81–98 P) · dinner = ~2–3 skinless thighs (~373 g bone-in ≈ 280 g meat) + sweet-potato fries 300–350 g + 1 cup milk pre-bed — **no whey, no oil** (fat floor met by meals) → **projected ~2,550 kcal · ~185 g P · Na ~900–1,100.**
