@@ -53,6 +53,8 @@ Potato fries (oven/air, 1 tbsp olive oil for the tray — 90/10 needs it for the
 
 **Health flag (2026-10-30):** Richard reports **bone pain when benching PRs**. Location not yet specified (sternum? ribs? shoulders?). Watch: if sharp/localized/worsening under load or persisting >1–2 weeks → campus health / doctor, no PRs through it. Week's diet was low Ca/vit D/omega-3 — grocery fix underway (milk, sardines, greens); collagen 15 g + vit C pre-workout added as low-risk tendon support.
 
+**Training flag (2026-10-31):** **Hip shift in back squat** — glutes drift to one side on descent despite symmetric stance; no perceived side weakness. Plan: film squat rear+side view, ankle-dorsiflexion wall test per side, unilateral work (Bulgarian split squats, weak-side-first rule), "sit between the hips" cue, hip internal-rotation mobility. Reassess in 8–12 weeks; PT screen if painful or static.
+
 **Shopping basketball (2026-10-30 haul):** ✅ DONE: bananas · onions · capsicum · spinach · potatoes/sweet · avocados · kimchi · ground beef (5 lb, 90/10 confirmed) · chicken family pack · Knox gelatin ×2 · granulated sugar 2 lb · Karo corn syrup · grains of paradise (foods-to-get list FULLY CLEARED) · hand soap · milk 2% · Greek yogurt · eggs · REMAINING: oats · white/black beans · sardines/salmon (water) · collagen peptides · D3+K2 (2,000–4,000 IU) · hot sauce (if out) · candy thermometer · LorAnn flavors (green apple + watermelon). **Meijer add-ons:** Knox ✅ sugar ✅ syrup ✅ thermometer ⏳ LorAnn ⏳
 
 ---
