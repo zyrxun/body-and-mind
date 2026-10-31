@@ -1197,4 +1197,4 @@ _Trim call: drop toast + whey → ~2,250 kcal / ~150 g P; or keep whey, drop toa
 
 _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-porridge cards retired for good (preference logged in skill). Macros were on-plan: ~25 g P / 86 g C pre-squat. Last oat breakfast of the program._
 
-**Planned rest of 🟢 day:** lunch = batch 450 g raw-basis (~650 g cooked) + capsicum/onion + optional yogurt 150 g (~1,060–1,150 kcal / 81–98 P) · dinner = ~2–3 skinless thighs (~373 g bone-in ≈ 280 g meat) + sweet-potato fries 300–350 g + 1 cup milk pre-bed — **no whey, no oil** (fat floor met by meals) → **projected ~2,550 kcal · ~185 g P · Na ~900–1,100.**
+**Planned rest of 🟢 day (SPLIT — 450g raw batch across 2 meals, his call):** lunch = batch 250 g raw-basis (~360 g cooked) + capsicum/onion (~620 kcal / 47 P) · dinner = batch 200 g raw-basis (~290 g cooked) + 2 skinless thighs + sweet-potato fries 250 g (~1,180 / 116 P) — no whey, no oil → **projected ~2,340 kcal · ~188 g P.** Oats: porridge banned, bucket stays as baking/smoothie/overnight ingredient (his call).
