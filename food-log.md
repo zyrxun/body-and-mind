@@ -1197,4 +1197,13 @@ _Trim call: drop toast + whey → ~2,250 kcal / ~150 g P; or keep whey, drop toa
 
 _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-porridge cards retired for good (preference logged in skill). Macros were on-plan: ~25 g P / 86 g C pre-squat. Last oat breakfast of the program._
 
+**Snack (11:45): Hershey's milk choc 9 g** — +48 kcal / +4.8 g sugar (quality-control bites during first cookie bake). Cookie batch #1 in oven ~13:00.
+
+### 2026-10-31 (Sat) — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Batch (beef+pasta) 350 g cooked | ~665 | ~54 | ~22 | ~56 | ~46 |
+| Marinara, dash ~30 g | ~15 | ~0 | ~0 | ~2 | ~80 |
+| **Lunch total** | **~680** | **~54** | ~22 | ~58 | **~126** |
+
 **Planned rest of 🟢 day (SPLIT — 450g raw batch across 2 meals, his call):** lunch = batch 250 g raw-basis (~360 g cooked) + capsicum/onion (~620 kcal / 47 P) · dinner = batch 200 g raw-basis (~290 g cooked) + 2 skinless thighs + sweet-potato fries 250 g (~1,180 / 116 P) — no whey, no oil → **projected ~2,340 kcal · ~188 g P.** Oats: porridge banned, bucket stays as baking/smoothie/overnight ingredient (his call).
