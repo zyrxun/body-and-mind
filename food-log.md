@@ -1208,7 +1208,15 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 
 **Planned rest of 🟢 day (SPLIT — 450g raw batch across 2 meals, his call):** lunch = batch 250 g raw-basis (~360 g cooked) + capsicum/onion (~620 kcal / 47 P) · dinner = batch 200 g raw-basis (~290 g cooked) + 2 skinless thighs + sweet-potato fries 250 g (~1,180 / 116 P) — no whey, no oil → **projected ~2,340 kcal · ~188 g P.** Oats: porridge banned, bucket stays as baking/smoothie/overnight ingredient (his call).
 
-### 2026-11-01 (Sun) — LEG B day 🟢 (hip thrust primary, no RDL) · Halloween-night aftermath
+### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs | 210 | 19 | 15 | 1 | 210 |
+| Italian bread toast ×2 (~60 g, bakery, ~est ±15%) | ~180 | ~5 | ~2 | ~35 | ~300 |
+| Banana | 105 | 1 | 0 | 27 | 1 |
+| Meijer plain FULL-FAT Greek yogurt, 200 g (last of the tub; future tubs = fat-free) | ~195 | ~18 | ~10 | ~8 | ~70 |
+| Creatine 5 g + collagen 15 g | ~60 | ~12 | 0 | 0 | ~20 |
+| **Breakfast total** | **~750** | **~55** | ~32 | ~71 | **~600** |
 _Sat FINAL came in ~2,715 kcal / ~145 P / Na ~2,970 (pho + chips). Today: protein back to 175+ via batch + thighs, sodium LEAN day (no broth, no chips, no kimchi, rinse canned fish if used). Donut #1 post-Leg-B with fries trimmed to 150 g; donut #2 Mon lunch replacing rice/toast._
 
 **UPDATE 8:40am: 3 HOURS of basketball Sat after Leg A → knees fried. Session swapped: BACK + hip thrusts + ham curls + shoulder block (no leg press/lunges/ab-adductors — knee-earned rest). Leg B re-slots next Sunday (or light Wed add-on if knees feel good by Wed). Training-day carbs stay ~medium: donut #1 post-workout stands, fries dropped (back day doesn't need them).**
