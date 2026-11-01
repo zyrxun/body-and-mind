@@ -1208,6 +1208,15 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 
 **Planned rest of 🟢 day (SPLIT — 450g raw batch across 2 meals, his call):** lunch = batch 250 g raw-basis (~360 g cooked) + capsicum/onion (~620 kcal / 47 P) · dinner = batch 200 g raw-basis (~290 g cooked) + 2 skinless thighs + sweet-potato fries 250 g (~1,180 / 116 P) — no whey, no oil → **projected ~2,340 kcal · ~188 g P.** Oats: porridge banned, bucket stays as baking/smoothie/overnight ingredient (his call).
 
+### 2026-11-01 (Sun) — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Batch (beef+pasta) 300 g cooked — batch now FINISHED | ~570 | ~47 | ~19 | ~48 | ~40 |
+| Capsicum & onion | ~60 | ~2 | 0 | ~12 | ~5 |
+| **Lunch total** | **~630** | **~49** | ~19 | ~60 | **~45** |
+
+**Running day: ~1,450 kcal · ~110 g P · Na ~735.** Dinner = 2 skinless thighs + donut #1 + banana/milk → projected day ~2,450–2,550 · ~180–190 g P.
+
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
