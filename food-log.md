@@ -1211,6 +1211,8 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 ### 2026-11-01 (Sun) — LEG B day 🟢 (hip thrust primary, no RDL) · Halloween-night aftermath
 _Sat FINAL came in ~2,715 kcal / ~145 P / Na ~2,970 (pho + chips). Today: protein back to 175+ via batch + thighs, sodium LEAN day (no broth, no chips, no kimchi, rinse canned fish if used). Donut #1 post-Leg-B with fries trimmed to 150 g; donut #2 Mon lunch replacing rice/toast._
 
+**UPDATE 8:40am: 3 HOURS of basketball Sat after Leg A → knees fried. Session swapped: BACK + hip thrusts + ham curls + shoulder block (no leg press/lunges/ab-adductors — knee-earned rest). Leg B re-slots next Sunday (or light Wed add-on if knees feel good by Wed). Training-day carbs stay ~medium: donut #1 post-workout stands, fries dropped (back day doesn't need them).**
+
 ### 2026-10-31 (Sat) — Dinner — EATEN (Halloween 🎃)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
