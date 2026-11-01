@@ -1207,3 +1207,15 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 | **Lunch total** | **~680** | **~54** | ~22 | ~58 | **~126** |
 
 **Planned rest of 🟢 day (SPLIT — 450g raw batch across 2 meals, his call):** lunch = batch 250 g raw-basis (~360 g cooked) + capsicum/onion (~620 kcal / 47 P) · dinner = batch 200 g raw-basis (~290 g cooked) + 2 skinless thighs + sweet-potato fries 250 g (~1,180 / 116 P) — no whey, no oil → **projected ~2,340 kcal · ~188 g P.** Oats: porridge banned, bucket stays as baking/smoothie/overnight ingredient (his call).
+
+### 2026-10-31 (Sat) — Dinner — EATEN (Halloween 🎃)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Beef pho, medium bowl (restaurant, ~est ±15%) | ~500 | ~33 | ~12 | ~65 | ~1,500 |
+| Zero-sugar 7UP Shirley Temple, 1 can | 0 | 0 | 0 | 0 | ~60 |
+| Ruffles Cheddar & Sour Cream, 3.5 oz (99 g) | ~570 | ~25 | ~35 | ~53 | ~1,060 |
+| 1 recomp oat cookie (baked, warm) | ~155 | ~8 | ~4 | ~15 | ~60 |
+| **Dinner total** | **~1,225** | **~66** | ~51 | ~133 | **~2,680** |
+
+**Saturday FINAL (Halloween): ~2,715 kcal · ~145 g P · Na ~2,970 mg.**
+_Sober-friendly zero-sugar mixer = great call. Sodium blew the 1,300 cap (pho broth + chips = ~2,500 of it) — weekly-average framing applies, Monday leans low-Na. Protein ~145 g under the 170–185 window: no whey, pho meat is modest, chips aren't protein. Donut plan unchanged: #1 today (Sun) post-Leg-B with fries trimmed to 150 g, #2 Mon lunch replacing rice/toast._
