@@ -1215,8 +1215,10 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 | Italian bread toast ×2 (~60 g, bakery, ~est ±15%) | ~180 | ~5 | ~2 | ~35 | ~300 |
 | Banana | 105 | 1 | 0 | 27 | 1 |
 | Meijer plain FULL-FAT Greek yogurt, 200 g (last of the tub; future tubs = fat-free) | ~195 | ~18 | ~10 | ~8 | ~70 |
-| Creatine 5 g + collagen 15 g | ~60 | ~12 | 0 | 0 | ~20 |
-| **Breakfast total** | **~750** | **~55** | ~32 | ~71 | **~600** |
+| Creatine 5 g | 0 | 0 | 0 | 0 | 0 |
+| Meijer beef collagen peptides, 1 serving = 2 scoops 20 g (label) | ~70 | ~18 | 0 | 0 | ~110 |
+| Local Hive raw honey, ~1 Tbsp (21 g, label; "drizzle" ~est — half if light) | ~60 | 0 | 0 | ~17 (sugar) | 0 |
+| **Breakfast total** | **~820** | **~61** | ~32 | ~88 | **~690** |
 _Sat FINAL came in ~2,715 kcal / ~145 P / Na ~2,970 (pho + chips). Today: protein back to 175+ via batch + thighs, sodium LEAN day (no broth, no chips, no kimchi, rinse canned fish if used). Donut #1 post-Leg-B with fries trimmed to 150 g; donut #2 Mon lunch replacing rice/toast._
 
 **UPDATE 8:40am: 3 HOURS of basketball Sat after Leg A → knees fried. Session swapped: BACK + hip thrusts + ham curls + shoulder block (no leg press/lunges/ab-adductors — knee-earned rest). Leg B re-slots next Sunday (or light Wed add-on if knees feel good by Wed). Training-day carbs stay ~medium: donut #1 post-workout stands, fries dropped (back day doesn't need them).**
