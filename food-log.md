@@ -1223,10 +1223,11 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 | Chicken, boneless skinless thigh 323 g raw | ~391 | ~56 | ~18 | 0 | ~271 |
 | Broccoli 160 g | ~54 | ~4 | 0 | ~11 | ~53 |
 | Donut #1 (bakery, ~est ±15%) | ~270 | ~4 | ~15 | ~31 | ~200 |
-| **Dinner total** | **~715** | **~64** | ~33 | ~42 | **~524** |
+| 2% milk, 300 g | ~366 | ~24 | ~15 | ~35 | ~300 |
+| **Dinner total** | **~1,081** | **~88** | ~48 | ~77 | **~824** |
 
-**Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,165 kcal · ~174 g P · ~65 g F · Na ~1,260 mg.**
-_Protein window hit exactly, sodium lean day delivered (under cap despite donut), fat floor cleared, whey not needed. Kcal ~335 under 🟢 target — legitimate after Saturday's 2,715; two-day average lands right on budget. No compensation Monday._
+**Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,530 kcal · ~199 g P · ~80 g F · Na ~1,560 mg.**
+_Protein 199 g — above the 170–185 window but harmless (milk did it, not whey); kcal right at 🟢 target; Na ~1,560 = modestly over cap (donut + milk), still nothing like Saturday. Two-day average: ~2,620 kcal / ~172 g P / Na ~2,265 — on budget overall. No compensation Monday._
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
