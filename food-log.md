@@ -1228,7 +1228,7 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 **Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
-**Amendment (Mon): donut #1 did NOT get eaten Sunday — moved to Monday morning instead. Sunday stands at ~2,280 kcal / 195 g P / Na ~1,359. Donut #1 = Mon 11-02, donut #2 also Mon or Tue.**
+**Amendment (Mon): Sunday's donut never happened. He GAVE AWAY one of the two donuts; the last remaining one is being eaten Monday morning. So: donut count = 1 total, ~270 kcal / ~4 P / ~15 F / ~12 g sugar / Na ~200 — lands as Monday breakfast's carb slot. No donut #2 exists.**
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
