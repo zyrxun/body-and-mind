@@ -1222,12 +1222,13 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 |---|---|---|---|---|---|
 | Chicken, boneless skinless thigh 323 g raw | ~391 | ~56 | ~18 | 0 | ~271 |
 | Broccoli 160 g | ~54 | ~4 | 0 | ~11 | ~53 |
-| Donut #1 (bakery, ~est ±15%) | ~270 | ~4 | ~15 | ~31 | ~200 |
 | 2% milk, 300 g | ~366 | ~24 | ~15 | ~35 | ~300 |
-| **Dinner total** | **~1,081** | **~88** | ~48 | ~77 | **~824** |
+| **Dinner total** | **~811** | **~84** | ~33 | ~46 | **~624** |
 
-**Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,530 kcal · ~199 g P · ~80 g F · Na ~1,560 mg.**
-_Protein 199 g — above the 170–185 window but harmless (milk did it, not whey); kcal right at 🟢 target; Na ~1,560 = modestly over cap (donut + milk), still nothing like Saturday. Two-day average: ~2,620 kcal / ~172 g P / Na ~2,265 — on budget overall. No compensation Monday._
+**Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
+_Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
+
+**Amendment (Mon): donut #1 did NOT get eaten Sunday — moved to Monday morning instead. Sunday stands at ~2,280 kcal / 195 g P / Na ~1,359. Donut #1 = Mon 11-02, donut #2 also Mon or Tue.**
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
