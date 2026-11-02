@@ -1236,7 +1236,8 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 | Italian toast ×1 (~30 g, ~est ±15%) | ~90 | ~2.5 | ~1 | ~17 | ~150 |
 | 2% milk, 200 g | ~244 | ~16 | ~10 | ~23 | ~200 |
 | Local Hive honey, dash ~10 g (~est: half a tbsp) | ~30 | 0 | 0 | ~8 (sugar) | 0 |
-| **Breakfast total** | **~844** | **~42** | ~41 | ~80 | **~760** |
+| Hershey's milk chocolate, 1 piece 9 g | ~48 | ~1 | ~3 | ~5 (sugar) | ~10 |
+| **Breakfast total** | **~892** | **~43** | ~44 | ~85 | **~770** |
 
 _Plan: +3 eggs + 1–2 Italian toast + milk → breakfast ~700–780 kcal / ~35 P. Lunch = marinated chicken debut (300 g raw, ~250 mg Na marinade) + veg. Dinner = sardines/salmon + salad. Day target 🔴 ~1,900–2,000 kcal / 170–185 P / Na lean._
 
