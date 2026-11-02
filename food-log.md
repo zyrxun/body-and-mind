@@ -1228,7 +1228,12 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 **Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
-**Amendment (Mon): Sunday's donut never happened. He GAVE AWAY one of the two donuts; the last remaining one is being eaten Monday morning. So: donut count = 1 total, ~270 kcal / ~4 P / ~15 F / ~12 g sugar / Na ~200 — lands as Monday breakfast's carb slot. No donut #2 exists.**
+### 2026-11-02 (Mon) — REST day 🔴 — Breakfast — donut EATEN, rest assembling
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Donut (the last one, ~est ±15%) | ~270 | ~4 | ~15 | ~31 | ~200 |
+
+_Plan: +3 eggs + 1–2 Italian toast + milk → breakfast ~700–780 kcal / ~35 P. Lunch = marinated chicken debut (300 g raw, ~250 mg Na marinade) + veg. Dinner = sardines/salmon + salad. Day target 🔴 ~1,900–2,000 kcal / 170–185 P / Na lean._
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
