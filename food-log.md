@@ -1238,6 +1238,14 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Bread ran out (last 2 slices eaten Monday morning). Milk + creatine moved POST-workout (too full pre-session — his call, correct). Session DONE 6:40 slot — Push day confirmed._
 
+### 2026-11-03 (Tue) — PUSH day — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Chicken container #1 (300 g raw marinated thigh + 150 g broccoli, from Mon prep) | ~434 | ~56 | ~17 | ~13 | ~300 |
+| **Lunch total** | **~434** | **~56** | ~17 | ~13 | **~300** |
+
+_No rice (doesn't own any — grocery add). Leaner training day; carbs came from banana pre-session._
+
 ### 2026-11-02 (Mon) — REST day 🔴 — Breakfast — donut EATEN, rest assembling
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
