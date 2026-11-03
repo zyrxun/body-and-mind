@@ -1239,7 +1239,12 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 | Hershey's milk chocolate, 1 piece 9 g | ~48 | ~1 | ~3 | ~5 (sugar) | ~10 |
 | **Breakfast total** | **~892** | **~43** | ~44 | ~85 | **~770** |
 
-_Plan: +3 eggs + 1–2 Italian toast + milk → breakfast ~700–780 kcal / ~35 P. Lunch = marinated chicken debut (300 g raw, ~250 mg Na marinade) + veg. Dinner = sardines/salmon + salad. Day target 🔴 ~1,900–2,000 kcal / 170–185 P / Na lean._
+### 2026-11-02 (Mon) — REST day 🔴 — Dinner (Spiedo) — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| ZHOUg KNIGHT (spit-roast marinated chicken, flatbread, zhoug, pickles — macros.menu, Na ~est ±15%) | ~250 | ~25 | ~10 | ~15 | ~500 |
+
+**Monday FINAL: ~1,680 kcal · ~123 g P · Na ~1,465 — protein SHORT of window (gap ~50 g).** Closing plan given: fat-free yogurt 200 g + 200 g milk (+365 kcal / +40 P) → lands ~2,045 / ~163; or + egg → ~175. Slight Na over cap (~1,465), weekly framing absorbs. Spiedo verdict: consensus best-seller delivered at 10 g P/100 kcal — flagship justified.
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
