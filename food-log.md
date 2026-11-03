@@ -1228,6 +1228,16 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 **Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
+### 2026-11-03 (Tue) — PUSH day — Breakfast — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs | 210 | 19 | 15 | 1 | 210 |
+| Banana | 105 | 1 | 0 | 27 | 1 |
+| Creatine 5 g | 0 | 0 | 0 | 0 | 0 |
+| **Breakfast total** | **~315** | **~20** | ~15 | ~28 | **~211** |
+
+_Bread ran out (last 2 slices eaten Monday morning). Milk + creatine moved POST-workout (too full pre-session — his call, correct). Session DONE 6:40 slot — Push day confirmed._
+
 ### 2026-11-02 (Mon) — REST day 🔴 — Breakfast — donut EATEN, rest assembling
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
