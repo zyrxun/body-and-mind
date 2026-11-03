@@ -1244,9 +1244,10 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 |---|---|---|---|---|---|
 | ZHOUg KNIGHT (spit-roast marinated chicken, flatbread, zhoug, pickles — macros.menu, Na ~est ±15%) | ~250 | ~25 | ~10 | ~15 | ~500 |
 | 2% milk, 300 g (evening close-out) | ~366 | ~24 | ~15 | ~35 | ~300 |
-| **Dinner total** | **~616** | **~49** | ~25 | ~50 | **~800** |
+| Ruffles Cheddar & Sour Cream, 99 g / 3.5 oz (finishing the bag) | ~570 | ~7 | ~37 | ~49 | ~1,060 |
+| **Dinner total** | **~1,186** | ~56 | ~62 | ~99 | **~1,860** |
 
-**Monday FINAL: ~2,046 kcal · ~147 g P · Na ~1,765.** Protein still ~25 g short of window (yogurt/eggs would close it — optional now, day is acceptable as-is). Slight Na over cap, weekly framing absorbs. Spiedo verdict: consensus best-seller delivered at 10 g P/100 kcal — flagship justified.
+**Monday FINAL (revised after Ruffles): ~2,616 kcal · ~154 g P · Na ~2,825.** Chip-night correction: lands ~AT maintenance (~2,600 TDEE) — technically a zero-deficit rest day. Accepted as carb-load + morale for Tue 6:40 Push; protein 154 still short of window. Na heavy — Tue/Wed/Thu go lean to rebalance. Weekly framing absorbs.
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
