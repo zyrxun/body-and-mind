@@ -1243,8 +1243,10 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | ZHOUg KNIGHT (spit-roast marinated chicken, flatbread, zhoug, pickles — macros.menu, Na ~est ±15%) | ~250 | ~25 | ~10 | ~15 | ~500 |
+| 2% milk, 300 g (evening close-out) | ~366 | ~24 | ~15 | ~35 | ~300 |
+| **Dinner total** | **~616** | **~49** | ~25 | ~50 | **~800** |
 
-**Monday FINAL: ~1,680 kcal · ~123 g P · Na ~1,465 — protein SHORT of window (gap ~50 g).** Closing plan given: fat-free yogurt 200 g + 200 g milk (+365 kcal / +40 P) → lands ~2,045 / ~163; or + egg → ~175. Slight Na over cap (~1,465), weekly framing absorbs. Spiedo verdict: consensus best-seller delivered at 10 g P/100 kcal — flagship justified.
+**Monday FINAL: ~2,046 kcal · ~147 g P · Na ~1,765.** Protein still ~25 g short of window (yogurt/eggs would close it — optional now, day is acceptable as-is). Slight Na over cap, weekly framing absorbs. Spiedo verdict: consensus best-seller delivered at 10 g P/100 kcal — flagship justified.
 
 ### 2026-11-01 (Sun) — Breakfast (BACK day) — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
