@@ -1228,8 +1228,8 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 **Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
-### 2026-11-04 (Wed) — Session #2 (6:40 slot) — Breakfast — PLANNED 07:19 (revised: 45 g oats)
-_Yesterday ran 650 kcal lean — today eats UP. Card: yogurt-oat crunch bowl (200 g fat-free yogurt + 45 g oats crumbled dry on top + 60 g blueberries + dash honey) = ~380 kcal / 27 P / ~9 g fibre; + 250 g milk → ~505 / 35 P / Na ~180. NOT porridge — oats stay dry on top, crunchy granola style. Creatine 5 g. Eggs finished if no stock remains._
+### 2026-11-04 (Wed) — REST/EXAM day 🔴 (rec hoops tonight) — Breakfast — PLANNED 07:19 (revised: 45 g oats)
+_NO gym — 8:30 exam + rec basketball tonight. Tuesday-style carry: eggs pre (lean), milk + creatine post. Yesterday ran 650 kcal lean — today eats UP: yogurt-oat crunch bowl (200 g fat-free yogurt + 45 g oats crumbled dry + 60 g blueberries + dash honey) + 250 g milk = ~505 kcal / 35 P / ~9 g fibre / Na ~180. NOT porridge — oats stay dry, crunchy. Basketball tonight = carb slot earned at dinner: add rice/pasta/extra oats or toast substitute. Thu session still on._
 
 ### 2026-11-03 (Tue) — PUSH day — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
