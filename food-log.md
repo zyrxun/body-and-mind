@@ -1244,7 +1244,8 @@ _Bread ran out (last 2 slices eaten Monday morning). Milk + creatine moved POST-
 | Chicken thigh boneless skinless, 220 g COOKED + broccoli 150 g | ~480 | ~61 | ~21 | ~11 | ~50 |
 | **Dinner total** | **~480** | **~61** | ~21 | ~11 | **~50** |
 
-**Tuesday FINAL (Push 6:40 done, wrist-stack bench @~80%): ~1,535 kcal · ~153 g P · Na ~710.**
+**Tuesday FINAL (Push 6:40 done, wrist-stack bench @~80%): ~1,580 kcal · ~154 g P · Na ~785.**
+_LEAN training day — half slice of bread (the end of the loaf) added post-dinner (+45 kcal)._
 _LEAN training day — under 🟡 target by ~750 kcal (two cookies + no carbs at lunch/dinner). Protein below window (153 vs 170): acceptable single-day miss, soy-marinated chicken remains the engine. Na beautifully lean — week rebalancing after Monday. Container #2 revised to 220 g cooked basis (his scale reading wins over the 300 g raw assumption)._
 
 ### 2026-11-03 (Tue) — PUSH day — Lunch — EATEN
