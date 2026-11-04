@@ -1228,6 +1228,9 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 **Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
+### 2026-11-04 (Wed) — Session #2 (6:40 slot) — Breakfast — PLANNED 07:19
+_Yesterday ran 650 kcal lean — today eats UP. Card: yogurt-oat crunch bowl (200 g fat-free yogurt + 60 g oats crumbled dry on top + 60 g blueberries + dash honey) = ~410 kcal / 31 P / ~10 g fibre; + 250 g milk → ~535 / 39 P / Na ~180. NOT porridge — oats stay dry on top, crunchy granola style. Creatine 5 g. Eggs finished if no stock remains._
+
 ### 2026-11-03 (Tue) — PUSH day — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
