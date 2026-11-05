@@ -1231,7 +1231,8 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 ### 2026-11-04 (Wed) — REST/EXAM + rec hoops — Breakfast, Lunch, Dinner
 _Breakfast (eaten per card): yogurt-oat crunch bowl + 250 g milk = ~505 kcal / 35 P / Na ~180. Lunch (per card): container + 75 g dry pasta = ~745 kcal / 71 P / Na ~105. Pre-game instant noodles PLANNED but then swapped for pasta dinner — noodle status unconfirmed (Na either ~516 or ~2,215)._
 **Dinner (post-hoops) — EATEN:** 100 g dry pasta + beef (weight unstated — est ~85 g cooked 90/10, ±30% flag) + 182 g chicken BONE-IN (~75% yield → ~165/23.7P) + 250 g milk = **~880 kcal / ~66 P / Na ~230**
-**Wednesday day estimate (no noodles): ~2,510 kcal / ~180 g P / Na ~520 · (if noodles eaten too: ~2,890 / ~2,215 Na).** Hoops ~1 h tonight. Excellent training-day feed; Thursday 6:40 Push fuel stored.
+**Wednesday FINAL (exam + rec hoops ~1 h): ~2,890 kcal / ~188 g P / Na ~2,215.**
+_Noodles CONFIRMED eaten pre-game (+380 kcal, +1,700 Na) on top of pasta dinner — carb-doubled game day, justified by sweat; Thursday goes lean. Beef weight still unconfirmed (est ~85 g cooked, ±30% flag). Protein past window via dinner stack; day = excellent training-day feed._
 _NO gym — 8:30 exam + rec basketball tonight. Tuesday-style carry: eggs pre (lean), milk + creatine post. Yesterday ran 650 kcal lean — today eats UP: yogurt-oat crunch bowl (200 g fat-free yogurt + 45 g oats crumbled dry + 60 g blueberries + dash honey) + 250 g milk = ~505 kcal / 35 P / ~9 g fibre / Na ~180. NOT porridge — oats stay dry, crunchy. Basketball tonight = carb slot earned at dinner: add rice/pasta/extra oats or toast substitute. Thu session still on._
 
 ### 2026-11-03 (Tue) — PUSH day — Breakfast — EATEN
