@@ -1236,13 +1236,13 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 | Milk 2% 250 g + creatine 5 g | 125 | 8 | 5 | 12 | 100 |
 | **Breakfast total** | **~550** | **~44** | ~25.5 | ~46 | **~285** |
 
-### 2026-11-05 (Thu) — BACK day (swapped from Upper) — Lunch — EATEN
+### 2026-11-05 (Thu) — BACK day (swapped from Upper) — Lunch — CORRECTED
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Chicken container (300 g raw-basis thigh + 150 g broccoli) | ~434 | ~56 | ~17 | ~13 | ~300 |
-| **Lunch total** | **~434** | **~56** | ~17 | ~13 | **~300** |
+| Pasta-and-beef MIX 250 g cooked — NOTHING ELSE (container NOT eaten; earlier container entry removed) | ~475 | ~38.5 | ~26 | ~82 | ~75 |
+| **Lunch total** | **~475** | **~38.5** | ~26 | ~82 | **~75** |
 
-_Running: ~984 kcal / ~100 P / Na ~585._
+_Running (bfst+lunch): ~1,025 kcal / ~82.5 P / Na ~360. SOURDOUGH BREAD appeared in the house (egg-on-sourdough proposal pending decision) — Italian loaf flag superseded._
 
 _Pasta-for-breakfast day (his call — owns a big mix batch). EGGS RESTOCKED ("hella eggs" — grocery flag was stale, cleared). Creatine + milk post-session per his fullness rule. Session: BACK day (swapped from scheduled Upper), done._
 _Breakfast (eaten per card): yogurt-oat crunch bowl + 250 g milk = ~505 kcal / 35 P / Na ~180. Lunch (corrected 11-04 late): container + 75 g pasta-BEEF MIX cooked = **~577 kcal / ~68 P / Na ~345** — logged first as plain dry pasta, fixed under the standing "pasta = mix" rule. Pre-game instant noodles confirmed (+380/1,700 Na)._
