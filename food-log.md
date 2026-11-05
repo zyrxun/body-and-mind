@@ -1228,7 +1228,15 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 **Sunday FINAL (back + thrusts + curls + shoulder; knees rested): ~2,280 kcal · ~195 g P · ~65 g F · Na ~1,359 mg.**
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
-### 2026-11-04 (Wed) — REST/EXAM + rec hoops — Breakfast, Lunch, Dinner
+### 2026-11-05 (Thu) — UPPER day — Breakfast — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef MIX 150 g cooked (cold from fridge) | ~285 | 23 | ~10.5 | ~33 | ~45 |
+| 2 eggs | 140 | 13 | 10 | 1 | 140 |
+| Milk 2% 250 g + creatine 5 g | 125 | 8 | 5 | 12 | 100 |
+| **Breakfast total** | **~550** | **~44** | ~25.5 | ~46 | **~285** |
+
+_Pasta-for-breakfast day (his call — owns a big mix batch). EGGS RESTOCKED ("hella eggs" — grocery flag was stale, cleared). Creatine + milk post-session per his fullness rule. Session status (6:40 Upper) not yet reported — forearm/wrist-stack bench report pending._
 _Breakfast (eaten per card): yogurt-oat crunch bowl + 250 g milk = ~505 kcal / 35 P / Na ~180. Lunch (corrected 11-04 late): container + 75 g pasta-BEEF MIX cooked = **~577 kcal / ~68 P / Na ~345** — logged first as plain dry pasta, fixed under the standing "pasta = mix" rule. Pre-game instant noodles confirmed (+380/1,700 Na)._
 **Dinner (post-hoops) — EATEN (corrected):** pasta-and-beef MIX (like Mon batch) 100 g cooked — NO separate beef + 182 g chicken BONE-IN (~75% yield → ~165/23.7P) + 250 g milk = **~480 kcal / ~47 P / Na ~195**
 **Wednesday FINAL (exam + rec hoops ~1 h): ~1,940 kcal / ~158 g P / Na ~2,420.**
