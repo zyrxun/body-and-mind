@@ -1229,10 +1229,10 @@ _Reported "nearly threw up" — oats antipathy now empirically confirmed; oat-po
 _Protein past the window via milk (harmless — casein before sleep); kcal slightly under 🟢 (fine, Saturday ran over); Na just over cap. No compensation Monday._
 
 ### 2026-11-04 (Wed) — REST/EXAM + rec hoops — Breakfast, Lunch, Dinner
-_Breakfast (eaten per card): yogurt-oat crunch bowl + 250 g milk = ~505 kcal / 35 P / Na ~180. Lunch (per card): container + 75 g dry pasta = ~745 kcal / 71 P / Na ~105. Pre-game instant noodles PLANNED but then swapped for pasta dinner — noodle status unconfirmed (Na either ~516 or ~2,215)._
+_Breakfast (eaten per card): yogurt-oat crunch bowl + 250 g milk = ~505 kcal / 35 P / Na ~180. Lunch (corrected 11-04 late): container + 75 g pasta-BEEF MIX cooked = **~577 kcal / ~68 P / Na ~345** — logged first as plain dry pasta, fixed under the standing "pasta = mix" rule. Pre-game instant noodles confirmed (+380/1,700 Na)._
 **Dinner (post-hoops) — EATEN (corrected):** pasta-and-beef MIX (like Mon batch) 100 g cooked — NO separate beef + 182 g chicken BONE-IN (~75% yield → ~165/23.7P) + 250 g milk = **~480 kcal / ~47 P / Na ~195**
-**Wednesday FINAL (exam + rec hoops ~1 h): ~2,110 kcal / ~161 g P / Na ~2,180.**
-_Noodles confirmed pre-game (+380/1,700 Na). Beef correction: the "beef" was inside the pasta mix, not a separate portion — dinner drops ~400 kcal/~19 P. Protein just under window (161 vs 170) — acceptable after two over-target days; Wednesday still a proper game-day feed._
+**Wednesday FINAL (exam + rec hoops ~1 h): ~1,940 kcal / ~158 g P / Na ~2,420.**
+_Lunch + dinner both used the mix correctly after correction; day runs ~360 kcal under 🟡 target but hoops-earned carbs were present (noodles + double pasta mix). Protein 12 g under window — Wednesday stays a lean-ish game day; Thursday standard lean card._
 _NO gym — 8:30 exam + rec basketball tonight. Tuesday-style carry: eggs pre (lean), milk + creatine post. Yesterday ran 650 kcal lean — today eats UP: yogurt-oat crunch bowl (200 g fat-free yogurt + 45 g oats crumbled dry + 60 g blueberries + dash honey) + 250 g milk = ~505 kcal / 35 P / ~9 g fibre / Na ~180. NOT porridge — oats stay dry, crunchy. Basketball tonight = carb slot earned at dinner: add rice/pasta/extra oats or toast substitute. Thu session still on._
 
 ### 2026-11-03 (Tue) — PUSH day — Breakfast — EATEN
