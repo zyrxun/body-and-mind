@@ -1236,6 +1236,14 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 | Milk 2% 250 g + creatine 5 g | 125 | 8 | 5 | 12 | 100 |
 | **Breakfast total** | **~550** | **~44** | ~25.5 | ~46 | **~285** |
 
+### 2026-11-06 (Fri) — REST + carb-load day — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Yogurt-oat crunch bowl (200 g yogurt + 45 g oats + 60 g blueberries + honey dash) | ~350 | ~28 | ~4 | ~50 | ~80 |
+| **Lunch total** | **~350** | **~28** | ~4 | ~50 | **~80** |
+
+_Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
+
 ### 2026-11-06 (Fri) — REST + carb-load day — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
