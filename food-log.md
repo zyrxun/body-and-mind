@@ -1236,6 +1236,15 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 | Milk 2% 250 g + creatine 5 g | 125 | 8 | 5 | 12 | 100 |
 | **Breakfast total** | **~550** | **~44** | ~25.5 | ~46 | **~285** |
 
+### 2026-11-06 (Fri) — REST + carb-load day — Breakfast — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs | 210 | 19 | 15 | 1 | 210 |
+| Milk 2% 250 g + creatine 5 g | 125 | 8 | 5 | 12 | 100 |
+| **Breakfast total** | **~335** | **~27** | ~20 | ~13 | **~310** |
+
+_Sodium-lean day active (post-Panda rebalance). Carb-load = dinner tonight (home pasta-mix + potatoes, 🔴 tradition). Saturday Leg A mandatory — squat-film report due._
+
 ### 2026-11-05 (Thu) — BACK day (swapped from Upper) — Lunch — CORRECTED
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
