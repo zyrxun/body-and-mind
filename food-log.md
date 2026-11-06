@@ -1245,6 +1245,15 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~1,215 kcal / ~91 P / Na ~540. SOURDOUGH BREAD in the house (new loaf — origin unconfirmed, replaces dead Italian loaf; slice weight ~est 40 g). Egg-on-sourdough confirmed eaten._
 
+### 2026-11-05 (Thu) — BACK day — Dinner — Panda feast — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Panda Plate: white rice (12 oz) + Grilled Teriyaki Chicken + Orange Chicken — official numbers | ~1,410 | ~68 | ~34 | ~176 | ~1,610 |
+| **Dinner total** | **~1,410** | **~68** | ~34 | ~176 | **~1,610** |
+
+**THURSDAY FINAL (back session, Panda feast): ~2,625 kcal · ~159 P · Na ~2,150.**
+_Correct rice call (white over fried: saved ~810 mg Na). Plate ~$11.10 — bundle win over à-la-carte. Week Mon–Thu avg ~2,200 — deficit week intact. Na running hot 3 of 4 days: FRIDAY + WEEKEND GO LEAN (no kimchi, marinade chicken only, sardines when bought). Protein 159 — 11 g under window, acceptable; tomorrow is rest day._
+
 _Pasta-for-breakfast day (his call — owns a big mix batch). EGGS RESTOCKED ("hella eggs" — grocery flag was stale, cleared). Creatine + milk post-session per his fullness rule. Session: BACK day (swapped from scheduled Upper), done._
 _Breakfast (eaten per card): yogurt-oat crunch bowl + 250 g milk = ~505 kcal / 35 P / Na ~180. Lunch (corrected 11-04 late): container + 75 g pasta-BEEF MIX cooked = **~577 kcal / ~68 P / Na ~345** — logged first as plain dry pasta, fixed under the standing "pasta = mix" rule. Pre-game instant noodles confirmed (+380/1,700 Na)._
 **Dinner (post-hoops) — EATEN (corrected):** pasta-and-beef MIX (like Mon batch) 100 g cooked — NO separate beef + 182 g chicken BONE-IN (~75% yield → ~165/23.7P) + 250 g milk = **~480 kcal / ~47 P / Na ~195**
