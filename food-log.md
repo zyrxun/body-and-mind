@@ -1244,6 +1244,19 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-06 (Fri) — REST + carb-load day — Dinner — hotpot — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 7 thin-sliced beef (~15 g each, ~est) | ~175 | ~25 | ~10 | ~0 | ~70 |
+| Noodles, one portion (~est) | ~200 | ~6 | ~0 | ~40 | ~200 |
+| Fish balls + fish cakes, "lots" (~est 9 pc) | ~225 | ~22 | ~10 | ~15 | ~1,035 |
+| Vita honey chrysanthemum tea carton (label: 100 kcal/24 g sugar) | 100 | 0 | 0 | 24 | 40 |
+| Spicy broth, sips (not drained) | ~15 | ~0 | ~0 | ~2 | ~150 |
+| **Dinner total** | **~715** | **~53** | ~20 | ~81 | **~1,495** |
+
+**FRIDAY FINAL (hotpot, plain no sauce, tea over Diet Coke trade): ~1,385 kcal · ~108 g P · Na ~1,900 ~est · sugar 29/30 ✓**
+_Processed fish balls were the Na bomb (skip-list item, next time 0–2 pc max). Carb-load came in LOW (~81 g C vs 150 target) — Saturday Leg A runs on a partial tank: real breakfast ~8 am mandatory (oats + banana + eggs). Day very lean kcal (rest day, fine), Na still hot from fish balls — weekend stays lean. Tea trade executed as agreed (sauce skipped, net −320 mg Na)._
+
 ### 2026-11-06 (Fri) — REST + carb-load day — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
