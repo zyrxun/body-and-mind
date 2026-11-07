@@ -1244,6 +1244,18 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-07 (Sat) — LEG A — Breakfast — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Yogurt-oat crunch bowl (200 g yogurt + 45 g oats + honey dash) | ~320 | ~28 | ~4 | ~38 | ~81 |
+| 1 banana | 105 | 1 | 0 | 27 | 1 |
+| 2 eggs | 140 | 13 | 10 | 1 | 140 |
+| Milk 2% 250 g + creatine 5 g | 125 | 8 | 5 | 12 | 100 |
+| Sourdough slice (~40 g ~est) | ~120 | ~4 | ~1 | ~22 | ~180 |
+| **Breakfast total** | **~810** | **~54** | ~20 | ~100 | **~402** |
+
+_COOKIE BATCH LOST (mold, day 7, room-temp container — lesson saved to recipe file: fridge + freeze half next batch). Replacement card executed fully + bonus sourdough slice. Carbs ~100 g on board for the 9:30 squat — best-fueled Leg A yet._
+
 ### 2026-11-06 (Fri) — REST + carb-load day — Dinner — hotpot — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
