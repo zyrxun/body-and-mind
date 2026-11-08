@@ -1256,6 +1256,18 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _COOKIE BATCH LOST (mold, day 7, room-temp container — lesson saved to recipe file: fridge + freeze half next batch). Replacement card executed fully + bonus sourdough slice. Carbs ~100 g on board for the 9:30 squat — best-fueled Leg A yet._
 
+### 2026-11-07 (Sat) — LEG A — Lunch / Dinner / Night — EATEN (composite)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef MIX 450 g total (lunch + dinner combined — his number, basis assumed total) | ~855 | ~70 | ~31 | ~99 | ~135 |
+| Night fix: yogurt 300 g + banana + honey dash | ~284 | ~31 | ~1 | ~41 | ~120 |
+| Night fix: 1 egg + sourdough slice + cheese slice (~est American) | ~300 | ~17 | ~10 | ~24 | ~800 |
+| Instant noodle pack #2 of the week (late-night confession) | ~380 | ~8 | ~14 | ~55 | ~1,700 |
+| **L/D/N total** | **~1,819** | **~126** | ~55 | ~219 | **~2,825** |
+
+**SATURDAY FINAL (Leg A, no film): ~2,630 kcal · ~180 g P · Na ~3,230.**
+_Protein window finally HIT (180). But noodles twice this week + cheese slice → Na ~3,230, week Mon–Sat avg ~2,220 vs 1,300 cap — the sodium week is a legit problem, not noise. SUNDAY = hard reset: zero restaurant, zero noodle packs, marinade chicken + yogurt + oats + water. Noodle packs move to the do-not-restock list._
+
 ### 2026-11-06 (Fri) — REST + carb-load day — Dinner — hotpot — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
