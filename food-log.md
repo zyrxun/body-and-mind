@@ -1250,8 +1250,8 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 | Pasta-and-beef mix 200 g cooked (yogurt bowl declined — wanted pasta instead) | ~372 | ~26 | ~13 | ~39 | ~28 |
 | **Dinner total** | **~372** | **~26** | ~13 | ~39 | **~28** |
 
-**MONDAY FINAL (reset day, CLEAN): ~1,935 kcal · ~189 g P · Na ~546 · sugar <10 ✓**
-_Reset day landed: Na ~546 vs 800 target ✓, protein ABOVE window (189) for the first time in a week ✓, kcal right at 🔴 target ✓. No restaurant, no packs, no dessert. The template for Tue–Wed: repeat this shape exactly._
+**MONDAY FINAL (reset day, CLEAN): ~1,978 kcal · ~190 g P · Na ~550 · sugar ~13 g ✓**
+_Hershey's milk chocolate 8 g after dinner (+43 kcal/6 g sugar — the old oat-cookie recipe's chocolate, one square, ~4.7 g added sugar). Day stays clean: Na ~550 ✓, protein 190 above window ✓, kcal at 🔴 target ✓. No restaurant, no packs, no dessert-binge — one 8 g square is a controlled treat, exactly how chocolate should be eaten. The template for Tue–Wed: repeat this shape exactly._
 
 ### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Lunch — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
