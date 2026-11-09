@@ -1244,6 +1244,16 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 159 g cooked (new 11-08 batch, 186/13.1 basis) | ~296 | ~21 | ~10 | ~26 | ~14 |
+| Chicken thighs, 350 g COOKED meat (≈3 bone-in thighs skinless, all-cooked basis confirmed) | ~732 | ~91 | ~39 | 0 | ~250 |
+| Broccoli, handful | 30 | 2 | 0 | 6 | 40 |
+| **Lunch total** | **~1,058** | **~114** | ~49 | ~32 | **~304** |
+
+_Running (bfst+lunch): ~1,563 kcal / ~163 P / Na ~518. All-cooked basis per user. Dinner = yogurt bowl + banana + honey → day ~1,880 / ~194 P / Na ~720. All 4 thighs consumed at lunch (350 g cooked ≈ 3; 1 already eaten? count: user said ~4 left, 350 g cooked ≈ 2.5-3 thighs). Ate the big protein lunch after thin Sunday — skip-lunch pattern avoided today._
+
 ### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Breakfast — EATEN (7:30 cron card)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
