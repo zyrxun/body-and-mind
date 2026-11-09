@@ -1244,6 +1244,15 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Dinner — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 200 g cooked (yogurt bowl declined — wanted pasta instead) | ~372 | ~26 | ~13 | ~39 | ~28 |
+| **Dinner total** | **~372** | **~26** | ~13 | ~39 | **~28** |
+
+**MONDAY FINAL (reset day, CLEAN): ~1,935 kcal · ~189 g P · Na ~546 · sugar <10 ✓**
+_Reset day landed: Na ~546 vs 800 target ✓, protein ABOVE window (189) for the first time in a week ✓, kcal right at 🔴 target ✓. No restaurant, no packs, no dessert. The template for Tue–Wed: repeat this shape exactly._
+
 ### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Lunch — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
