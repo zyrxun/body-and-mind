@@ -1244,6 +1244,16 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Breakfast — EATEN (7:30 cron card)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Crunch bowl: yogurt 250 g + oats 40 g dry + blueberries 60 g + banana | ~436 | ~31 | ~3 | ~70 | ~103 |
+| Collagen 2 scoops (Meijer beef peptides) | 70 | 18 | 0 | 0 | 110 |
+| Creatine 5 g in water (no eggs — out; no milk — jug status unknown) | 0 | 0 | 0 | 0 | 0 |
+| **Breakfast total** | **~506** | **~49** | ~3 | ~70 | **~213** |
+
+_First 7:30 cron card, fully eaten within ~10 min. Cron math independently verified (506/49/213 = card claim ✓). Protein-forward start after Sunday's 87 g day. No bread/cheese per reset._
+
 ### 2026-11-08 (Sun) — REST (split swap: no Leg B after Sat Leg A) — Breakfast + Dinner — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
