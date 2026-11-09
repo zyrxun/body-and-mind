@@ -1244,6 +1244,19 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-08 (Sun) — REST (split swap: no Leg B after Sat Leg A) — Breakfast + Dinner — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Breakfast: yogurt bowl 30 g oats + banana + milk 250 g + creatine + sourdough slice (no eggs — OUT again, 18-pack re-flagged) | ~610 | ~38 | ~10 | ~97 | ~360 |
+| **Lunch: NONE (skipped)** | 0 | 0 | 0 | 0 | 0 |
+| Dinner: 2× Steak 'n Shake Garlic Double Steakburger (official: 780 kcal ea) | 1,560 | ~56 | ~100 | ~66 | ~2,600 |
+| 2× fries (regular beef-tallow, assumed — SIZE UNCONFIRMED: small = −520 kcal) | 1,180 | ~10 | ~52 | ~150 | ~740 |
+| 6 big marshmallows (~est jumbo 45 ea) | ~270 | ~1 | 0 | ~66 | ~30 |
+| **Dinner total** | **~3,010** | **~67** | ~152 | ~282 | **~3,370** |
+
+**SUNDAY FINAL: ~3,620 kcal · ~105 g P · Na ~3,730 ~est · added sugar ~38 (marshmallows)**
+_The reset day died at a Steak 'n Shake. The sodium reset moves to Monday — non-negotiable. Sunday went ~+1,000 over TDEE (~3,620 vs ~2,600); weekly average intact ONLY if Mon–Wed run clean lean (~1,900). Marshmallows = 33 g sugar in one sitting, over the <30 cap by themselves. Fries assumed REGULAR ×2 — if SMALL, day is ~3,100. If breakfast bread wasn't eaten, −120._
+
 ### 2026-11-07 (Sat) — LEG A — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
