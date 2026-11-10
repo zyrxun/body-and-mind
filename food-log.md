@@ -1248,9 +1248,10 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Homemade oven fries 120 g (baked, 1 tsp olive-oil share, salt-after — soft but cooked, first batch v1) | ~152 | ~3 | ~5 | ~20 | ~8 |
-| **Lunch so far** | **~152** | **~3** | ~5 | ~20 | **~8** |
+| Pasta-and-beef mix 300 g cooked (new 11-08 batch, 186/13.1 basis) | ~558 | ~39 | ~23 | ~62 | ~42 |
+| **Lunch total** | **~710** | **~42** | ~28 | ~82 | **~50** |
 
-_Running: ~784 kcal / ~51 P / Na ~300. First homemade fry run — texture lesson logged (rinse→dry→single layer→230C full time). If this is the whole lunch it's WAY light (meal-distribution rule: 450-850 band) — needs a real anchor: mix container portion or chicken + the rest of the fries/sweet potato._
+_Running: ~1,342 kcal / ~90 P / Na ~300. Lunch = 710 kcal — inside the 450-850 distribution band ✓. Fries were the side, mix was the anchor — rule followed. Push-day carbs on board. Dinner card target: ~550-650 kcal / 90+ P (chicken/yogurt/eggs territory) → day ~1,950-2,000._
 
 ### 2026-11-10 (Tue) — PUSH day — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
