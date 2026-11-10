@@ -1244,6 +1244,14 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-10 (Tue) — PUSH day — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Homemade oven fries 120 g (baked, 1 tsp olive-oil share, salt-after — soft but cooked, first batch v1) | ~152 | ~3 | ~5 | ~20 | ~8 |
+| **Lunch so far** | **~152** | **~3** | ~5 | ~20 | **~8** |
+
+_Running: ~784 kcal / ~51 P / Na ~300. First homemade fry run — texture lesson logged (rinse→dry→single layer→230C full time). If this is the whole lunch it's WAY light (meal-distribution rule: 450-850 band) — needs a real anchor: mix container portion or chicken + the rest of the fries/sweet potato._
+
 ### 2026-11-10 (Tue) — PUSH day — Breakfast — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
