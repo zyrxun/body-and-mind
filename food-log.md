@@ -1244,6 +1244,15 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-10 (Tue) — PUSH day — Breakfast — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs | 210 | 19 | 15 | 1 | 210 |
+| Crunch bowl: yogurt 200 g + oats 45 g + honey dash | ~317 | ~28 | ~3 | ~37.5 | ~81 |
+| 1 banana | 105 | 1 | 0 | 27 | 1 |
+| Creatine 5 g | 0 | 0 | 0 | 0 | 0 |
+| **Breakfast total** | **~632** | **~48** | ~18 | ~66 | **~292** |
+
 ### 2026-11-09 (Mon) — 🔴 REST + sodium reset day — Dinner — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
