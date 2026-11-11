@@ -5,8 +5,8 @@
 ## PROTEIN
 - ✅ Eggs — "lots" (restocked 11-09 night; 3rd resurrection). Used: 3 Mon-bfst? no — Wed omelette 3 (11-11). CHECK counts as reports come.
 - ❌ Greek yogurt — OUT + 🚫 FLAVOR-FATIGUE EMBARGO (11-11, "BRO YOGURT AGAIN"). REBUY: Friday night 11-13. NO yogurt in cards until restock confirmed in log.
-- ⚠️ Marinade chicken — ~1 thigh (~120g cooked) possibly left (batch ~4 thighs, ~3 eaten Mon 11-09 lunch) — UNVERIFIED, ask on next report. ALSO: he mentioned 'some frozen' chicken possible (11-11) — verify
-- ✅ Pasta-and-beef mix — AVAILABLE (he corrected 11-11: 'still more' + frozen reserve from last week). Batch accounting: 11-08 batch ~987g - 909g logged = ~78g container remainder + FROZEN reserve (amount unknown — weigh on use). Log per-batch basis when known
+- ✅ Marinade chicken — HAS CHICKEN (his word 11-11: 'i have chicken i can have chicken'), don't second-guess. Batch details unknown; weigh when he reports portions. RULE (11-11): if he says he has something, he has it — no hedging back
+- ✅ Pasta-and-beef mix — AVAILABLE (confirmed 11-11: 'still more' + frozen reserve from last weeks). Batch basis: new 11-08 numbers (186/13.1 per 100g cooked) unless he says otherwise. Don't question stock levels — he reports, we log
 - ⚠️ Pork bits — small amount used in Wed omelette (~15g), remainder unknown
 - ✅ Collagen (Meijer beef peptides) — 2 scoops/day available
 - ❌ Whey — banned (hard rule)
@@ -36,6 +36,10 @@
 - ✅ Diet Coke — approved swap
 - 🚫 Vita honey tea — occasional slotted treat only (24g sugar/carton)
 - 🚫 Instant noodles — do-not-restock (bought-day-only if earned)
+
+## CARD DOCTRINE (11-11)
+- STOCK DOUBT RULE: if he says he has it, he has it. Card it. No 'unverified?' hedging back at him. He self-reports out-of-stock (proven: yogurt, eggs, milk).
+- Ask questions ONLY when a NUMBER is needed for math (portion weight, batch basis) — never when mere existence is questioned.
 
 ## VARIETY RULE (11-11)
 - Never suggest the same food 3× in one day. Rotate: eggs→pork→cheese→collagen are the protein rotation while yogurt+mix are out.
