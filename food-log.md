@@ -1248,10 +1248,10 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix 200 g cooked (container remainder / frozen reserve — basis 186/13.1) | ~372 | ~26 | ~15 | ~41 | ~28 |
-| Sweet potato 250 g baked | ~225 | ~5 | ~1 | ~52 | ~22 |
-| **Lunch total** | **~597** | **~31** | ~16 | ~93 | **~50** |
+| Homemade fries 150 g (~est — no time to bake sweet potato, fries instead) | ~170 | ~4 | ~6 | ~26 | ~8 |
+| **Lunch total** | **~542** | **~30** | ~21 | ~67 | **~36** |
 
-_Running: ~1,315 kcal / ~99.7 P / Na ~644. Variety rule followed: zero overlap with breakfast (omelette stack). Mix confirmed alive (container remainder + frozen reserve — stock.md updated). Dinner needs ~70 P: eggs return (last seen at breakfast, rotation allows by dinner) + collagen._
+_Running: ~1,260 kcal / ~98 P / Na ~658. Fries swapped in for sweet potato (no bake time — logged ~est 150g, correct me if different). Variety rule held: mix+fries vs breakfast omelette stack, no overlap._
 
 ### 2026-11-11 (Wed) — training day (split TBD) — Breakfast — EATEN (CATCH-UP day)
 | Item | kcal | Protein | F | C | Na (mg) |
