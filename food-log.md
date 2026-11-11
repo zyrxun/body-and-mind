@@ -1244,6 +1244,16 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-11 (Wed) — training day (split TBD) — Breakfast — EATEN (CATCH-UP day)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3-egg omelette + ~6 g cheese + ~15 g pork bits | ~275 | ~24.5 | ~18.5 | ~1 | ~430 |
+| Crunch bowl: yogurt 200 g + oats 40 g + banana (NO honey — skipped) | ~373 | ~26 | ~3 | ~61 | ~82 |
+| Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
+| **Breakfast total** | **~718** | **~68.5** | ~21.5 | ~62 | **~622** |
+
+_Catch-up day per new rule (Tue closed 133 P): biggest protein breakfast ever carded — 68.5 g before 9:30 AM; day projects ~175+ if lunch/dinner do normal work. His cheese+pork add-on honored at minimal dose. Na ~622 high-ish for breakfast but weekly average has room after Mon-Tue lean days._
+
 ### 2026-11-10 (Tue) — PUSH day — Dinner — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
