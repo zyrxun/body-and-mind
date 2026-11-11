@@ -1244,7 +1244,18 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
-### 2026-11-11 (Wed) — training day (split TBD) — Lunch — EATEN (chicken was defrosting!)
+_Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
+
+### 2026-11-11 (Wed) — training day (split TBD) — Dinner — PLANNED (eggs limited — supply low)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 250 g cooked (protein anchor — mix portion up as eggs cut) | ~465 | ~33 | ~19 | ~52 | ~35 |
+| 2-egg cheese omelette (eggs DOWN — supply low, not 5) | ~165 | ~14 | ~14 | ~0 | ~245 |
+| Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
+| Pork bits ~30 g folded into omelette | ~80 | ~8 | ~3 | 0 | ~230 |
+| **Dinner total** | **~780** | **~73** | ~36 | ~52 | **~620** |
+
+_EGG SUPPLY LOW — dinner rebuilt from 5 eggs → 2 eggs, mix portion up 200→250 to compensate, pork bits fill the gap. DAY PROJECTED: ~1,960 kcal / ~171 P ✓ WINDOW / Na ~1,243 ✓ under daily cap. His 'emergency shake' idea declined — window hit without it; whey ban stands unless he names a non-whey product. Eggs back on Friday grocery list (LOW flag, 4th stock event)._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix 200 g cooked | ~372 | ~26 | ~15 | ~41 | ~28 |
