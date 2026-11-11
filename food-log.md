@@ -1244,14 +1244,15 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
-### 2026-11-11 (Wed) — training day (split TBD) — Lunch — EATEN
+### 2026-11-11 (Wed) — training day (split TBD) — Lunch — PLANNED (build to hit window)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix 200 g cooked (container remainder / frozen reserve — basis 186/13.1) | ~372 | ~26 | ~15 | ~41 | ~28 |
-| Homemade fries 150 g (~est — no time to bake sweet potato, fries instead) | ~170 | ~4 | ~6 | ~26 | ~8 |
-| **Lunch total** | **~542** | **~30** | ~21 | ~67 | **~36** |
+| Pasta-and-beef mix 200 g cooked | ~372 | ~26 | ~15 | ~41 | ~28 |
+| Marinade chicken 150 g cooked (garlic-lemon finish) | ~313 | ~39 | ~13 | 0 | ~165 |
+| Homemade fries 100 g | ~113 | ~2.5 | ~4 | ~17 | ~8 |
+| **Lunch total** | **~798** | **~67.7** | ~32 | ~58 | **~201** |
 
-_Running: ~1,260 kcal / ~98 P / Na ~658. Fries swapped in for sweet potato (no bake time — logged ~est 150g, correct me if different). Variety rule held: mix+fries vs breakfast omelette stack, no overlap._
+_LUNCH BUILT TO HIT THE WINDOW (his 11-10 demand): 67.7 P at lunch + 68.5 breakfast = 136 running → dinner ~45-50 P closes the day at ~183 P ✓ WINDOW. Garlic-lemon on the chicken (flavor doctrine, Na-free flavor). Fries 100 g keeps the band. EAT THE CHICKEN — it's the load-bearing protein today. (Supersedes the earlier premature fries-only entry — he asked for the real lunch card before eating.)_
 
 ### 2026-11-11 (Wed) — training day (split TBD) — Breakfast — EATEN (CATCH-UP day)
 | Item | kcal | Protein | F | C | Na (mg) |
