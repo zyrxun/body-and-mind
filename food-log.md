@@ -1244,6 +1244,15 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-11 (Wed) — training day (split TBD) — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 200 g cooked (container remainder / frozen reserve — basis 186/13.1) | ~372 | ~26 | ~15 | ~41 | ~28 |
+| Sweet potato 250 g baked | ~225 | ~5 | ~1 | ~52 | ~22 |
+| **Lunch total** | **~597** | **~31** | ~16 | ~93 | **~50** |
+
+_Running: ~1,315 kcal / ~99.7 P / Na ~644. Variety rule followed: zero overlap with breakfast (omelette stack). Mix confirmed alive (container remainder + frozen reserve — stock.md updated). Dinner needs ~70 P: eggs return (last seen at breakfast, rotation allows by dinner) + collagen._
+
 ### 2026-11-11 (Wed) — training day (split TBD) — Breakfast — EATEN (CATCH-UP day)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
