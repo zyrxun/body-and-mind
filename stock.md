@@ -37,6 +37,11 @@
 - 🚫 Vita honey tea — occasional slotted treat only (24g sugar/carton)
 - 🚫 Instant noodles — do-not-restock (bought-day-only if earned)
 
+## FLAVOR/VARIETY DOCTRINE (11-11, his explicit ask: 'make my day more flavourful, mix foods up, not yogurt bowl for morning lunch AND dinner')
+- Breakfast-lunch-dinner must look DIFFERENT: no repeated format (e.g. crunch bowl at every slot = banned). Rotate BUILD, not just ingredients: omelette day / mix-plate day / potato-protein day / bread-sandwich day / soup-ish day.
+- Flavor boosters he owns: cheese (minimal), pork bits, garlic, lemon, dark soy + oyster sauce marinade, honey, blueberries, cinnamon idea for sweet potato. Banned boosters: ginger, vinegar, grains of paradise.
+- seasoning is free flavor: garlic > salt for the Na cap; lemon on everything; eggs take cheese+garlic well; sweet potato takes cinnamon.
+
 ## CARD DOCTRINE (11-11)
 - STOCK DOUBT RULE: if he says he has it, he has it. Card it. No 'unverified?' hedging back at him. He self-reports out-of-stock (proven: yogurt, eggs, milk).
 - Ask questions ONLY when a NUMBER is needed for math (portion weight, batch basis) — never when mere existence is questioned.
