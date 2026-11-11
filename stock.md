@@ -9,6 +9,7 @@
 - ✅ Pasta-and-beef mix — AVAILABLE (confirmed 11-11: 'still more' + frozen reserve from last weeks). Batch basis: new 11-08 numbers (186/13.1 per 100g cooked) unless he says otherwise. Don't question stock levels — he reports, we log
 - ⚠️ Pork bits — small amount used in Wed omelette (~15g), remainder unknown
 - ✅ Collagen (Meijer beef peptides) — 2 scoops/day available
+- ✅ Whey protein — EMERGENCY LEVER ONLY (rule changed 11-11: he dislikes flavour, uses ONLY when protein window otherwise unreachable). Likely in pantry (old inventory). ~1 scoop = 24P/120kcal. Never in routine cards
 - ❌ Whey — banned (hard rule)
 - ❌ Sardines — week 4+ not bought (Friday list)
 
