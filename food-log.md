@@ -1244,6 +1244,17 @@ _Protein past the window via milk (harmless — casein before sleep); kcal sligh
 
 _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (starch sides ordered: noodles/rice cakes + potatoes + corn per 1:1:1 rule)._
 
+### 2026-11-10 (Tue) — PUSH day — Dinner — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 250 g cooked | ~465 | ~33 | ~19 | ~52 | ~35 |
+| Homemade fries 150 g (batch 2, oil share) | ~170 | ~4 | ~6 | ~26 | ~8 |
+| Sweet potato 300 g baked (DEBUT — halved method) | ~270 | ~6 | ~1 | ~62 | ~27 |
+| **Dinner total** | **~904** | **~43** | ~26 | ~140 | **~35** |
+
+**TUESDAY FINAL (Push day): ~2,246 kcal · ~133 g P · Na ~335 · carbs huge (Push-day appropriate)**
+_Sweet potato debut successful (halved, 220C). Dinner ran big (904 — top of the 450-850 band, slightly over) to clear the mix container and debut both potato dishes. Protein 133 — 37-52 under window, cost of carb-forward lunch+dinner; cron corrects Wed. Na ~335 = second consecutive historic-lean day, weekly average healing on schedule. Both fry batches soft (v1 texture) — v2 protocol next time._
+
 ### 2026-11-10 (Tue) — PUSH day — Lunch — EATEN
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
