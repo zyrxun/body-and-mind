@@ -1256,6 +1256,8 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | **Dinner total** | **~780** | **~73** | ~36 | ~52 | **~620** |
 
 _EGG SUPPLY LOW — dinner rebuilt from 5 eggs → 2 eggs, mix portion up 200→250 to compensate, pork bits fill the gap. DAY PROJECTED: ~1,960 kcal / ~171 P ✓ WINDOW / Na ~1,243 ✓ under daily cap. His 'emergency shake' idea declined — window hit without it; whey ban stands unless he names a non-whey product. Eggs back on Friday grocery list (LOW flag, 4th stock event)._
+
+### 2026-11-11 (Wed) — training day (split TBD) — Lunch — EATEN (chicken was defrosting!)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix 200 g cooked | ~372 | ~26 | ~15 | ~41 | ~28 |
