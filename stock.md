@@ -5,8 +5,8 @@
 ## PROTEIN
 - ✅ Eggs — "lots" (restocked 11-09 night; 3rd resurrection). Used: 3 Mon-bfst? no — Wed omelette 3 (11-11). CHECK counts as reports come.
 - ❌ Greek yogurt — OUT + 🚫 FLAVOR-FATIGUE EMBARGO (11-11, "BRO YOGURT AGAIN"). REBUY: Friday night 11-13. NO yogurt in cards until restock confirmed in log.
-- ⚠️ Marinade chicken — ~1 thigh (~120g cooked) possibly left (batch ~4 thighs, ~3 eaten Mon 11-09 lunch) — UNVERIFIED, ask on next report
-- ❌ Pasta-and-beef mix — 11-08 batch ~987g cooked, 909g logged eaten Mon-Tue → ~78g scraps (effectively out). New batch NOT made as of 11-11 10am. Rebuy ingredients: 300g dry pasta + 1.5 lb 90/10 (old-ratio) — Friday list candidate
+- ⚠️ Marinade chicken — ~1 thigh (~120g cooked) possibly left (batch ~4 thighs, ~3 eaten Mon 11-09 lunch) — UNVERIFIED, ask on next report. ALSO: he mentioned 'some frozen' chicken possible (11-11) — verify
+- ✅ Pasta-and-beef mix — AVAILABLE (he corrected 11-11: 'still more' + frozen reserve from last week). Batch accounting: 11-08 batch ~987g - 909g logged = ~78g container remainder + FROZEN reserve (amount unknown — weigh on use). Log per-batch basis when known
 - ⚠️ Pork bits — small amount used in Wed omelette (~15g), remainder unknown
 - ✅ Collagen (Meijer beef peptides) — 2 scoops/day available
 - ❌ Whey — banned (hard rule)
