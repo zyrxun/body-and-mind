@@ -3,7 +3,7 @@
 # Legend: ✅ stocked · ⚠️ unverified/low · ❌ out · 🚫 embargo (rebuy planned)
 
 ## PROTEIN
-- ❌ Eggs — OUT (ran out mid-day 11-11, confirmed 11-12 morning: 'no fridge eggs'. 4th stock event). REBUY Friday 11-13 (18-pack).
+- ❌ Eggs — OUT (ran out THURSDAY 11-12 morning after Wed-night omelette used the last 3. 4th stock event). REBUY Friday 11-13 (18-pack).
 - ❌ Greek yogurt — OUT + 🚫 FLAVOR-FATIGUE EMBARGO (11-11, "BRO YOGURT AGAIN"). REBUY: Friday night 11-13. NO yogurt in cards until restock confirmed in log.
 - ✅ Marinade chicken — HAS CHICKEN (his word 11-11: 'i have chicken i can have chicken'), don't second-guess. Batch details unknown; weigh when he reports portions. RULE (11-11): if he says he has something, he has it — no hedging back
 - ✅ Pasta-and-beef mix — AVAILABLE (confirmed 11-11: 'still more' + frozen reserve from last weeks). Batch basis: new 11-08 numbers (186/13.1 per 100g cooked) unless he says otherwise. Don't question stock levels — he reports, we log
