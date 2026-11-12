@@ -1258,6 +1258,15 @@ _CORRECTED 11-12 morning: Wed dinner was 3-egg ham omelette + 250 g mix (NOT the
 **WEDNESDAY FINAL (v3 corrected): ~1,975 kcal · ~155.7 P · fat ~78 g ✓ · Na ~1,233 ✓**
 _Protein 155.7 — miss by ~14, closest yet under the projection regime (ham omelette + mix did most of the work). Fat 78 g = top of the 55-80 band ✓. Na 1,233 UNDER the daily cap ✓ — 3-day avg drops to ~754. Wednesday was actually a clean-ish day all along; the fried melt belongs to Thursday._
 
+### 2026-11-12 (Thu) — training day (split TBD) — Lunch — EATEN (exam mode)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 150 g | ~279 | ~19.7 | ~11 | ~31 | ~13 |
+| Blueberries 100 g | ~57 | ~0.6 | 0 | ~14 | ~3 |
+| **Lunch total** | **~336** | **~20.3** | ~11 | ~45 | **~16** |
+
+_EXAM MODE (test 2 PM): deliberately light + slow carbs, zero Na load, blueberry flavonoids. Coffee + L-theanine scheduled 1:00 PM (caffeine peak 1:30-2:00 lands on test start — theanine kills the jitters). Collagen deferred to tonight. Day runs lean by design; dinner is the catch-up slot (~600-650 kcal / ~70 P — chicken should finally be defrosted). Day target ~1,950-2,000 / ~165-175 P._
+
 ### 2026-11-12 (Thu) — training day (split TBD) — Breakfast — EATEN (the fried melt)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
