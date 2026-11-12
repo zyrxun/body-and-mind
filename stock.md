@@ -3,7 +3,7 @@
 # Legend: ✅ stocked · ⚠️ unverified/low · ❌ out · 🚫 embargo (rebuy planned)
 
 ## PROTEIN
-- ✅ Eggs — "lots" (restocked 11-09 night; 3rd resurrection). Used: 3 Mon-bfst? no — Wed omelette 3 (11-11). CHECK counts as reports come.
+- ❌ Eggs — OUT (ran out mid-day 11-11, confirmed 11-12 morning: 'no fridge eggs'. 4th stock event). REBUY Friday 11-13 (18-pack).
 - ❌ Greek yogurt — OUT + 🚫 FLAVOR-FATIGUE EMBARGO (11-11, "BRO YOGURT AGAIN"). REBUY: Friday night 11-13. NO yogurt in cards until restock confirmed in log.
 - ✅ Marinade chicken — HAS CHICKEN (his word 11-11: 'i have chicken i can have chicken'), don't second-guess. Batch details unknown; weigh when he reports portions. RULE (11-11): if he says he has something, he has it — no hedging back
 - ✅ Pasta-and-beef mix — AVAILABLE (confirmed 11-11: 'still more' + frozen reserve from last weeks). Batch basis: new 11-08 numbers (186/13.1 per 100g cooked) unless he says otherwise. Don't question stock levels — he reports, we log
@@ -23,7 +23,7 @@
 
 ## FATS/FLAVOR
 - ✅ Olive oil — 1 tsp/day waiver active
-- ✅ Cheese — minimal doses ~6g OK'd (11-11); stock unknown, verify
+- ⚠️ Cheese — slice stock: 1 used Wed dinner (11-11); remainder unknown. Minimal doses ~6g/slice OK. Na bomb per slice (~620mg) — cap 1/day
 - ✅ Marinade core (dark soy, oyster sauce, garlic, lemon) — locked recipe, NO ginger/vinegar/grains-of-paradise
 - ✅ Honey — small amounts
 

@@ -1246,14 +1246,19 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
 
-### 2026-11-11 (Wed) — training day (split TBD) — Dinner — PLANNED (eggs limited — supply low)
+### 2026-11-11 (Wed) — training day (split TBD) — Dinner — EATEN (actuals differ from plan — no eggs, fried chicken)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix 250 g cooked (protein anchor — mix portion up as eggs cut) | ~465 | ~33 | ~19 | ~52 | ~35 |
-| 2-egg cheese omelette (eggs DOWN — supply low, not 5) | ~165 | ~14 | ~14 | ~0 | ~245 |
-| Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
-| Pork bits ~30 g folded into omelette | ~80 | ~8 | ~3 | 0 | ~230 |
-| **Dinner total** | **~780** | **~73** | ~36 | ~52 | **~620** |
+| Marinade chicken ~150 g cooked, PAN-FRIED in olive oil | ~313 | ~39 | ~13 | 0 | ~165 |
+| Sourdough, 2 slices (fried in the same oil) | ~240 | ~8 | ~2 | ~44 | ~360 |
+| Cheese slice, 1, melted over the stack | ~110 | ~6.5 | ~9 | ~1 | ~620 |
+| Olive oil share (frying) | ~40 | 0 | ~4.5 | 0 | 0 |
+| **Dinner total** | **~703** | **~53.5** | ~28.5 | ~45 | **~1,145** |
+
+_NO EGGS — fridge ran out mid-day (4th stock event confirmed; Friday list). Planned mix-250+omelette didn't happen; he built a fried chicken-sourdough melt instead. DINNER FATS 28.5 g — fine, see day line._
+
+**WEDNESDAY FINAL (corrected — planned dinner never happened): ~1,963 kcal · ~152 P · fat ~71 g ✓ (floor 55) · Na ~1,803**
+_Protein 152 — miss by 18-33 (eggs ran out; chicken portion assumed 150 g, correct if different). Na ~1,803 = over daily cap, BUT 3-day avg (Mon 693 / Tue 335 / Wed 1,803) = ~944 — weekly framing holds. FAT 71 g is ABOVE the 55 g floor — that's GOOD, not too much: fat-soluble vitamins, hormones, satiety all benefit; cut fat band is 55-80 g. Cheese slice was the Na bomb (620). Fried-in-oil is fine — the fry waiver covers it._
 
 _EGG SUPPLY LOW — dinner rebuilt from 5 eggs → 2 eggs, mix portion up 200→250 to compensate, pork bits fill the gap. DAY PROJECTED: ~1,960 kcal / ~171 P ✓ WINDOW / Na ~1,243 ✓ under daily cap. His 'emergency shake' idea declined — window hit without it; whey ban stands unless he names a non-whey product. Eggs back on Friday grocery list (LOW flag, 4th stock event)._
 
