@@ -22,6 +22,7 @@
 - ✅ Blueberries — stocked 11-11 breakfast (100g used; remainder present)
 
 ## FATS/FLAVOR
+- ⚠️ Pasta sauce (marinara) — NEARLY OUT (11-12). Mix eats dry otherwise (ketchup? NO). Rebuy Friday: marinara ~¼ cup/meal approved, counts toward Na cap (~100-150mg/serving) — grab a low-sodium jar if the store has one
 - ✅ Olive oil — 1 tsp/day waiver active
 - ⚠️ Cheese — slice stock: 1 used Wed dinner (11-11); remainder unknown. Minimal doses ~6g/slice OK. Na bomb per slice (~620mg) — cap 1/day
 - ✅ Marinade core (dark soy, oyster sauce, garlic, lemon) — locked recipe, NO ginger/vinegar/grains-of-paradise
