@@ -18,20 +18,20 @@
 - ✅ Sweet potato — stocked 11-09; 300g eaten 11-10 dinner; remainder present, weigh on use
 - ✅ Potatoes — stocked 11-09; 120g+150g eaten as fries 11-10; remainder present
 - ✅ Oats — stocked (45g uses; no yogurt = no crunch bowls, dry topping paused)
-- ❌ Rice — not owned (perpetual Friday-list item)
+- ✅ Rice — IN STOCK (confirmed 11-12! The perpetual item finally exists). Weigh portions: ~150g cooked = ~195 kcal/40C
 - ✅ Blueberries — stocked 11-11 breakfast (100g used; remainder present)
 
 ## FATS/FLAVOR
 - ⚠️ Pasta sauce (marinara) — NEARLY OUT (11-12). Mix eats dry otherwise (ketchup? NO). Rebuy Friday: marinara ~¼ cup/meal approved, counts toward Na cap (~100-150mg/serving) — grab a low-sodium jar if the store has one
 - ✅ Olive oil — 1 tsp/day waiver active
-- ⚠️ Cheese — slice stock: 1 used Wed dinner (11-11); remainder unknown. Minimal doses ~6g/slice OK. Na bomb per slice (~620mg) — cap 1/day
+- ✅ Cheese — stocked (confirmed 11-12). Cap 1 slice/day (Na bomb ~620mg/slice), minimal 6g doses fine
 - ✅ Marinade core (dark soy, oyster sauce, garlic, lemon) — locked recipe, NO ginger/vinegar/grains-of-paradise
 - ✅ Honey — small amounts
 
 ## SUPPLEMENTS
 - ✅ Creatine 5g/day — in water (milk phase-out)
-- ⚠️ D3+K2 gummies — STILL NOT BOUGHT (week 3+, Friday list; daily reminder in 7:30 cron continues regardless)
-- ⚠️ Mg glycinate — never bought (evening slot, Friday list)
+- ✅ D3+K2 gummies — IN STOCK (confirmed 11-12; he 'has d3+k2 and mg glycinate' — the week-3+ flags were stale/he bought earlier without reporting). Daily reminder continues as the HABIT reminder, not a buy reminder
+- ✅ Mg glycinate — IN STOCK (confirmed 11-12). Evening slot: take it at night (magnesium ~30-60 min before bed, sleep support)
 
 ## DRINKS
 - ⚠️ Milk 2% — PHASE-OUT LIVE: finish gallon then never rebuy (acne decision 11-08). Jug status UNKNOWN — verify next report
