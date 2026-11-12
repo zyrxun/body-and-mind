@@ -1269,6 +1269,19 @@ _Protein 155.7 — miss by ~14, closest yet under the projection regime (ham ome
 
 _Eggs ran out THIS morning (4th stock event, Friday list) — so he built a fried chicken-sourdough melt instead. Fat 28.5 g at breakfast is fine (floor is a DAILY 55). Na ~1,145 at breakfast = the cheese slice bomb (620); today's remaining meals need to stay lean (~150-300 Na total) to keep the daily near 1,300._
 
+## WEEKLY MACRO ROLLUP — 11-09 → 11-12 (F/C tracking, added 11-12 per his ask)
+| Day | kcal | P | F | C | Na | Cycle target | Verdict |
+|---|---|---|---|---|---|---|---|
+| Mon 🔴 rest | 2,176 | 204 | 65 | 179 | 693 | C 100–120 / F 60–65 | C +59 over (night-snack carbs) · F ✓ |
+| Tue 🟡 train | 2,246 | 133 | 67.5 | 273 | 335 | C 160–180 | C +93 over (pasta+fries double) · F ✓ |
+| Wed 🟡 train | 1,975 | 156 | 78 | 182 | 1,233 | C 160–180 / F ≤80 | ✓ on target both |
+| Thu 🟡 train (bfst) | 703 | 53.5 | 28.5 | 45 | 1,145 | C 160–180 | 1 meal in |
+| **4-day avg** | **~2,125** | ~172 avg-if-thu-hits | **~70 avg** | **~170 avg** | — | — | kcal ~75 over train-band avg |
+
+_FAT: tracked and HEALTHY — 65/67.5/78 all inside the 55–80 band, avg ~70. No fat problem anywhere this week._
+_CARB CYCLE VERDICT: cycle EXISTS but drifts high — Mon (rest) and Tue (train) both overshot carb targets (night snack + double-starch meals). Wed nailed it. The pattern: carbs overshoot when protein undershoots (Tue 133 P + 273 C = the mix ran as carb, not protein). Fix already live: protein-projection in every card + Friday restock restores the protein tools._
+_CALORIE GOVERNOR: 4-day avg ~2,125 vs ~1,900-2,050 band — this week's deficit is thinner than target (~425-500/day → ~175-375/day). NOT a crisis (weekly avg over 14 days still cuts), but Thu/Fri/Sat should run at the lean edge of their bands._
+
 ### 2026-11-11 (Wed) — training day (split TBD) — Lunch — EATEN (chicken was defrosting!)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
