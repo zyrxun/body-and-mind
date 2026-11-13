@@ -16,10 +16,10 @@
 ## CARBS
 - ✅ Sourdough loaf — active (bread ran out 11-03, resupply appeared; slice ~40g ~est 120 kcal)
 - ✅ Sweet potato — stocked 11-09; 300g eaten 11-10 dinner; remainder present, weigh on use
-- ✅ Potatoes — stocked 11-09; 120g+150g eaten as fries 11-10; remainder present
+- ⚠️ Potatoes/fries — ~150g COOKED FRIES LEFT (11-12 morning: '150g fries left', 100g eaten at bfst). Raw potato remainder unknown. Friday restock: more potatoes optional
 - ✅ Oats — stocked (45g uses; no yogurt = no crunch bowls, dry topping paused)
 - ✅ Rice — IN STOCK (confirmed 11-12! The perpetual item finally exists). Weigh portions: ~150g cooked = ~195 kcal/40C
-- ✅ Blueberries — stocked 11-11 breakfast (100g used; remainder present)
+- ⚠️ Blueberries — 100g used Thu exam-lunch (11-12); remainder unknown (had ~300g+ on 11-09, estimate: 100-200g left). Restock optional
 
 ## FATS/FLAVOR
 - ⚠️ Pasta sauce (marinara) — NEARLY OUT (11-12). Mix eats dry otherwise (ketchup? NO). Rebuy Friday: marinara ~¼ cup/meal approved, counts toward Na cap (~100-150mg/serving) — grab a low-sodium jar if the store has one
