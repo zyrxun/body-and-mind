@@ -1246,6 +1246,17 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
 
+### 2026-11-13 (Fri) — 🔴 REST + carb-load + TEST @ 11 AM — Breakfast — EATEN (borrowed roommate eggs!)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs (ROOMMATE LOAN — pay back, interest pending 😄) | 210 | 19 | 15 | 1 | 210 |
+| Oats 40 g (dry, on yogurt? no yogurt — in water/shake or dry over fruit) | ~152 | ~5.3 | ~3 | ~26 | ~1 |
+| Blueberries 100 g | ~57 | ~0.6 | 0 | ~14 | ~3 |
+| Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
+| **Breakfast total** | **~489** | **~42.9** | ~18 | ~41 | **~324** |
+
+_EXAM MORNING (test 11 AM, slept badly, awake since ~5): exam-brain build — eggs (choline for memory), oats (slow-release glucose through the test), blueberries (flavonoids), collagen+creatine. Kept LIGHT-MODERATE (~490) so no food coma at 11; big carb-load can happen at DINNER instead (Fri is carb-load day anyway — the load slots into tonight perfectly). Coffee + L-theanine at ~10:00 (peak 10:30-11:30 covers the test). Sodium lean (~324) — no cheese/thirst before exam._
+
 ### 2026-11-11 (Wed) — training day (split TBD) — Dinner — EATEN (CORRECTED 11-12: omelette + mix, not the melt)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
