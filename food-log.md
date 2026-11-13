@@ -1246,10 +1246,15 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
 
-### 2026-11-13 (Fri) — 🔴 REST + carb-load + TEST @ 11 AM — Breakfast — EATEN (borrowed roommate eggs!)
+### 2026-11-13 (Fri) — 🔴 REST + carb-load + TEST @ 11 AM — Breakfast SPLIT, part 1 — EATEN (6:45ish)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | 3 eggs (ROOMMATE LOAN — pay back, interest pending 😄) | 210 | 19 | 15 | 1 | 210 |
+| Creatine 5 g in water | 0 | 0 | 0 | 0 | 0 |
+| D3+K2 gummies ~2 (~est; gummies in stock! habit slot executed with the egg fat — correct absorption) | ~45 | 0 | 0 | ~10 | 0 |
+| **Part 1 total** | **~255** | **~19** | ~15 | ~11 | **~210** |
+
+_Split plan executed: protein+fat slot now (kills the 7 AM crash), carb slot at ~8:15-8:30 (oats + blueberries — glucose peak lands on the 11 AM test). D3+K2 TAKEN — habit streak starts today, with fat for absorption ✓. Sugar ~10 g from gummies (~est). Part 2 pending._
 | Oats 40 g (dry, on yogurt? no yogurt — in water/shake or dry over fruit) | ~152 | ~5.3 | ~3 | ~26 | ~1 |
 | Blueberries 100 g | ~57 | ~0.6 | 0 | ~14 | ~3 |
 | Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
