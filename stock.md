@@ -10,8 +10,7 @@
 - ⚠️ Pork bits — small amount used in Wed omelette (~15g), remainder unknown
 - ✅ Collagen (Meijer beef peptides) — 2 scoops/day available
 - ✅ Whey protein — EMERGENCY LEVER ONLY (rule changed 11-11: he dislikes flavour, uses ONLY when protein window otherwise unreachable). Likely in pantry (old inventory). ~1 scoop = 24P/120kcal. Never in routine cards
-- ❌ Whey — banned (hard rule)
-- ❌ Sardines — week 4+ not bought (Friday list)
+- 🔄 Fish swap (11-12): SARDINES REJECTED (he dislikes them) → Friday buy = CANNED SALMON (w/ bones+skin, ~180kcal/24P/Ca180) + MACKEREL Atlantic (~305kcal/26P/omega3 2.5g — NOT king mackerel). Anchovies rejected (Na 3500mg/100g = 2.7x daily cap). Tuna light = fallback, 1-2 cans/wk cap (mercury)
 
 ## CARBS
 - ✅ Sourdough loaf — active (bread ran out 11-03, resupply appeared; slice ~40g ~est 120 kcal)
