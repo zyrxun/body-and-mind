@@ -1255,12 +1255,15 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | **Part 1 total** | **~255** | **~19** | ~15 | ~11 | **~210** |
 
 _Split plan executed: protein+fat slot now (kills the 7 AM crash), carb slot at ~8:15-8:30 (oats + blueberries — glucose peak lands on the 11 AM test). D3+K2 TAKEN — habit streak starts today, with fat for absorption ✓. Sugar ~10 g from gummies (~est). Part 2 pending._
-| Oats 40 g (dry, on yogurt? no yogurt — in water/shake or dry over fruit) | ~152 | ~5.3 | ~3 | ~26 | ~1 |
-| Blueberries 100 g | ~57 | ~0.6 | 0 | ~14 | ~3 |
-| Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
-| **Breakfast total** | **~489** | **~42.9** | ~18 | ~41 | **~324** |
 
-_EXAM MORNING (test 11 AM, slept badly, awake since ~5): exam-brain build — eggs (choline for memory), oats (slow-release glucose through the test), blueberries (flavonoids), collagen+creatine. Kept LIGHT-MODERATE (~490) so no food coma at 11; big carb-load can happen at DINNER instead (Fri is carb-load day anyway — the load slots into tonight perfectly). Coffee + L-theanine at ~10:00 (peak 10:30-11:30 covers the test). Sodium lean (~324) — no cheese/thirst before exam._
+### 2026-11-13 (Fri) — 🔴 REST + carb-load + TEST @ 11 AM — Breakfast SPLIT, part 2 — EATEN (8:15ish)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Homemade fries 100 g (batch remainder, fried potato = slow release) | ~113 | ~2.5 | ~4 | ~17 | ~8 |
+| Blueberries 100 g | ~57 | ~0.6 | 0 | ~14 | ~3 |
+| **Part 2 total** | **~170** | **~3.1** | ~4 | ~31 | **~11** |
+
+_Breakfast complete (split): eggs+creatine+D3K2 at 6:45, fries+blueberries at 8:15 — glucose plateau covers 10:30-12:00, test at 11 lands mid-window. FRY STOCK: ~150g left after this. Blueberries stock: ~100-200g est left. Coffee + theanine at 10:00 next. Original single-slot breakfast card (oats+blueberries+collagen ~489) superseded by the split — oats declined (no yogurt base), collagen moved to tonight._
 
 ### 2026-11-11 (Wed) — training day (split TBD) — Dinner — EATEN (CORRECTED 11-12: omelette + mix, not the melt)
 | Item | kcal | Protein | F | C | Na (mg) |
