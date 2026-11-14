@@ -1246,6 +1246,15 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
 
+### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix 100 g cooked | ~186 | ~13 | ~8 | ~31 | ~14 |
+| Homemade fries 150 g (leftover batch) | ~170 | ~4 | ~6 | ~26 | ~8 |
+| **Lunch total** | **~356** | **~16.9** | ~14 | ~57 | **~22** |
+
+_RUNNING: ~806 kcal / ~44 P / carbs ~102 g (bfst 45 + lunch 57). LIGHT for a leg-day lunch — the card was mix 250 + rice 150 + banana (~765/38P/150C); he ate ~half of it. If the 150g DRY rice batch is cooking (330-360g cooked), eat 200-250g of it NOW or right after the session — the tank needs the carbs before 2 PM squats._
+
 ### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Breakfast — EATEN (bread build)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
