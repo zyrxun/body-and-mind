@@ -1253,7 +1253,7 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | Homemade fries 150 g (leftover batch) | ~170 | ~4 | ~6 | ~26 | ~8 |
 | **Lunch total** | **~356** | **~16.9** | ~14 | ~57 | **~22** |
 
-_RUNNING: ~806 kcal / ~44 P / carbs ~102 g (bfst 45 + lunch 57). LIGHT for a leg-day lunch — the card was mix 250 + rice 150 + banana (~765/38P/150C); he ate ~half of it. If the 150g DRY rice batch is cooking (330-360g cooked), eat 200-250g of it NOW or right after the session — the tank needs the carbs before 2 PM squats._
+_RUNNING: ~806 kcal / ~44 P / carbs ~102 g (bfst 45 + lunch 57). FRY STOCK: GONE (the 150g batch was eaten entirely — v2 texture still soft). LIGHT LUNCH = DELIBERATE STRATEGY (his call: 'don't want to throw up before legs' — heavy meal + heavy squat = nausea risk). Validated: light pre-squad lunch is textbook; the compensation slot moves to POST-workout (~3:30 PM): rice + protein + collagen — refill AFTER the squats instead of before. 102 g carbs on board is adequate for the session, not stacked — expect sets 4-6 to feel heavier and go one rep shorter where form cracks._
 
 ### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Breakfast — EATEN (bread build)
 | Item | kcal | Protein | F | C | Na (mg) |
