@@ -1246,6 +1246,14 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
 
+### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Breakfast — EATEN (bread build)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs (restocked 18-pack — roommate debt repaid) | 210 | 19 | 15 | 1 | 210 |
+| Sourdough, 2 slices | ~240 | ~8 | ~2 | ~44 | ~360 |
+| **Breakfast total** | **~450** | **~27** | ~17 | ~45 | **~570** |
+
+_Bread build as requested (no banana/collagen yet — maybe mid-morning). Eggs: restocked Friday night, roommate 3-egg loan REPAID ✓. Lighter breakfast than the usual leg-day 700 — fine, because lunch at ~12:30 (mix is BACK) + 2 PM session = double carb window. Ankle protocol + film the squat today._
 ### 2026-11-13 (Fri) — 🔴 REST + carb-load + TEST @ 11 AM — Breakfast SPLIT, part 1 — EATEN (6:45ish)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
