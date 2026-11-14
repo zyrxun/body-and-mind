@@ -1265,6 +1265,17 @@ _Split plan executed: protein+fat slot now (kills the 7 AM crash), carb slot at 
 
 _Breakfast complete (split): eggs+creatine+D3K2 at 6:45, fries+blueberries at 8:15 — glucose plateau covers 10:30-12:00, test at 11 lands mid-window. FRY STOCK: ~150g left after this. Blueberries stock: ~100-200g est left. Coffee + theanine at 10:00 next. Original single-slot breakfast card (oats+blueberries+collagen ~489) superseded by the split — oats declined (no yogurt base), collagen moved to tonight._
 
+### 2026-11-13 (Fri) — 🔴 REST + exam + TEST @ 11 AM — Dinner — EATEN — Tomukun kalbi night (🚨 this was FRIDAY dinner, was mis-logged under Thursday — fixed 11-14)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Tomukun marinated short ribs (kalbi), ¾–1 lb (~340–454 g cooked; midpoint 400 g used) | ~1,080 | ~100 | ~64 | ~30 | ~2,400 |
+| White rice, 2 bowls (~300 g cooked — RICE DEBUT) | ~390 | ~8 | ~1 | ~84 | ~10 |
+| **Dinner total** | **~2,509** | **~108** | ~65 | ~114 | **~2,410** |
+
+**FRIDAY FINAL: ~2,934 kcal · ~210 P · Na ~2,642** (bfst split 425 + lunch 336/20 P [exam-mode, logged] + kalbi dinner 2,509/108)
+_The kalbi night was FRIDAY, not Thursday (timeline fixed 11-14). Big-feed day by design after the exam: ¾-1 lb kalbi + 2 rice bowls (rice debut). Protein 210 — window obliterated upward. Na ~2,642 = weekly framing carries it (Mon-Sun: 693/335/1233/1145+16+?/2635...). Thursday dinner was never reported — slot exists as UNKNOWN in Thu section._
+
+
 ### 2026-11-11 (Wed) — training day (split TBD) — Dinner — EATEN (CORRECTED 11-12: omelette + mix, not the melt)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
@@ -1285,6 +1296,12 @@ _Protein 155.7 — miss by ~14, closest yet under the projection regime (ham ome
 | **Lunch total** | **~336** | **~20.3** | ~11 | ~45 | **~16** |
 
 _EXAM MODE (test 2 PM): deliberately light + slow carbs, zero Na load, blueberry flavonoids. Coffee + L-theanine scheduled 1:00 PM (caffeine peak 1:30-2:00 lands on test start — theanine kills the jitters). Collagen deferred to tonight. Day runs lean by design; dinner is the catch-up slot (~600-650 kcal / ~70 P — chicken should finally be defrosted). Day target ~1,950-2,000 / ~165-175 P._
+
+### 2026-11-12 (Thu) — training day (split TBD) — Dinner — NOT REPORTED (timeline correction 11-14: the kalbi was FRIDAY's dinner; Thursday dinner unknown/possibly skipped — ~1,039 kcal through lunch, dinner slot blank)
+
+**THURSDAY FINAL (as-known): ~1,039 kcal + unreported dinner · 93.8+ P · Na ~1,177+**
+_Thursday recalculated after the kalbi-timeline fix: what was attributed to Thu dinner was actually FRIDAY's kalbi night. Thursday's real dinner was never reported — if it was a meal, tell me and I'll add it; if it was skipped, Thu ran very lean (~1,039)._
+
 
 ### 2026-11-12 (Thu) — training day (split TBD) — Breakfast — EATEN (the fried melt)
 | Item | kcal | Protein | F | C | Na (mg) |
