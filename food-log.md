@@ -1246,7 +1246,7 @@ _Running (bfst+lunch): ~685 kcal / ~55 P / Na ~390. Carb-load = hotpot tonight (
 
 _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-UP MATH: day-close 170 needs dinner ~72 P. THE PLAN: chicken 150 g (39 P) + collagen 2 scoops (18) + 2 eggs (12.6) + 1 sourdough slice (4) = 73.6 P dinner (~843 kcal — top of the distribution band). Day closes ~2,003 kcal / ~172 P = WINDOW by 1 g. Chicken must actually be eaten tonight — it is the entire plan. (LATER: chicken didn't finish defrosting — dinner re-planned above, eggs limited too.)_
 
-### 2026-11-15 (Sun) — Leg B optional / rest — Breakfast + Lunch — EATEN (chicken correction: 10g, not 70g — user-stated 11-15 eve)
+### 2026-11-15 (Sun) — Leg B optional / rest — Breakfast + Lunch — EATEN (chicken FINAL: 100g — the "10g" was Richard's typo, corrected 11-15 eve)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Greek yogurt 300 g + blueberries 100 g (crunch-style, no oats) | ~231 | ~30.6 | ~0.6 | ~26 | ~123 |
@@ -1254,10 +1254,10 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | Collagen 2 scoops + creatine in water | 70 | 18 | 0 | 0 | 110 |
 | **Breakfast total** | **~641** | **~60.6** | ~14.1 | ~92 | **~688** |
 | Pasta-and-beef mix 200 g cooked | ~372 | ~26 | ~16 | ~41 | ~28 |
-| Chicken thigh, 10 g cooked (correction: was mis-stated 70g) | ~21 | ~2.6 | ~0.9 | 0 | ~19 |
-| **Lunch total** | **~393** | **~28.6** | ~16.9 | ~41 | **~47** |
+| Chicken thigh, 100 g cooked (marinated) | ~209 | ~26 | ~12 | 0 | ~185 |
+| **Lunch total** | **~581** | **~52** | ~28 | ~41 | **~213** |
 
-_RUNNING: ~1,034 kcal / ~89.2 P / Na ~735. Burger night dinner closes the day — see dinner section._
+_RUNNING: ~1,222 kcal / ~112.6 P / Na ~901. Fish declined today (omega-3 gap open — cans in pantry for whenever). Burger night closes the day._
 
 ### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Dinner — EATEN (early, ~5 PM; exactly as carded)
 | Item | kcal | Protein | F | C | Na (mg) |
