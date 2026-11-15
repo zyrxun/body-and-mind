@@ -1254,7 +1254,7 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | Greek yogurt 200 g (new tubs) | ~116 | ~20 | 0 | ~8 | ~80 |
 | Blueberries 100 g | ~57 | ~0.6 | 0 | ~14 | ~3 |
 | Collagen 2 scoops in water | 70 | 18 | 0 | 0 | 110 |
-| **Dinner total** | **~1,025** | **~94** | ~21.6 | ~78 | **~365** |
+| **Dinner total** | **~1,025** | **~109** | ~21.6 | ~78 | **~365** |
 
 ### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Breakfast — EATEN (bread build + sweet extras — marshmallows/chocolate were THIS MORNING per 11-14 correction)
 | Item | kcal | Protein | F | C | Na (mg) |
@@ -1265,8 +1265,8 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | 1 piece chocolate (~8 g) | ~43 | ~0.6 | ~2.4 | ~5 | ~5 |
 | **Breakfast total** | **~613** | **~27.6** | ~19.4 | ~80 | **~575** |
 
-**SATURDAY FINAL (Leg A): ~1,994 kcal · ~153.6 P · fat ~55 g ✓ floor · Na ~602 ✓ · carbs ~218 g · sugar ~34 g (4 over cap)**
-_The marshmallows + chocolate were BREAKFAST items (morning correction 11-14 evening), not dinner — placement fixed, totals unchanged. Dinner executed exactly as carded (no-bake rice night) and eaten early (~5 PM). Honest grade: kcal deficit intact (~606 under TDEE on a gym day), protein solid (154), Na excellent (~602), sugar the only red line — ~34 g vs 30, over by a marshmallow-rounding. The morning-sweet stack (marshmallows + chocolate in one sitting) is the pattern to trim: one OR the other next time keeps the day legal._
+**SATURDAY FINAL (Leg A, audit-corrected): ~1,994 kcal · ~152 P · fat ~53 g ✓ floor · Na ~962 · carbs ~218 g · sugar ~34 g (4 over cap)**
+_The marshmallows + chocolate were BREAKFAST items (morning correction), not dinner — placement fixed. Dinner executed exactly as carded and eaten early (~5 PM). AUDIT FIX 11-14: dinner protein is 109 (was mis-summed 94) → day P ~152; day Na is ~962 (was mis-summed 602 — dinner's 365 + bfst 575 + lunch 22). Honest grade: kcal deficit intact (~606 under TDEE on a gym day), protein 152 (18 under window — the whey lever was available and not used), Na ~962 over daily cap but 4-day avg still ~1,062, sugar ~34 g the only cap-break (marshmallows + chocolate in one sitting = the pattern to trim: one OR the other)._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix 100 g cooked | ~186 | ~13 | ~8 | ~31 | ~14 |
