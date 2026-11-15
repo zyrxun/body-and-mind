@@ -1275,14 +1275,8 @@ _The marshmallows + chocolate were BREAKFAST items (morning correction 11-14 eve
 
 _RUNNING: ~806 kcal / ~44 P / carbs ~102 g (bfst 45 + lunch 57). FRY STOCK: GONE (the 150g batch was eaten entirely — v2 texture still soft). LIGHT LUNCH = DELIBERATE STRATEGY (his call: 'don't want to throw up before legs' — heavy meal + heavy squat = nausea risk). Validated: light pre-squad lunch is textbook; the compensation slot moves to POST-workout (~3:30 PM): rice + protein + collagen — refill AFTER the squats instead of before. 102 g carbs on board is adequate for the session, not stacked — expect sets 4-6 to feel heavier and go one rep shorter where form cracks._
 
-### 2026-11-14 (Sat) — 🟢 LEG A (gym 2 PM) — Breakfast — EATEN (bread build)
-| Item | kcal | Protein | F | C | Na (mg) |
-|---|---|---|---|---|---|
-| 3 eggs (restocked 18-pack — roommate debt repaid) | 210 | 19 | 15 | 1 | 210 |
-| Sourdough, 2 slices | ~240 | ~8 | ~2 | ~44 | ~360 |
-| **Breakfast total** | **~450** | **~27** | ~17 | ~45 | **~570** |
+_(Merged into the combined Saturday breakfast section above — eggs/sourdough/sweets all in one table.)_
 
-_Bread build as requested (no banana/collagen yet — maybe mid-morning). Eggs: restocked Friday night, roommate 3-egg loan REPAID ✓. Lighter breakfast than the usual leg-day 700 — fine, because lunch at ~12:30 (mix is BACK) + 2 PM session = double carb window. Ankle protocol + film the squat today._
 ### 2026-11-13 (Fri) — 🔴 REST + carb-load + TEST @ 11 AM — Breakfast SPLIT, part 1 — EATEN (6:45ish)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
