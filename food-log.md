@@ -1256,7 +1256,8 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 | Protein cookies-and-cream ice cream, 2 spoonfuls (~80 g) | ~130 | ~10 | ~5 | ~12 | ~60 |
 | **Dinner total** | **~1,265** | **~76.7** | ~50 | ~99 | **~1,650** |
 
-**SUNDAY FINAL: ~2,487 kcal · ~189.3 P (3 g over window top) · fat ~92 g (12 over band) · Na ~2,551 · carbs ~190 g**
+**SUNDAY FINAL (with bedtime broth cup ~240 g): ~2,537 kcal · ~198 P · fat ~92 g · Na ~2,751 · carbs ~190 g**
+_Broth strained, bones binned, containered + fridged (gel check pending tomorrow). Nightcap cup: glycine-sleep experiment night 1._
 _Burger night variant: pork patties (his call, from the 1 lb batch — fat-honest log), 2.5 buns (the half-bun extra +~200 kcal/+330 Na), whole tomato (the good choice), 1 cheese slice (cap respected ✓), protein ice cream 2 spoons (the protein-forward dessert — first time ice cream nets protein). Honest grade: calories ~2,487 = near maintenance on a Sunday (fine — the WEEK governs, and the week's other days ran deficits), protein overshot the window by ~3 g (no harm), fat ~92 g is the one over-band number (pork + cheese + buttered buns stacked), Na ~2,551 = big day (buns carry it), weekly framing decides. The 2.5th bun was the avoidable ~200 kcal. Lesson pattern: Sunday = the flexible day — it held ~1,900-2,500 range all four weeks._
 
 ### 2026-11-15 (Sun) — Leg B optional / rest — Breakfast + Lunch — EATEN (chicken FINAL: 100g — the "10g" was Richard's typo)
