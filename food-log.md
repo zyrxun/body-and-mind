@@ -1269,6 +1269,15 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 | **Lunch total** | **~664** | **~59** | ~26.6 | ~44 | **~421** |
 
 _RUNNING: ~1,394 kcal / ~123 P / Na ~955. Dinner needs ≥47 P for window (mix 250 g = 47.8 P, or chicken+rice repeat). Day-close projection ~173 ✓. No sweet potato today (breakfast skip) — rest-day carbs already at ~113 g through lunch, at target._
+
+### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Dinner — PLANNED + cheese add-on approved
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 250 g cooked (planned) | ~465 | ~32.8 | ~12.5 | ~78 | ~28 |
+| Meijer American Singles, 1 slice 19 g (OFFICIAL label: 60 kcal/3 P/Na 250; he read 310 — variant range 250-360) | ~60 | ~3 | ~4.5 | ~2 | ~310 |
+| **Dinner planned** | **~525** | **~35.8** | ~17 | ~80 | **~338** |
+
+_RUNNING (with planned dinner): ~1,919 kcal / ~158.9 P / Na ~1,293. ⚠️ WINDOW ALERT: American singles = protein-WEAK (3 g/slice, not the 6.5 g of real cheese) — day closes ~159, 11 g SHORT of window. FIX: collagen 2 scoops (+18 P → ~177 ✓) or bump the mix to 350 g (+13.1 P → ~172 ✓). Cheese bonus: Ca 200 mg/slice = the calcium agenda progressing._
 ### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Breakfast — EATEN (broth-noodle bowl debut)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
