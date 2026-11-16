@@ -1260,6 +1260,15 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 _Broth strained, bones binned, containered + fridged (gel check pending tomorrow). Nightcap cup: glycine-sleep experiment night 1._
 _Burger night variant: pork patties (his call, from the 1 lb batch — fat-honest log), 2.5 buns (the half-bun extra +~200 kcal/+330 Na), whole tomato (the good choice), 1 cheese slice (cap respected ✓), protein ice cream 2 spoons (the protein-forward dessert — first time ice cream nets protein). Honest grade: calories ~2,487 = near maintenance on a Sunday (fine — the WEEK governs, and the week's other days ran deficits), protein overshot the window by ~3 g (no harm), fat ~92 g is the one over-band number (pork + cheese + buttered buns stacked), Na ~2,551 = big day (buns carry it), weekly framing decides. The 2.5th bun was the avoidable ~200 kcal. Lesson pattern: Sunday = the flexible day — it held ~1,900-2,500 range all four weeks._
 
+### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Lunch — EATEN (cron card, math independently verified)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Marinated chicken thigh, 170 g cooked (garlic-lemon pan-sear) | ~389 | ~48.7 | ~21 | 0 | ~346 |
+| Rice, 150 g cooked | ~195 | ~4 | ~0.6 | ~43 | ~5 |
+| 1 egg, cracked into the chicken pan | 80 | 6.3 | 5 | 1 | 70 |
+| **Lunch total** | **~664** | **~59** | ~26.6 | ~44 | **~421** |
+
+_RUNNING: ~1,394 kcal / ~123 P / Na ~955. Dinner needs ≥47 P for window (mix 250 g = 47.8 P, or chicken+rice repeat). Day-close projection ~173 ✓. No sweet potato today (breakfast skip) — rest-day carbs already at ~113 g through lunch, at target._
 ### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Breakfast — EATEN (broth-noodle bowl debut)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
