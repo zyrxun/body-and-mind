@@ -1270,14 +1270,15 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 
 _RUNNING: ~1,394 kcal / ~123 P / Na ~955. Dinner needs ≥47 P for window (mix 250 g = 47.8 P, or chicken+rice repeat). Day-close projection ~173 ✓. No sweet potato today (breakfast skip) — rest-day carbs already at ~113 g through lunch, at target._
 
-### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Dinner — PLANNED + cheese add-on approved
+### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Dinner — PLANNED (his pick: omelette version)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix, 250 g cooked (planned) | ~465 | ~32.8 | ~12.5 | ~78 | ~28 |
-| Meijer American Singles, 1 slice 19 g (OFFICIAL label: 60 kcal/3 P/Na 250; he read 310 — variant range 250-360) | ~60 | ~3 | ~4.5 | ~2 | ~310 |
-| **Dinner planned** | **~525** | **~35.8** | ~17 | ~80 | **~338** |
+| Pasta-and-beef mix, 250 g cooked | ~465 | ~32.8 | ~12.5 | ~78 | ~28 |
+| Meijer American Singles, 1 slice 19 g (OFFICIAL: 60/3 P/Na 250; his label 310) | ~60 | ~3 | ~4.5 | ~2 | ~310 |
+| 3-egg omelette (18-pack), pan from the mix fat | 210 | 19 | 15 | 1 | 210 |
+| **Dinner planned** | **~735** | **~54.8** | ~32 | ~81 | **~548** |
 
-_RUNNING (with planned dinner): ~1,919 kcal / ~158.9 P / Na ~1,293. ⚠️ WINDOW ALERT: American singles = protein-WEAK (3 g/slice, not the 6.5 g of real cheese) — day closes ~159, 11 g SHORT of window. FIX: collagen 2 scoops (+18 P → ~177 ✓) or bump the mix to 350 g (+13.1 P → ~172 ✓). Cheese bonus: Ca 200 mg/slice = the calcium agenda progressing._
+_RUNNING (with planned dinner): ~2,129 kcal / ~177.7 P ✓ WINDOW HIT / Na ~1,503. Omelette version beats the collagen fix: real-food protein (19 P from eggs beats 18 P collagen that doesn't count strictly), Na +210 for the eggs but still the best day since Wednesday._
 ### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Breakfast — EATEN (broth-noodle bowl debut)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
