@@ -1264,12 +1264,12 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chicken bone broth, 400 g (first batch, ~6 h simmer) | ~80 | ~15 | ~1 | ~1 | ~90 |
-| Protein noodles, 1 block (70 g dry — brand label pending, ~est until photo) | ~240 | ~17.5 | ~1.5 | ~42 | ~15 |
+| Millet & brown rice ramen noodles, 1 block (70 g dry — rice/millet class: ~258 kcal / 4.8 P per 70 g) | ~258 | ~4.8 | ~1.5 | ~54 | ~10 |
 | 2 eggs, poached in the broth | 140 | 12.6 | 10 | 1 | 210 |
 | 1 chicken thigh, shredded (~110 g cooked, marinated) | ~252 | ~31.5 | ~16 | 0 | ~224 |
-| **Breakfast total** | **~712** | **~76.6** | ~28 | ~59 | **~539** |
+| **Breakfast total** | **~712** | **~63.9** | ~28 | ~71 | **~534** |
 
-_Ledger opener: THE BROTH BOWL — first meal built from his own stock (broth + protein noodles + eggs poached in-soup + a whole thigh shredded in). Sodium-reset day, and breakfast already carries ~77 P — day-close projection running well ahead of window pace. ☀️ D3+K2 with this meal · creatine in water. Gel check result pending. Noodle brand label photo pending — macros ~est (chickpea/protein-pasta class, ~340 kcal/25 P per 100 g dry) until the label lands._
+_Ledger opener: THE BROTH BOWL — first meal built from his own stock. BRAND CORRECTION 11-16: "protein noodles" are actually MILLET & BROWN RICE ramen (rice class: ~370 kcal/7 P per 100 g dry — NOT a high-protein pasta); P drops 76.6 → 63.9, carbs up. Standing rule from Richard (11-16): KEEP ASKING FOR BRANDS — never use generic class values when unsure. ☀️ D3+K2 with this meal · creatine in water. Gel check pending._
 
 ### 2026-11-15 (Sun) — Leg B optional / rest — Breakfast + Lunch — EATEN (chicken FINAL: 100g — the "10g" was Richard's typo)
 | Item | kcal | Protein | F | C | Na (mg) |
