@@ -1267,7 +1267,7 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 | Millet & brown rice ramen noodles, 1 block (70 g dry — rice/millet class: ~258 kcal / 4.8 P per 70 g) | ~258 | ~4.8 | ~1.5 | ~54 | ~10 |
 | 2 eggs, poached in the broth | 140 | 12.6 | 10 | 1 | 210 |
 | 1 chicken thigh, shredded (~110 g cooked, marinated) | ~252 | ~31.5 | ~16 | 0 | ~224 |
-| **Breakfast total** | **~712** | **~63.9** | ~28 | ~71 | **~534** |
+| **Breakfast total** | **~730** | **~63.9** | ~28 | ~71 | **~534** |
 
 _Ledger opener: THE BROTH BOWL — first meal built from his own stock. BRAND CORRECTION 11-16: "protein noodles" are actually MILLET & BROWN RICE ramen (rice class: ~370 kcal/7 P per 100 g dry — NOT a high-protein pasta); P drops 76.6 → 63.9, carbs up. Standing rule from Richard (11-16): KEEP ASKING FOR BRANDS — never use generic class values when unsure. ☀️ D3+K2 with this meal · creatine in water. Gel check pending._
 
