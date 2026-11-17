@@ -1267,6 +1267,26 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 | **Breakfast total** | **~110** | **~14** | ~5 | ~4 | **~420** |
 
 _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). The omega-3 agenda: Meijer Alaskan Pink Salmon (skinless/boneless) — OFFICIAL label pulled 11-17: per 85 g = 80 kcal / 17 P / 1.5 F / Na 240 / K 320. A whole can (~2.5 servings) = ~200 kcal / 42 P / Na 600. FISH DEBUT pending his report._
+
+### 2026-11-17 (Tue) — 🟡 train (Push) — Lunch + pre-gym + cookies — EATEN (as carded per his report; grams assumed carded)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Chicken thigh, 200 g cooked + sweet potato 220 g + yogurt 150 g + banana (carded lunch + pre-gym banana) | ~914 | ~85 | ~25 | ~83 | ~598 |
+| 2 chocolate-chip cookies (~170 kcal ea, bakery class ~est) | ~340 | ~2.6 | ~16 | ~44 | ~240 |
+| **Lunch + extras total** | **~1,254** | **~87.6** | ~41 | ~127 | **~838** |
+
+_RUNNING: ~1,364 kcal / ~101.6 P / Na ~1,258. Gym done. Sugar at ~21.6 g (cookies) — ~8 g cap room left, dinner must be sugar-zero._
+
+### 2026-11-17 (Tue) — 🟡 train (Push) — Dinner — CARD (post-lift, Na-lean)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 400 g cooked | ~620 | ~52.4 | ~16 | ~104 | ~28 |
+| Collagen 2 scoops in water | 70 | 18 | 0 | 0 | 110 |
+| Greek yogurt, 150 g | 87 | 15 | 0 | 6 | 60 |
+| **Dinner card** | **~777** | **~85.4** | ~16 | ~110 | **~198** |
+
+**TUESDAY PROJECTED FINAL: ~2,141 kcal · ~187 P ✓ (top edge, fine) · Na ~1,456 · carbs ~237 g (train-day high from cookies+banana+mix — acceptable) · sugar ~21.6 g ✓**
+_Why no eggs tonight: cookies already spent 480 kcal + the Na budget is at 1,258 pre-dinner — the omelette version would push Na past 1,700. Collagen+yogurt deliver the same 33 P at 170 mg Na. Post-lift carbs are covered by mix 400 (104 g) — glycogen refill in the same meal as the protein, textbook._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Marinated chicken thigh, 170 g cooked (garlic-lemon pan-sear) | ~389 | ~48.7 | ~21 | 0 | ~346 |
