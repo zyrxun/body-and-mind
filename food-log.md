@@ -1281,8 +1281,7 @@ _RUNNING: ~1,394 kcal / ~123 P / Na ~955. Dinner needs ≥47 P for window (mix 2
 | 1 marshmallow | ~40 | 0 | 0 | ~7 | 0 |
 | **Dinner total** | **~833** | **~55.8** | ~33.9 | ~98 | **~553** |
 
-**MONDAY FINAL (late cottage-cheese add): ~2,337 kcal · ~192.7 P ✓ WINDOW HIT · fat ~66 g ✓ band · Na ~1,928 · carbs ~173 g · sugar ~12 g ✓**
-_Cottage cheese serving added after close (his report): ~110 kcal / ~14 P / Na ~410-440 (Meijer 4% small curd). HIS OWN VERDICT, validated by the numbers: not repeating — 420 mg Na for 14 g P is a bad trade vs Greek yogurt (14 P for ~80 mg = 5× less sodium). Cottage = the Na-expensive protein; yogurt is the dairy-protein default from here. Day stays green on every other axis — and the extra 14 P pushes the window to the top edge (193), no harm._
+**MONDAY FINAL: ~2,227 kcal · ~178.7 P ✓ WINDOW HIT · fat ~62 g ✓ band · Na ~1,508 · carbs ~169 g · sugar ~12 g ✓** (chicken-at-dinner report pending: he said '250 mix and chicken i think' — chicken grams unconfirmed, row not added yet)
 _The template day, delivered: window hit by design (178.7, upper-mid), calories ~370 under TDEE, fat mid-band, sugar trivial (one chocolate piece + one marshmallow = 9 g — the sweets rule held: one OR the other, and even the marshmallow didn't break the day). Na ~1,508 over daily cap but the reset worked relative to Sunday's 2,751 — weekly average pulls down. Variety ✓ (broth bowl / rice plate / omelette), cheese cap ✓ (1 slice), distribution ✓ (676/664/833). The American-single lesson: processed cheese = 3 P/slice — real cheese (cheddar/mozz) carries double the protein at similar calories; the singles stay for melt-jobs (omelettes, burgers), not protein delivery._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
