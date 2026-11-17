@@ -1260,7 +1260,13 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 _Broth strained, bones binned, containered + fridged (gel check pending tomorrow). Nightcap cup: glycine-sleep experiment night 1._
 _Burger night variant: pork patties (his call, from the 1 lb batch — fat-honest log), 2.5 buns (the half-bun extra +~200 kcal/+330 Na), whole tomato (the good choice), 1 cheese slice (cap respected ✓), protein ice cream 2 spoons (the protein-forward dessert — first time ice cream nets protein). Honest grade: calories ~2,487 = near maintenance on a Sunday (fine — the WEEK governs, and the week's other days ran deficits), protein overshot the window by ~3 g (no harm), fat ~92 g is the one over-band number (pork + cheese + buttered buns stacked), Na ~2,551 = big day (buns carry it), weekly framing decides. The 2.5th bun was the avoidable ~200 kcal. Lesson pattern: Sunday = the flexible day — it held ~1,900-2,500 range all four weeks._
 
-### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Lunch — EATEN (cron card, math independently verified)
+### 2026-11-17 (Tue) — 🟡 train (Push 6:40 AM per split) — Breakfast — EATEN (cottage cheese, slot-corrected from Mon night) + plan: fish
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Meijer Cottage Cheese 4%, 1 serving (~110 g? serving-size confirm) | ~110 | ~14 | ~5 | ~4 | ~420 |
+| **Breakfast total** | **~110** | **~14** | ~5 | ~4 | **~420** |
+
+_His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). The omega-3 agenda: Meijer Alaskan Pink Salmon (skinless/boneless) — OFFICIAL label pulled 11-17: per 85 g = 80 kcal / 17 P / 1.5 F / Na 240 / K 320. A whole can (~2.5 servings) = ~200 kcal / 42 P / Na 600. FISH DEBUT pending his report._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Marinated chicken thigh, 170 g cooked (garlic-lemon pan-sear) | ~389 | ~48.7 | ~21 | 0 | ~346 |
@@ -1279,9 +1285,11 @@ _RUNNING: ~1,394 kcal / ~123 P / Na ~955. Dinner needs ≥47 P for window (mix 2
 | Rice, +20 g cooked (side nibble) | ~26 | ~0.5 | ~0.1 | ~6 | ~1 |
 | Chocolate, 6 g | ~32 | ~0.5 | ~1.8 | ~4 | ~4 |
 | 1 marshmallow | ~40 | 0 | 0 | ~7 | 0 |
-| **Dinner total** | **~833** | **~55.8** | ~33.9 | ~98 | **~553** |
+| Shredded chicken thigh, ~100 g cooked (11-17 correction: was in the omelette mix) | ~229 | ~28.6 | ~12 | 0 | ~185 |
+| **Dinner total** | **~1,062** | **~84.4** | ~45.9 | ~98 | **~738** |
 
-**MONDAY FINAL: ~2,227 kcal · ~178.7 P ✓ WINDOW HIT · fat ~62 g ✓ band · Na ~1,508 · carbs ~169 g · sugar ~12 g ✓** (chicken-at-dinner report pending: he said '250 mix and chicken i think' — chicken grams unconfirmed, row not added yet)
+**MONDAY FINAL (11-17 corrected: chicken was in the dinner omelette): ~2,456 kcal · ~207.3 P ✓ window (well over top, zero harm) · fat ~74 g ✓ band · Na ~1,693 · carbs ~169 g · sugar ~12 g ✓**
+_Chicken grams ~est (100 g cooked thigh) — confirm rough size (half vs full thigh) and the row adjusts. The extra 29 P pushes protein past the ceiling but surplus protein on a cut is a non-event: it's satiety, not fat. Na ~1,693 over cap; weekly average still bends down vs Sunday._
 _The template day, delivered: window hit by design (178.7, upper-mid), calories ~370 under TDEE, fat mid-band, sugar trivial (one chocolate piece + one marshmallow = 9 g — the sweets rule held: one OR the other, and even the marshmallow didn't break the day). Na ~1,508 over daily cap but the reset worked relative to Sunday's 2,751 — weekly average pulls down. Variety ✓ (broth bowl / rice plate / omelette), cheese cap ✓ (1 slice), distribution ✓ (676/664/833). The American-single lesson: processed cheese = 3 P/slice — real cheese (cheddar/mozz) carries double the protein at similar calories; the singles stay for melt-jobs (omelettes, burgers), not protein delivery._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
