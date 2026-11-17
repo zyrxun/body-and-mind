@@ -1270,7 +1270,19 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 
 _RUNNING: ~1,394 kcal / ~123 P / Na ~955. Dinner needs ≥47 P for window (mix 250 g = 47.8 P, or chicken+rice repeat). Day-close projection ~173 ✓. No sweet potato today (breakfast skip) — rest-day carbs already at ~113 g through lunch, at target._
 
-### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Dinner — PLANNED (his pick: omelette version)
+### 2026-11-16 (Mon) — 🔴 sodium reset / training TBD — Dinner — EATEN (omelette + extras)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 250 g cooked | ~465 | ~32.8 | ~12.5 | ~78 | ~28 |
+| Meijer American Singles, 1 slice (his label: Na 310) | ~60 | ~3 | ~4.5 | ~2 | ~310 |
+| 3-egg omelette | 210 | 19 | 15 | 1 | 210 |
+| Rice, +20 g cooked (side nibble) | ~26 | ~0.5 | ~0.1 | ~6 | ~1 |
+| Chocolate, 6 g | ~32 | ~0.5 | ~1.8 | ~4 | ~4 |
+| 1 marshmallow | ~40 | 0 | 0 | ~7 | 0 |
+| **Dinner total** | **~833** | **~55.8** | ~33.9 | ~98 | **~553** |
+
+**MONDAY FINAL: ~2,227 kcal · ~178.7 P ✓ WINDOW HIT · fat ~62 g ✓ band · Na ~1,508 · carbs ~169 g · sugar ~12 g ✓**
+_The template day, delivered: window hit by design (178.7, upper-mid), calories ~370 under TDEE, fat mid-band, sugar trivial (one chocolate piece + one marshmallow = 9 g — the sweets rule held: one OR the other, and even the marshmallow didn't break the day). Na ~1,508 over daily cap but the reset worked relative to Sunday's 2,751 — weekly average pulls down. Variety ✓ (broth bowl / rice plate / omelette), cheese cap ✓ (1 slice), distribution ✓ (676/664/833). The American-single lesson: processed cheese = 3 P/slice — real cheese (cheddar/mozz) carries double the protein at similar calories; the singles stay for melt-jobs (omelettes, burgers), not protein delivery._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix, 250 g cooked | ~465 | ~32.8 | ~12.5 | ~78 | ~28 |
