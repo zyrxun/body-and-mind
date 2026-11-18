@@ -1277,7 +1277,16 @@ _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). Th
 
 _RUNNING: ~1,259 kcal / ~100.6 P / Na ~1,257. Gym done. Sugar ~21.6 g — dinner must be sugar-zero._
 
-### 2026-11-17 (Tue) — 🟡 train (Push) — Dinner — CARD v3 (his call: 400g felt heavy, wants 250g + sides, split OK)
+### 2026-11-17 (Tue) — 🟡 train (Push) — Dinner — EATEN (split across the evening, as he wanted)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 500 g cooked total (2 servings ~250 g each) | ~930 | ~65.5 | ~35 | ~130 | ~140 |
+| 2 eggs | 140 | ~12.6 | ~10 | ~2 | ~140 |
+| Chicken broth, 150 g (warmed cup) | ~30 | ~5.6 | ~0.3 | ~1 | ~34 |
+| **Dinner total** | **~1,100** | **~83.7** | ~45.3 | ~133 | **~314** |
+
+**TUESDAY FINAL: ~2,359 kcal · ~184.3 P ✓ WINDOW HIT (upper edge) · Na ~1,571 · carbs ~236 g · sugar ~21.6 g ✓**
+_He solved his own problem: 500 g total split as 2× ~250 g servings across the evening + 2 eggs + a broth cup — exactly the distribution-rule pattern (two protein waves, no heavy single bowl). No collagen needed; the mix+eggs carried it. Calories ~240 under TDEE. Na over daily cap (mix volume) but under Monday's — weekly average keeps bending down. Second straight window hit BY DESIGN._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix, 250 g cooked (serving 1) | ~327.5 | ~32.8 | ~10 | ~65 | ~28 |
