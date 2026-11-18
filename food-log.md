@@ -1260,7 +1260,29 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 _Broth strained, bones binned, containered + fridged (gel check pending tomorrow). Nightcap cup: glycine-sleep experiment night 1._
 _Burger night variant: pork patties (his call, from the 1 lb batch — fat-honest log), 2.5 buns (the half-bun extra +~200 kcal/+330 Na), whole tomato (the good choice), 1 cheese slice (cap respected ✓), protein ice cream 2 spoons (the protein-forward dessert — first time ice cream nets protein). Honest grade: calories ~2,487 = near maintenance on a Sunday (fine — the WEEK governs, and the week's other days ran deficits), protein overshot the window by ~3 g (no harm), fat ~92 g is the one over-band number (pork + cheese + buttered buns stacked), Na ~2,551 = big day (buns carry it), weekly framing decides. The 2.5th bun was the avoidable ~200 kcal. Lesson pattern: Sunday = the flexible day — it held ~1,900-2,500 range all four weeks._
 
-### 2026-11-18 (Wed) — 🟡 train (Pull) — Breakfast — CARD (from ACTUAL stock — no fish, no sardines in house; Pepperidge bun replaces sourdough per his call)
+### 2026-11-18 (Wed) — 🟡 train (Pull) + 🎯 EXAM 6–8 PM — Lunch — EATEN (diverged from card: snacks happened)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 200 g cooked | ~372 | ~26.2 | ~25 | ~87 | ~56 |
+| 1 marshmallow | ~40 | 0 | 0 | ~7 | 0 |
+| Goldfish crackers, 1 serving (~30 g) | ~140 | ~3 | ~5.5 | ~20 | ~280 |
+| Chocolate, 1 piece (~6 g) | ~32 | ~0.5 | ~1.8 | ~4 | ~4 |
+| Potato fries, last 100 g (stock now CLEARED) | ~170 | ~4 | ~6 | ~26 | ~8 |
+| **Lunch total** | **~754** | **~33.7** | ~38.3 | ~144 | **~348** |
+
+_RUNNING: ~1,354 kcal / ~71 P / Na ~901 / sugar ~12 g. SNACK STACK NOTE (3 sweets-ish items at one lunch: marshmallow + goldfish + chocolate — the pattern from Sat's 34 g day; today survives on grams but the shape is the warning). FRIES NOW GONE — fry stock fully cleared, a rotation gap for Friday._
+
+### 2026-11-18 (Wed) — 🟡 train (Pull) + 🎯 EXAM 6–8 PM — Dinner — CARD (post-test catch-up, ~8:15 PM) — WHEY INVOKED (lever condition (b): projection fails without it)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 400 g cooked | ~620 | ~52.4 | ~16 | ~104 | ~28 |
+| Whey, 1 scoop in water (EMERGENCY LEVER — 99 P needed, food ceiling ~85) | ~120 | ~24 | ~1.5 | ~3 | ~60 |
+| Collagen 2 scoops | 70 | ~18 | 0 | 0 | 110 |
+| 2 eggs (into the mix pan) | 140 | ~12.6 | ~10 | ~2 | ~140 |
+| **Dinner card** | **~950** | **~107** | ~27.5 | ~109 | **~338** |
+
+**WEDNESDAY PROJECTED FINAL: ~2,304 kcal · ~178 P ✓ WINDOW HIT · Na ~1,239 ✓ UNDER CAP · carbs ~253 g (exam-day high — acceptable, glucose spent on the test + post-lift glycogen) · sugar ~12 g ✓**
+_Whey invoked per the standing rule (projection fails, no food-only path closes a 99 P dinner). The stack: mix 400 + whey + collagen + 2 eggs = 107 P in one sitting — big, but post-test the appetite will be there, and exam-day distribution always ran light-lunch/big-dinner._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | 3-egg scramble, butter in the pan | 310 | ~19 | ~26.5 | ~1 | ~305 |
