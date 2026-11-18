@@ -10,7 +10,7 @@
 - ⚠️ Pork bits — small amount used in Wed omelette (~15g), remainder unknown
 - ✅ Collagen (Meijer beef peptides) — 2 scoops/day available
 - ✅ Whey protein — EMERGENCY LEVER ONLY (rule changed 11-11: he dislikes flavour, uses ONLY when protein window otherwise unreachable). Likely in pantry (old inventory). ~1 scoop = 24P/120kcal. Never in routine cards
-- 🔄 Fish swap (11-12): SARDINES REJECTED (he dislikes them) → Friday buy = CANNED SALMON (w/ bones+skin, ~180kcal/24P/Ca180) + MACKEREL Atlantic (~305kcal/26P/omega3 2.5g — NOT king mackerel). Anchovies rejected (Na 3500mg/100g = 2.7x daily cap). Tuna light = fallback, 1-2 cans/wk cap (mercury)
+- ❌ FISH — NEVER BOUGHT (correction 11-17: "Come on, bro I told you I didn't buy fish" — the planned Friday fish purchase never happened; earlier notes saying cans were hauled were WRONG). NO fish in house. Omega-3 gap FULLY OPEN (0 g intake). Fish swap plan stands when he's ready: CANNED SALMON (skinless/boneless Meijer pink — official label pulled 11-17: per 85 g = 80 kcal / 17 P / Na 240 / K 320; ~200 kcal/42 P per can) + ATLANTIC MACKEREL (~305 kcal/26 P/omega-3 ~2.5 g — NOT king mackerel = mercury). Sardines REJECTED (taste), anchovies REJECTED (Na). Tuna light = fallback, 1-2 cans/wk cap. DO NOT card fish until he confirms buying it — stop referencing 'the cans'
 
 ## CARBS
 - ✅ Sourdough loaf — active (bread ran out 11-03, resupply appeared; slice ~40g ~est 120 kcal)
