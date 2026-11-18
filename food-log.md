@@ -1260,7 +1260,15 @@ _Chicken defrosting during lunch (lmaooo) — it migrates to dinner. THE CATCH-U
 _Broth strained, bones binned, containered + fridged (gel check pending tomorrow). Nightcap cup: glycine-sleep experiment night 1._
 _Burger night variant: pork patties (his call, from the 1 lb batch — fat-honest log), 2.5 buns (the half-bun extra +~200 kcal/+330 Na), whole tomato (the good choice), 1 cheese slice (cap respected ✓), protein ice cream 2 spoons (the protein-forward dessert — first time ice cream nets protein). Honest grade: calories ~2,487 = near maintenance on a Sunday (fine — the WEEK governs, and the week's other days ran deficits), protein overshot the window by ~3 g (no harm), fat ~92 g is the one over-band number (pork + cheese + buttered buns stacked), Na ~2,551 = big day (buns carry it), weekly framing decides. The 2.5th bun was the avoidable ~200 kcal. Lesson pattern: Sunday = the flexible day — it held ~1,900-2,500 range all four weeks._
 
-### 2026-11-17 (Tue) — 🟡 train (Push 6:40 AM per split) — Breakfast — EATEN (cottage cheese, slot-corrected from Mon night) + plan: fish
+### 2026-11-18 (Wed) — 🟡 train (Pull) — Breakfast — CARD (sardine debut — HE chose sardines back, reversal of 11-12 rejection)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Sardines, 1 can rinsed (~92 g drained) | ~160 | ~19 | ~8 | 0 | ~350 |
+| Sourdough, 1 slice (sardine toast base) | ~120 | ~4 | ~1 | ~22 | ~180 |
+| 2 eggs (scrambled or boiled) | 140 | ~12.6 | ~10 | ~1 | ~140 |
+| **Breakfast card** | **~420** | **~35.6** | ~19 | ~23 | **~670** |
+
+_SARDINE DEBUT: omega-3 ~1.5-2 g/can closes the weekly gap in one sitting + Ca ~350 mg (soft bones = the dairy-phaseout calcium fix, 27% DV) + vitamin D natural. Prep: RINSE the fillets (Na halves), mash with lemon + garlic, pile on the toast — the mildest-form protocol for a taste-skeptic. ☀️ D3+K2 with this meal (sardine fat carries the K2) · creatine 5 g in water._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Meijer Cottage Cheese 4%, 1 serving (~110 g? serving-size confirm) | ~110 | ~14 | ~5 | ~4 | ~420 |
