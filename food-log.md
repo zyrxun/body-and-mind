@@ -1269,6 +1269,18 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 | **Breakfast card** | **~600** | **~37.3** | ~35.1 | ~35 | **~773** |
 
 _Sardines deferred until cans are bought (Friday list). This build uses what EXISTS: the 18-pack's remaining eggs, the broth's last safe day. ☀️ D3+K2 with this meal · creatine 5 g in water._ **BROTH FINALE: whatever's left after the breakfast cup (~150–200 g) goes into TONIGHT'S RICE — cook the dinner rice IN the broth, topped up with water. The rice absorbs every last milliliter: zero waste, no freezing decision, and the broth-rice flavor upgrade we've been queueing.**
+
+**🎯 EXAM-NIGHT PROTOCOL (test 6–7 PM) — the 11-12/11-13 stack, redeployed:**
+| Slot | Time | What | Why |
+|---|---|---|---|
+| Breakfast | ~8:15 (as carded above) | bun + 3-egg scramble + broth cup | protein-stable morning, no changes needed |
+| **Lunch** | **~12:30** | **mix 150 g + rice 100 g — ~409 kcal / 22.4 P / 38 g C / Na ~45 — LIGHT, slow-carb, no fried, no sauce** | rice's slow glucose curve tails into the 5–6:30 window; light = no food-coma; low Na = no seat-thirst |
+| **Stim stack** | **~5:00 PM** | **coffee ~100 mg + L-theanine ~200 mg** | caffeine peak 5:30–6:30 = lands ON the test; theanine kills the jitters |
+| Test | 6–7 | water sips only, no snacks | stable glucose, stable hands |
+| **Dinner** | **~7:30** | **the catch-up — biggest protein meal: broth-rice + mix + eggs** | exam-mode rule: dinner carries what lunch skipped |
+| Mg | ~30–60 min pre-bed | tonight = night 2 | post-exam wind-down |
+
+_Lunch planned per exam protocol (11-12 AND 11-13 precedent — both worked). Day-close projection: bfst 37.3 + lunch 22.4 + dinner ~60+ = ~170+ window hit; calories will run lean pre-test, big post-test dinner._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Sardines, 1 can rinsed (~92 g drained) | ~160 | ~19 | ~8 | 0 | ~350 |
