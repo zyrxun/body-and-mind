@@ -1268,7 +1268,7 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 | Chicken broth, ~300 g warmed cup (LAST fridge day — made 11-15!) | ~60 | ~11.3 | ~0.6 | ~1 | ~68 |
 | **Breakfast card** | **~490** | **~34.3** | ~28.1 | ~24 | **~553** |
 
-_Sardines deferred until cans are bought (Friday list). This build uses what EXISTS: the 18-pack's remaining eggs, the broth's last safe day (fridge 4-5 days from 11-15 = TODAY is day 3-4 — drink it now or freeze the rest TODAY). ☀️ D3+K2 with this meal · creatine 5 g in water._
+_Sardines deferred until cans are bought (Friday list). This build uses what EXISTS: the 18-pack's remaining eggs, the broth's last safe day. ☀️ D3+K2 with this meal · creatine 5 g in water._ **BROTH FINALE: whatever's left after the breakfast cup (~150–200 g) goes into TONIGHT'S RICE — cook the dinner rice IN the broth, topped up with water. The rice absorbs every last milliliter: zero waste, no freezing decision, and the broth-rice flavor upgrade we've been queueing.**
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Sardines, 1 can rinsed (~92 g drained) | ~160 | ~19 | ~8 | 0 | ~350 |
