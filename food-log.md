@@ -1277,16 +1277,16 @@ _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). Th
 
 _RUNNING: ~1,259 kcal / ~100.6 P / Na ~1,257. Gym done. Sugar ~21.6 g — dinner must be sugar-zero._
 
-### 2026-11-17 (Tue) — 🟡 train (Push) — Dinner — CARD v2 (variety fix: yogurt OUT, egg IN)
+### 2026-11-17 (Tue) — 🟡 train (Push) — Dinner — CARD v3 (his call: 400g felt heavy, wants 250g + sides, split OK)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix, 400 g cooked | ~620 | ~52.4 | ~16 | ~104 | ~28 |
-| Collagen 2 scoops in water | 70 | 18 | 0 | 0 | 110 |
-| 1 egg (soft-boiled or cracked into the mix pan) | 70 | 6.3 | 5 | 1 | 70 |
-| **Dinner card v2** | **~760** | **~76.7** | ~21 | ~105 | **~208** |
+| Pasta-and-beef mix, 250 g cooked (serving 1) | ~327.5 | ~32.8 | ~10 | ~65 | ~28 |
+| 3-egg omelette | 210 | 19 | 15 | 1 | 210 |
+| Collagen 2 scoops (serving 2 — the chaser, in water) | 70 | 18 | 0 | 0 | 110 |
+| **Dinner card v3** | **~608** | **~69.8** | ~25 | ~66 | **~348** |
 
-**TUESDAY PROJECTED FINAL (no-banana, no-second-yogurt): ~1,679 kcal · ~174.7 P ✓ WINDOW HIT · Na ~1,225 ✓ UNDER CAP · carbs ~206 g · sugar ~21.6 g ✓**
-_His call on yogurt variety was right (his ask: 'so yogurt again?') — yogurt was already at lunch; the dinner card now uses 1 egg instead (+6.3 P, +70 Na, kills the dairy-repeat). Window still hits (174.7), Na lands UNDER 1,300 — first under-cap day since the weekend reset. Day = cottage cheese / chicken+SP+yogurt / mix+collagen+egg: three different builds, variety rule ✓._
+**TUESDAY PROJECTED FINAL (v3): ~1,866 kcal · ~170.4 P ✓ WINDOW HIT (by a hair) · Na ~1,605 · carbs ~166 g · sugar ~21.6 g ✓**
+_The 400 g felt heavy because it IS heavy — 520 kcal of dense pasta-beef in one bowl. The v3 answer: smaller mix (250 g) + eggs carry the protein + collagen chaser an hour later if needed. Splitting the mix into 2× 200 g servings across the evening is ALSO legal (mix 200 + egg + collagen now, mix 200 + something light later) — the distribution rule allows it on a post-lift night._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Marinated chicken thigh, 170 g cooked (garlic-lemon pan-sear) | ~389 | ~48.7 | ~21 | 0 | ~346 |
