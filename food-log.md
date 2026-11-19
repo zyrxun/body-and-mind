@@ -1272,17 +1272,15 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 
 _RUNNING: ~1,354 kcal / ~71 P / Na ~901 / sugar ~12 g. SNACK STACK NOTE (3 sweets-ish items at one lunch: marshmallow + goldfish + chocolate — the pattern from Sat's 34 g day; today survives on grams but the shape is the warning). FRIES NOW GONE — fry stock fully cleared, a rotation gap for Friday._
 
-### 2026-11-18 (Wed) — 🟡 train (Pull) + 🎯 EXAM 6–8 PM — Dinner — CARD (post-test catch-up, ~8:15 PM) — WHEY INVOKED (lever condition (b): projection fails without it)
+### 2026-11-18 (Wed) — 🟡 train (Pull) + 🎯 EXAM 6–8 PM — Dinner — EATEN (SWAPPED: Thai takeout replaced the whey card)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix, 400 g cooked | ~620 | ~52.4 | ~16 | ~104 | ~28 |
-| Whey, 1 scoop in water (EMERGENCY LEVER — 99 P needed, food ceiling ~85) | ~120 | ~24 | ~1.5 | ~3 | ~60 |
-| Collagen 2 scoops | 70 | ~18 | 0 | 0 | 110 |
-| 2 eggs (into the mix pan) | 140 | ~12.6 | ~10 | ~2 | ~140 |
-| **Dinner card** | **~950** | **~107** | ~27.5 | ~109 | **~338** |
+| Pad Thai with chicken (restaurant, ~est ±15%: noodles + egg + peanuts + sauce) | ~800 | ~35 | ~28 | ~95 | ~1,400 |
+| Protein ice cream, half pint | ~120 | ~9 | ~3 | ~14 | ~55 |
+| **Dinner actual** | **~920** | **~44** | ~31 | ~109 | **~1,455** |
 
-**WEDNESDAY PROJECTED FINAL: ~2,304 kcal · ~178 P ✓ WINDOW HIT · Na ~1,239 ✓ UNDER CAP · carbs ~253 g (exam-day high — acceptable, glucose spent on the test + post-lift glycogen) · sugar ~12 g ✓**
-_Whey invoked per the standing rule (projection fails, no food-only path closes a 99 P dinner). The stack: mix 400 + whey + collagen + 2 eggs = 107 P in one sitting — big, but post-test the appetite will be there, and exam-day distribution always ran light-lunch/big-dinner._
+**WEDNESDAY FINAL: ~2,274 kcal · ~115 P ✗ MISS (55 under window) · Na ~2,576 · sugar ~14 g ✓**
+_Exam-night swap: the whey card was bypassed for Thai takeout + ice cream. Honest grade: exam night = sanctioned flexibility, and calories landed ~330 under TDEE — but the protein window broke for the first time since the Tue 133 era (10 days ago). Na ~2,576 = the sauce + peanuts + takeout pricing. The whey lever stays in the pantry UNFIRED; Wednesday just chose restaurant. Post-test pad thai is human. Next window resume: Thursday._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | 3-egg scramble, butter in the pan | 310 | ~19 | ~26.5 | ~1 | ~305 |
@@ -1317,6 +1315,17 @@ _SARDINE DEBUT: omega-3 ~1.5-2 g/can closes the weekly gap in one sitting + Ca ~
 | **Breakfast total** | **~110** | **~14** | ~5 | ~4 | **~420** |
 
 _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). The omega-3 agenda: Meijer Alaskan Pink Salmon (skinless/boneless) — OFFICIAL label pulled 11-17: per 85 g = 80 kcal / 17 P / 1.5 F / Na 240 / K 320. A whole can (~2.5 servings) = ~200 kcal / 42 P / Na 600. FISH DEBUT pending his report._
+
+### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Breakfast + Lunch — EATEN
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Greek yogurt 100 g + blueberries 100 g + oats 45 g + banana (crunch bowl, full build) | ~391 | ~17.9 | ~6 | ~94 | ~40 |
+| **Breakfast total** | **~391** | **~17.9** | ~6 | ~94 | **~40** |
+| Broth-rice, 150 g (the finale — batch fully consumed ✓) | ~195 | ~4 | ~0.6 | ~43 | ~5 |
+| Chicken thigh, 200 g cooked | ~418 | ~52 | ~21 | 0 | ~350 |
+| **Lunch total** | **~613** | **~56** | ~21.6 | ~43 | **~355** |
+
+_RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale complete — first production run closed). Crunch bowl returned to rotation (variety ✓ — Wed bun-scramble / Thu crunch bowl / pad thai night: 4 days, 4 builds). Dinner needs ~96 P for window — biggest ask of the week._
 
 ### 2026-11-17 (Tue) — 🟡 train (Push) — Lunch + cookies — EATEN (11-17 correction: NO banana)
 | Item | kcal | Protein | F | C | Na (mg) |
