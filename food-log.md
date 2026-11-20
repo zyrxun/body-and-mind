@@ -1345,7 +1345,17 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Kumara (sweet potato), 100 g baked | ~99 | ~2 | ~0.2 | ~23 | ~9 |
 | **Lunch total** | **~621** | **~67** | ~21.2 | ~23 | **~359** |
 
-_THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term). RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered (67 P vs ~55 ask). **STOCK-OUT 11-20 evening: chicken GONE, kumara GONE** — both finished at this lunch. Dinner (77 P needed) comes from remaining stock: mix + eggs + collagen — pre-commit mix 400 g + 3-egg omelette + collagen 2 sc (~89 P → day ~182 HIT). Grocery night list: sardines, chicken (the rotation died with lunch), bread, low-sodium marinara, eggs if 18-pack low._
+_THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term). RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered (67 P vs ~55 ask). **STOCK-OUT 11-20 evening: chicken GONE, kumara GONE** — both finished at this lunch._
+
+### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Dinner — EATEN (Chipotle)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Chipotle steak bowl: steak + white rice + pinto beans + cheese + lettuce (official per-ingredient build) | ~620 | ~40.6 | ~20.5 | ~67 | ~1,185 |
+| Sour cream, ON THE SIDE (half eaten — logged half serving) | ~60 | ~1 | ~5 | ~1 | ~15 |
+| **Dinner actual** | **~680** | **~41.6** | ~25.5 | ~68 | **~1,200** |
+
+**FRIDAY FINAL: ~1,916 kcal · ~134.6 P ✗ MISS (35 under window) · Na ~1,788 · carbs ~138 g · fat ~46 g ⚠️ under floor**
+_The week's third straight protein miss (115 → 133 → 134.6) — all three in the Wed-Thu-Fri stretch, each for a different reason (restaurant swap / mix-only / Chipotle night). Pattern across all three: the ANCHOR protein (chicken) ran out Wednesday, and nothing in the remaining stock could replace 65 g/day of thigh meat. This is a STOCK-OUT problem, not a discipline problem — the grocery run tonight is the fix, and chicken thighs top the list. Positives: steak = the leanest Chipotle meat (official 150 kcal/21 P per portion), Na at 1,788 high but below Wed/Thu takeout pricing, calories ~640 under TDEE. Week final: Mon ✓ 178 / Tue ✓ 184 / Wed ✗ 115 / Thu ✗ 133 / Fri ✗ 135 — 2-of-5, the two hits both came from stocked kitchens. THAT is the lesson the week taught._
 
 ### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
 | Item | kcal | Protein | F | C | Na (mg) |
