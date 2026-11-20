@@ -1338,16 +1338,15 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P — under the 40+ pre-commitment (collagen/yogurt/oats skipped for rice+tomato). Rice-heavy opening on a carb-load day is doctrinally fine, but the P shortfall transfers to lunch (now needs ~60+) and dinner (60+). Note: broth-rice inventory surprise — more portions existed than the finale accounted; Friday's rice is COVERED by leftovers, no cooking needed._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
-### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Lunch — CARD (protein catch-up: Wed 115 / Thu 133)
+### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Lunch — EATEN (250 chicken + 100 kumara)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Sourdough, 1 slice toasted | 120 | ~4 | ~1 | ~22 | ~180 |
-| Chicken thigh, 175 g cooked (garlic-lemon sear, black pepper, no sauce) | ~366 | ~45.5 | ~18.4 | 0 | ~306 |
-| 1 egg fried in the same pan (thigh fat renders the oil — no added fat) | 70 | ~6.3 | ~5 | ~0.5 | ~70 |
-| Garlic + lemon + black pepper | 0 | 0 | 0 | 0 | 0 |
-| **Lunch card** | **~556** | **~55.8** | ~24.4 | ~22.5 | **~556** |
+| Chicken thigh, 250 g cooked | ~522 | ~65 | ~21 | 0 | ~350 |
+| Kumara (sweet potato), 100 g baked | ~99 | ~2 | ~0.2 | ~23 | ~9 |
+| **Lunch total** | **~621** | **~67** | ~21.2 | ~23 | **~359** |
 
-_**Projected day-close protein: opener 64.3 + lunch 55.8 + dinner 60 = ~180 ✓ window** (two straight misses → lunch over-delivers by design). Running w/ opener: ~1,227 kcal / ~120.1 P / Na ~958 / C ~88.5 / F ~42.8. Dinner shape that keeps ALL bands: mix 300 g + 3 eggs = day ~1,995 kcal / ~178 P / carbs ~158 (Friday 150–160 band ✓) / Na ~1,252 ✓. Toast build ≠ this morning's layered bowl (variety ✓); no cheese at lunch (133 mg Na for 1.4 P = bad trade today)._
+_RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered the catch-up target (67 P vs ~55 ask — chicken ran bigger than carded). Dinner need: 77 P for window — mix 450 g (59 P) + 2 eggs (12.6 P) = 71.6 → ~165 short 5; mix 500 g + 2 eggs = 78 → ~171 HIT. Pre-commit: mix 500 + 2 eggs, or mix 400 + 3 eggs + collagen (52.4+19+18 = 89.4 → ~182 over-top, fine). The word is KUMARA — his NZ vocabulary for sweet potato, now the ledger term.
+### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~21 | ~103 | ~32 |
