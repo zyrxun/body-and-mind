@@ -1263,7 +1263,7 @@ _Burger night variant: pork patties (his call, from the 1 lb batch — fat-hones
 ### 2026-11-18 (Wed) — 🟡 train (Pull) + 🎯 EXAM 6–8 PM — Lunch — EATEN (diverged from card: snacks happened)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix, 200 g cooked | ~372 | ~26.2 | ~25 | ~87 | ~56 |
+| Pasta-and-beef mix, 200 g cooked | ~372 | ~26.2 | ~10 | ~46 | ~56 |
 | 1 marshmallow | ~40 | 0 | 0 | ~7 | 0 |
 | Goldfish crackers, 1 serving (~30 g) | ~140 | ~3 | ~5.5 | ~20 | ~280 |
 | Chocolate, 1 piece (~6 g) | ~32 | ~0.5 | ~1.8 | ~4 | ~4 |
@@ -1327,7 +1327,7 @@ _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). Th
 
 _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale complete — first production run closed). Crunch bowl returned to rotation (variety ✓ — Wed bun-scramble / Thu crunch bowl / pad thai night: 4 days, 4 builds). Dinner needs ~96 P for window — biggest ask of the week._
 
-### 2026-11-21 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Breakfast — CARD (40+ P opener per pre-commitment)
+### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Breakfast — CARD (40+ P opener per pre-commitment)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | 3 eggs, scramble (butter pan) | 210 | ~19 | ~15 | ~1 | ~210 |
@@ -1338,13 +1338,23 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 | **Breakfast card** | **~671** | **~64.3** | ~18.4 | ~66 | **~402** |
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
+### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Lunch — CARD (protein catch-up: Wed 115 / Thu 133)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~45 | ~117 | ~32 |
-| **Dinner total** | **~837** | **~59** | ~45 | ~117 | **~32** |
+| Sourdough, 1 slice toasted | 120 | ~4 | ~1 | ~22 | ~180 |
+| Chicken thigh, 175 g cooked (garlic-lemon sear, black pepper, no sauce) | ~366 | ~45.5 | ~18.4 | 0 | ~306 |
+| 1 egg fried in the same pan (thigh fat renders the oil — no added fat) | 70 | ~6.3 | ~5 | ~0.5 | ~70 |
+| Garlic + lemon + black pepper | 0 | 0 | 0 | 0 | 0 |
+| **Lunch card** | **~556** | **~55.8** | ~24.4 | ~22.5 | **~556** |
 
-**THURSDAY FINAL: ~1,841 kcal · ~132.9 P ✗ MISS (37 under window) · Na ~427 (excellent) · carbs ~254 g · fat ~71 g ✓ band**
-_The light week caught up: Wed's restaurant night + Thu's mix-only dinner = two consecutive protein misses (115 → 133). Calories fine (deficit intact, ~760 under TDEE), Na outstanding (~427 — best day in weeks), fat in band. But 133 P on a training day is the exact Tue-10 pattern the projection system was built to kill: light breakfast (17.9) + light lunch rotation left dinner an impossible 96-ask, and the mix alone couldn't carry it. THE FIX for Fri: breakfast MUST open 40+ (eggs + yogurt + oats), lunch 50+, dinner pre-committed at 60+ — three solid meals, not one hero meal._
+_**Projected day-close protein: opener 64.3 + lunch 55.8 + dinner 60 = ~180 ✓ window** (two straight misses → lunch over-delivers by design). Running w/ opener: ~1,227 kcal / ~120.1 P / Na ~958 / C ~88.5 / F ~42.8. Dinner shape that keeps ALL bands: mix 300 g + 3 eggs = day ~1,995 kcal / ~178 P / carbs ~158 (Friday 150–160 band ✓) / Na ~1,252 ✓. Toast build ≠ this morning's layered bowl (variety ✓); no cheese at lunch (133 mg Na for 1.4 P = bad trade today)._
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~21 | ~103 | ~32 |
+| **Dinner total** | **~837** | **~59** | ~21 | ~103 | **~32** |
+
+**THURSDAY FINAL: ~1,841 kcal · ~132.9 P ✗ MISS (37 under window) · Na ~427 (excellent) · carbs ~240 g · fat ~49 g ⚠️ under 55 floor**
+_The light week caught up: Wed's restaurant night + Thu's mix-only dinner = two consecutive protein misses (115 → 133). Calories fine (deficit intact, ~760 under TDEE), Na outstanding (~427 — best day in weeks), fat ~49 g under the 55 floor (CORRECTED 11-20: mix rows carried inflated F/C — ~12.5 F / ~43.5 C per 100 g logged vs batch math ~4.8 F / ~22.8 C; the dinner's unlogged butter/oil was the real fat). But 133 P on a training day is the exact Tue-10 pattern the projection system was built to kill: light breakfast (17.9) + light lunch rotation left dinner an impossible 96-ask, and the mix alone couldn't carry it. THE FIX for Fri: breakfast MUST open 40+ (eggs + yogurt + oats), lunch 50+, dinner pre-committed at 60+ — three solid meals, not one hero meal._
 
 ### 2026-11-17 (Tue) — 🟡 train (Push) — Lunch + cookies — EATEN (11-17 correction: NO banana)
 | Item | kcal | Protein | F | C | Na (mg) |
