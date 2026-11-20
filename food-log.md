@@ -1327,6 +1327,15 @@ _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). Th
 
 _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale complete — first production run closed). Crunch bowl returned to rotation (variety ✓ — Wed bun-scramble / Thu crunch bowl / pad thai night: 4 days, 4 builds). Dinner needs ~96 P for window — biggest ask of the week._
 
+### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~45 | ~117 | ~32 |
+| **Dinner total** | **~837** | **~59** | ~45 | ~117 | **~32** |
+
+**THURSDAY FINAL: ~1,841 kcal · ~132.9 P ✗ MISS (37 under window) · Na ~427 (excellent) · carbs ~254 g · fat ~71 g ✓ band**
+_The light week caught up: Wed's restaurant night + Thu's mix-only dinner = two consecutive protein misses (115 → 133). Calories fine (deficit intact, ~760 under TDEE), Na outstanding (~427 — best day in weeks), fat in band. But 133 P on a training day is the exact Tue-10 pattern the projection system was built to kill: light breakfast (17.9) + light lunch rotation left dinner an impossible 96-ask, and the mix alone couldn't carry it. THE FIX for Fri: breakfast MUST open 40+ (eggs + yogurt + oats), lunch 50+, dinner pre-committed at 60+ — three solid meals, not one hero meal._
+
 ### 2026-11-17 (Tue) — 🟡 train (Push) — Lunch + cookies — EATEN (11-17 correction: NO banana)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
