@@ -1345,7 +1345,8 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Kumara (sweet potato), 100 g baked | ~99 | ~2 | ~0.2 | ~23 | ~9 |
 | **Lunch total** | **~621** | **~67** | ~21.2 | ~23 | **~359** |
 
-_RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered the catch-up target (67 P vs ~55 ask — chicken ran bigger than carded). Dinner need: 77 P for window — mix 450 g (59 P) + 2 eggs (12.6 P) = 71.6 → ~165 short 5; mix 500 g + 2 eggs = 78 → ~171 HIT. Pre-commit: mix 500 + 2 eggs, or mix 400 + 3 eggs + collagen (52.4+19+18 = 89.4 → ~182 over-top, fine). The word is KUMARA — his NZ vocabulary for sweet potato, now the ledger term.
+_THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term). RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered the catch-up target (67 P vs ~55 ask). Dinner need: 77 P for window — pre-commit: mix 500 g + 2 eggs (~78 P → day ~171 HIT) or mix 400 g + 3 eggs + collagen (~89 P → day ~182, over-top fine). Grocery night list: sardines, bread, low-sodium marinara._
+
 ### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
