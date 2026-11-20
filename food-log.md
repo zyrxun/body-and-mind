@@ -1327,7 +1327,7 @@ _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). Th
 
 _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale complete — first production run closed). Crunch bowl returned to rotation (variety ✓ — Wed bun-scramble / Thu crunch bowl / pad thai night: 4 days, 4 builds). Dinner needs ~96 P for window — biggest ask of the week._
 
-### 2026-11-21 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Breakfast — EATEN (diverged: broth-rice + tomato, no yogurt/oats/collagen)
+### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Breakfast — EATEN (diverged: broth-rice + tomato, no yogurt/oats/collagen)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | 3 eggs, scramble | 210 | ~19 | ~15 | ~1 | ~210 |
