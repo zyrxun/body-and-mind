@@ -1327,7 +1327,17 @@ _His Monday-night cottage cheese = Tuesday's breakfast slot (slot-corrected). Th
 
 _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale complete — first production run closed). Crunch bowl returned to rotation (variety ✓ — Wed bun-scramble / Thu crunch bowl / pad thai night: 4 days, 4 builds). Dinner needs ~96 P for window — biggest ask of the week._
 
-### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
+### 2026-11-21 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Breakfast — CARD (40+ P opener per pre-commitment)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| 3 eggs, scramble (butter pan) | 210 | ~19 | ~15 | ~1 | ~210 |
+| Greek yogurt, 200 g (under the eggs or layered) | ~116 | ~20 | 0 | ~8 | ~80 |
+| Oats, 45 g dry (in the yogurt = the crunch build) | ~170 | ~6 | ~3 | ~30 | ~1 |
+| Banana | 105 | ~1.3 | ~0.4 | ~27 | ~1 |
+| Collagen 2 scoops in water | 70 | ~18 | 0 | 0 | ~110 |
+| **Breakfast card** | **~671** | **~64.3** | ~18.4 | ~66 | **~402** |
+
+_FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~45 | ~117 | ~32 |
