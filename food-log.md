@@ -1333,9 +1333,10 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 | 3 eggs, scramble | 210 | ~19 | ~15 | ~1 | ~210 |
 | Chicken broth-rice, 200 g (leftover batch portions — there was more rice than logged!) | ~372 | ~5.4 | ~0.6 | ~86 | ~10 |
 | 1 big tomato (~180 g) | ~33 | ~1.6 | ~0.4 | ~7 | ~9 |
-| **Breakfast total** | **~615** | **~26** | ~16 | ~94 | **~229** |
+| Oat slab, half (stovetop build: oats 45 + 1 egg + half banana + yogurt + ~6 g sugar) | ~342 | ~17.9 | ~12 | ~63 | ~190 |
+| **Breakfast total (2 parts: savory + slab)** | **~957** | **~43.9** | ~28 | ~157 | **~419** |
 
-_OPENER CHECK: 26 P — under the 40+ pre-commitment (collagen/yogurt/oats skipped for rice+tomato). Rice-heavy opening on a carb-load day is doctrinally fine, but the P shortfall transfers to lunch (now needs ~60+) and dinner (60+). Note: broth-rice inventory surprise — more portions existed than the finale accounted; Friday's rice is COVERED by leftovers, no cooking needed._
+_OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
 ### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Lunch — EATEN (250 chicken + 100 kumara)
