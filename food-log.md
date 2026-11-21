@@ -1345,7 +1345,7 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Kumara (sweet potato), 100 g baked | ~99 | ~2 | ~0.2 | ~23 | ~9 |
 | **Lunch total** | **~621** | **~67** | ~21.2 | ~23 | **~359** |
 
-_THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term). RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered (67 P vs ~55 ask). **STOCK-OUT 11-20 evening: chicken GONE, kumara GONE** — both finished at this lunch._
+_THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term). RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered (67 P vs ~55 ask). **STOCK-OUT 11-20 evening: chicken GONE, kumara GONE, EGGS GONE (18-pack finished — restocked 11-13, lasted ~1 week).** Dinner (77 P needed) rebuilt eggless: mix 450 g + collagen 2 sc + cottage cheese half-serving (~84 P → day ~177 HIT). Oat slab = SATURDAY breakfast (bake tonight, fridge overnight): slab + collagen + yogurt ~51 P leg-day fuel. Grocery list: chicken thighs, sardines, kumara, eggs (back on), bread, low-sodium marinara._
 
 ### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Dinner — EATEN (Chipotle)
 | Item | kcal | Protein | F | C | Na (mg) |
