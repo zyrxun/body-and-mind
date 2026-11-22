@@ -1339,7 +1339,17 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
-### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Lunch — EATEN (250 chicken + 100 kumara)
+### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — FULL BEEF PLAN (batch day) — CARD
+**THE 2-LB BATCH + BUNS (brioche surplus discovered — burgers back on):**
+| Meal | Build | kcal | P | Na |
+|---|---|---|---|---|
+| Sun breakfast | Beef 225 g crumble + oats 45 g (savory oat scramble) | ~480 | ~40.5 | ~330 |
+| Sun lunch | Beef 225 g + toasted bun (open-face melt) | ~540 | ~41.5 | ~730 |
+| Sun dinner | BURGER NIGHT 2.0: patty 225 g + bun + ketchup | ~540 | ~41.5 | ~730 |
+| Mon lunch | Last burger: patty 225 g + last bun | ~540 | ~41.5 | ~730 |
+| **2-lb batch total** | **4 × 225 g servings** | **~2,040** | **~165** | ~2,820 |
+
+_NON-beef slots (cottage/oats/collagen/whey/sardines carry them): Mon breakfast ~250/20 P · Mon dinner ~350/25 P (sardines from tonight's shop!) · Tue breakfast ~300/30 P pre-airport. **FREEZE: the 3rd lb RAW tonight** — raw keeps 3–4 months, and 2 lb cooked covers every remaining at-home meal exactly. Post-trip you land to burger stock already waiting._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chicken thigh, 250 g cooked | ~522 | ~65 | ~21 | 0 | ~350 |
