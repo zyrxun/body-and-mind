@@ -1348,7 +1348,18 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 
 _THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term). RUNNING: ~1,236 kcal / ~93 P / Na ~588. Lunch over-delivered (67 P vs ~55 ask). **STOCK-OUT 11-20 evening: chicken GONE, kumara GONE, EGGS GONE (18-pack finished — restocked 11-13, lasted ~1 week).** Dinner (77 P needed) rebuilt eggless: mix 450 g + collagen 2 sc + cottage cheese half-serving (~84 P → day ~177 HIT). Oat slab = SATURDAY breakfast (bake tonight, fridge overnight): slab + collagen + yogurt ~51 P leg-day fuel. Grocery list: chicken thighs, sardines, kumara, eggs (back on), bread, low-sodium marinara._
 
-### 2026-11-20 (Fri) — 🔴 REST + carb-load + GROCERY NIGHT — Dinner — EATEN (Chipotle)
+### 2026-11-21 (Sat) — 🟢 Leg day per split (attendance UNREPORTED) — Lunch + Fleetwood Diner dinner + dessert — EATEN (~est ±15% on the diner items — no official nutrition page)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Breakfast: oat slab, half (reserved half eaten this morning) | ~342 | ~17.9 | ~12 | ~63 | ~190 |
+| Lunch: pasta-and-beef mix, 430 g cooked | ~800 | ~56.3 | ~21.5 | ~112 | ~30 |
+| Fleetwood Diner gyro sandwich (pita + gyro meat + tzatziki + tomato/onion) | ~650 | ~30 | ~35 | ~55 | ~1,450 |
+| Chips (side bag) | ~150 | ~2 | ~9 | ~15 | ~170 |
+| 2 ice-cream sandwiches (his 'two scoops of sandwich') | ~320 | ~4 | ~14 | ~44 | ~140 |
+| **Day total** | **~2,262** | **~110.2** | ~91.5 | ~289 | **~1,980** |
+
+**SATURDAY FINAL: ~2,262 kcal · ~110.2 P ✗ MISS (60 under window) · Na ~1,980 · fat ~91 g over floor-band top · sugar ~22 g ✓**
+_Fleetwood = the Ann Arbor 24/7 institution; gyro + chips + ice-cream sandwiches is a legit diner night and 36 P of it came from the gyro itself. Fourth protein miss of the week (115/133/135/110) — the Wed-Fri-Sat stretch ran on empty shelves. Diner meals are ~est (Fleetwood publishes nothing): gyro meat + tzatziki pricing is the standard build. Positives: mix 430 at lunch = 56 P anchored, ice-cream sandwiches over regular ice cream = the protein-forward dessert again. Week tally: Mon 178 ✓ / Tue 184 ✓ / Wed 115 ✗ / Thu 133 ✗ / Fri 135 ✗ / Sat 110 ✗ — the week the chicken ran out. Sunday closes it: eggs are back from grocery night (if bought), the window wants 170, and Sunday Miss #5 would make the groceries THE intervention of the month._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chipotle steak bowl: steak + white rice + pinto beans + cheese + lettuce (official per-ingredient build) | ~620 | ~40.6 | ~20.5 | ~67 | ~1,185 |
