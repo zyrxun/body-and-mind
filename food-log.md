@@ -1350,6 +1350,24 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | **2-lb batch total** | **4 × 225 g servings** | **~2,040** | **~165** | ~2,820 |
 
 _NON-beef slots (cottage/oats/collagen/whey/sardines carry them): Mon breakfast ~250/20 P · Mon dinner ~350/25 P (sardines from tonight's shop!) · Tue breakfast ~300/30 P pre-airport. **FREEZE: the 3rd lb RAW tonight** — raw keeps 3–4 months, and 2 lb cooked covers every remaining at-home meal exactly. Post-trip you land to burger stock already waiting._
+
+**🛒 GROCERY NIGHT — THE FULL PRE-TRIP LIST (11-22, his additions included — tonight is the LAST shop before he returns ~Nov 29):**
+1. **Chicken thighs** — family pack (rotation died Wed; the return needs it ready)
+2. **Kumara/sweet potatoes** — died with Fri lunch
+3. **Eggs, 18-pack** — out since yesterday
+4. **Onions** — new item
+5. **Tomatoes** — new item
+6. **+3 lb ground beef RAW** — straight to the freezer (stacks with today's frozen lb = 4 lb post-trip burger stock)
+7. **Greek yogurt** — tub running down
+8. **Apple cider vinegar** — the sour shot needs it
+9. **Lemons** — marinade + the shot
+10. **Fiber powder** — the one adopted element from the gut-maxxing reel
+11. **Sardines ×2** — the omega-3 commitment (standing)
+12. **Pita** — skewer-gyro recipe
+13. **Buns** — if under 4 left
+14. **Bread** — 3 sourdough slices left
+15. **Low-sodium marinara** — flagged since Tuesday
+_The strategy: shop tonight for the RETURN, not the trip — fridge lands restocked the day he flies home. Trip food itself = restaurants/whatever; the freezer (2 lb cooked + 4 lb raw beef) + pantry (oats, collagen, whey, fiber) carry the gap._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chicken thigh, 250 g cooked | ~522 | ~65 | ~21 | 0 | ~350 |
