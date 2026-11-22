@@ -1355,11 +1355,11 @@ _THE WORD IS KUMARA (his NZ vocabulary for sweet potato — now the ledger term)
 | Lunch: pasta-and-beef mix, 430 g cooked | ~800 | ~56.3 | ~21.5 | ~112 | ~30 |
 | Fleetwood Diner gyro sandwich (pita + gyro meat + tzatziki + tomato/onion) | ~650 | ~30 | ~35 | ~55 | ~1,450 |
 | Chips (side bag) | ~150 | ~2 | ~9 | ~15 | ~170 |
-| 2 ice-cream sandwiches (his 'two scoops of sandwich') | ~320 | ~4 | ~14 | ~44 | ~140 |
+| 2 scoops ice cream (regular, ~est) | ~280 | ~5 | ~15 | ~32 | ~90 |
 | **Day total** | **~2,262** | **~110.2** | ~91.5 | ~289 | **~1,980** |
 
-**SATURDAY FINAL: ~2,262 kcal · ~110.2 P ✗ MISS (60 under window) · Na ~1,980 · fat ~91 g over floor-band top · sugar ~22 g ✓**
-_Fleetwood = the Ann Arbor 24/7 institution; gyro + chips + ice-cream sandwiches is a legit diner night and 36 P of it came from the gyro itself. Fourth protein miss of the week (115/133/135/110) — the Wed-Fri-Sat stretch ran on empty shelves. Diner meals are ~est (Fleetwood publishes nothing): gyro meat + tzatziki pricing is the standard build. Positives: mix 430 at lunch = 56 P anchored, ice-cream sandwiches over regular ice cream = the protein-forward dessert again. Week tally: Mon 178 ✓ / Tue 184 ✓ / Wed 115 ✗ / Thu 133 ✗ / Fri 135 ✗ / Sat 110 ✗ — the week the chicken ran out. Sunday closes it: eggs are back from grocery night (if bought), the window wants 170, and Sunday Miss #5 would make the groceries THE intervention of the month._
+**SATURDAY FINAL (11-21 corrected: 2 scoops regular ice cream, not sandwiches): ~2,222 kcal · ~111.2 P ✗ MISS (59 under window) · Na ~1,930 · fat ~92 g over floor-band top · sugar ~32 g ✗ over cap by 2**
+_Fleetwood = the Ann Arbor 24/7 institution; gyro + chips + ice-cream sandwiches is a legit diner night and 36 P of it came from the gyro itself. Fourth protein miss of the week (115/133/135/110) — the Wed-Fri-Sat stretch ran on empty shelves. Diner meals are ~est (Fleetwood publishes nothing): gyro meat + tzatziki pricing is the standard build. Positives: mix 430 at lunch = 56 P anchored. SLAB VERDICT: the stovetop slab SUCKED (his words) — dense flop without a blender/oven; the baked-oat experiment is PARKED unless a blender appears. The protein-forward-dessert play needs the PROTEIN ice cream (Halo Top class), not regular — tonight's 2 scoops regular = dessert that costs 32 g sugar for 5 P. Week tally: Mon 178 ✓ / Tue 184 ✓ / Wed 115 ✗ / Thu 133 ✗ / Fri 135 ✗ / Sat 110 ✗ — the week the chicken ran out. Sunday closes it: eggs are back from grocery night (if bought), the window wants 170, and Sunday Miss #5 would make the groceries THE intervention of the month._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chipotle steak bowl: steak + white rice + pinto beans + cheese + lettuce (official per-ingredient build) | ~620 | ~40.6 | ~20.5 | ~67 | ~1,185 |
