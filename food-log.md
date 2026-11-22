@@ -1339,7 +1339,23 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
-### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — FULL BEEF PLAN (batch day) — CARD
+### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Breakfast — EATEN (crunch bowl + slab finale) + BEEF AMOUNTS CARD
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Greek yogurt, 200 g | ~116 | ~20 | 0 | ~8 | ~80 |
+| Blueberries, 70 g | ~40 | ~0.4 | ~0.2 | ~10 | ~2 |
+| Oat slab, the rest (other half from Friday's bake) | ~342 | ~17.9 | ~12 | ~63 | ~190 |
+| Creatine 5 g in water | 0 | 0 | 0 | 0 | 0 |
+| **Breakfast total** | **~498** | **~38.3** | ~12.2 | ~81 | **~272** |
+
+**🍖 BEEF AMOUNTS — lunch + dinner to hit the window (bfst delivered 38.3):**
+| Meal | Beef | kcal | P | Na |
+|---|---|---|---|---|
+| Lunch | **Beef 300 g cooked** + whatever veg remains | ~466 | ~58.5 | ~350 |
+| Dinner | **Beef 300 g cooked** + collagen 2 scoops in the sour shot | ~536 | ~76.5 | ~460 |
+| **Day projection** | **600 g of the 908 g cooked batch** | **~1,500** | **~173.3 ✓ HIT** | **~1,082 ✓ under cap** |
+
+_Remaining beef after today: ~308 g cooked = Monday lunch 225 g + Monday breakfast topper 83 g — then the cooked batch is fully consumed and the freezer's raw 3 lb takes over post-trip. ☀️ D3+K2 with this meal (yogurt/slab fat carries it)._
 **THE 2-LB BATCH + BUNS (brioche surplus discovered — burgers back on):**
 | Meal | Build | kcal | P | Na |
 |---|---|---|---|---|
