@@ -1339,7 +1339,15 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
-### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Breakfast — EATEN (crunch bowl + slab finale) + BEEF AMOUNTS CARD
+### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Lunch — EATEN (the batch's half + 2 buns + onions)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Ground beef, ~454 g cooked (HALF the cooked batch — his '1/2 of ground beef') | ~935 | ~117 | ~53 | ~52 | ~163 |
+| 2 Pepperidge buns (the burger bases) | ~460 | ~14 | ~16 | ~66 | ~800 |
+| Onions, sliced (~60 g) | ~40 | ~1 | ~0.1 | ~9 | ~5 |
+| **Lunch total** | **~1,435** | **~132** | ~69 | ~127 | **~968** |
+
+_RUNNING: ~1,933 kcal / ~170.4 P ✓ — **the window is hit AT LUNCH** (170.4 before dinner exists). Portion reality-check: 454 g beef = 935 kcal / 117 P in one sitting — the biggest single-meal protein of the entire ledger, beating even the kalbi night. Tonight's dinner must be LIGHT (veg + small carbs, ~0-10 P): the day's protein work is DONE._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Greek yogurt, 200 g | ~116 | ~20 | 0 | ~8 | ~80 |
