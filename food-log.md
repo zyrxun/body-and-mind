@@ -1342,12 +1342,12 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 ### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Lunch — EATEN (the batch's half + 2 buns + onions)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Ground beef, ~454 g cooked (HALF the cooked batch — his '1/2 of ground beef') | ~935 | ~117 | ~53 | ~52 | ~163 |
+| Ground beef, half lb (~170 g cooked — 11-22 correction: 'half a lb', NOT half the batch) | ~350 | ~43.9 | ~20 | 0 | ~60 |
 | 2 Pepperidge buns (the burger bases) | ~460 | ~14 | ~16 | ~66 | ~800 |
 | Onions, sliced (~60 g) | ~40 | ~1 | ~0.1 | ~9 | ~5 |
-| **Lunch total** | **~1,435** | **~132** | ~69 | ~127 | **~968** |
+| **Lunch total** | **~850** | **~58.9** | ~36.1 | ~75 | **~865** |
 
-_RUNNING: ~1,933 kcal / ~170.4 P ✓ — **the window is hit AT LUNCH** (170.4 before dinner exists). Portion reality-check: 454 g beef = 935 kcal / 117 P in one sitting — the biggest single-meal protein of the entire ledger, beating even the kalbi night. Tonight's dinner must be LIGHT (veg + small carbs, ~0-10 P): the day's protein work is DONE._
+_RUNNING: ~1,348 kcal / ~97.2 P / Na ~1,137. Portion restored to sane (half-lb = a real burger-and-a-half of beef, 44 P). Dinner still needs ~73 P for the window — beef 300 g (58.5) + collagen sour shot (18) = 76.5 → ~174 HIT, or mix 450 (59) + whey 1 sc (24) if the beef's earmarked elsewhere._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Greek yogurt, 200 g | ~116 | ~20 | 0 | ~8 | ~80 |
