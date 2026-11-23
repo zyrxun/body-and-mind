@@ -1339,7 +1339,14 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
-### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Dinner — EATEN (the pre-trip feast)
+### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Brunch — EATEN (~10 AM, late: feast still digesting)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Ground beef, half lb (~170 g cooked) | ~350 | ~43.9 | ~20 | 0 | ~60 |
+| Brioche buns, 1.5 | ~345 | ~10.5 | ~12 | ~49.5 | ~600 |
+| **Brunch total** | **~695** | **~54.4** | ~32 | ~49.5 | **~660** |
+
+_Ate at 10 AM because Sunday's feast was still sitting in his stomach — textbook post-feast day: hunger arrives late, portions self-shrink. The ledger's role today is light-touch: 54.4 P on the board by brunch. Rest of day: let hunger lead (probably a smaller-than-normal dinner), Mg tonight (night 4), fly tomorrow._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Steak, 1 lb (cooked ~350 g, ~est ±15%) | ~750 | ~90 | ~45 | 0 | ~350 |
