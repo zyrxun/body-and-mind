@@ -1339,7 +1339,20 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
-### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Lunch — EATEN (the batch's half + 2 buns + onions)
+### 2026-11-22 (Sun) — 🔴 REST (leaves Tue AM) — Dinner — EATEN (the pre-trip feast)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Steak, 1 lb (cooked ~350 g, ~est ±15%) | ~750 | ~90 | ~45 | 0 | ~350 |
+| Baked potato, 1 | ~160 | ~4 | ~0.2 | ~37 | ~15 |
+| Bacon, 2 slices | ~86 | ~6 | ~6.5 | 0 | ~280 |
+| 3 eggs | 210 | ~19 | ~15 | ~1 | ~210 |
+| 2 protein shakes ('Prime X pop-tart cupcake/confectionary' — BRAND CONFIRM pending, ~est Premier-class 160/30P each) | ~320 | ~60 | ~6 | ~12 | ~380 |
+| Pumpkin pie, 1 slice (~est) | ~320 | ~5 | ~15 | ~43 | ~350 |
+| Chocolate, 50 g (half a 100 g bar) | ~270 | ~3.5 | ~19 | ~27 | ~50 |
+| **Dinner total** | **~2,116** | **~187.5** | ~106.7 | ~120 | **~1,635** |
+
+**SUNDAY FINAL (feast night): ~3,464 kcal · ~284.7 P ✗ over window by ~100 · Na ~2,772 · sugar ~63 g ✗ · fat ~175 g**
+_The pre-trip feast, in full: a POUND of steak, bacon, eggs, two shakes, pie, and half a chocolate bar. Context matters: this is the send-off dinner before a 5-day trip — calories land +864 over TDEE, which on a 3-week cut means one surplus day, not a derailment (the deficit ledger was ~-700 on Fri, ~-360 Sat). The honest flags: protein ~285 g is 100 g past any useful ceiling (excess = expensive satiety, harmless otherwise), sugar ~63 g is double cap (pie + chocolate + shakes), Na ~2,772. THE WEEK: Mon ✓178 / Tue ✓184 / Wed ✗115 / Thu ✗133 / Fri ✗135 / Sat ✗110 / Sun feast 285 — the week the kitchen emptied. What matters now is the Tuesday-morning reset and the trip: bring the gel knowledge, walk daily, and let the deficit ledger absorb one feast. Airports and travel days next — eat by hunger, not by ledger, until Tuesday._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Ground beef, half lb (~170 g cooked — 11-22 correction: 'half a lb', NOT half the batch) | ~350 | ~43.9 | ~20 | 0 | ~60 |
