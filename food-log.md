@@ -1446,7 +1446,17 @@ _Fleetwood = the Ann Arbor 24/7 institution; gyro + chips + ice-cream sandwiches
 **FRIDAY FINAL: ~1,916 kcal · ~134.6 P ✗ MISS (35 under window) · Na ~1,788 · carbs ~138 g · fat ~46 g ⚠️ under floor**
 _The week's third straight protein miss (115 → 133 → 134.6) — all three in the Wed-Thu-Fri stretch, each for a different reason (restaurant swap / mix-only / Chipotle night). Pattern across all three: the ANCHOR protein (chicken) ran out Wednesday, and nothing in the remaining stock could replace 65 g/day of thigh meat. This is a STOCK-OUT problem, not a discipline problem — the grocery run tonight is the fix, and chicken thighs top the list. Positives: steak = the leanest Chipotle meat (official 150 kcal/21 P per portion), Na at 1,788 high but below Wed/Thu takeout pricing, calories ~640 under TDEE. Week final: Mon ✓ 178 / Tue ✓ 184 / Wed ✗ 115 / Thu ✗ 133 / Fri ✗ 135 — 2-of-5, the two hits both came from stocked kitchens. THAT is the lesson the week taught._
 
-### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
+### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Dinner — EATEN (the full pound + dessert)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Ground beef, the FULL remaining pound (~454 g cooked, seasoned doner-style) | ~935 | ~117 | ~45 | 0 | ~163 |
+| Brioche bun, 1 | ~230 | ~7 | ~8 | ~33 | ~400 |
+| Pita bread, 1+ | ~165 | ~5.5 | ~1 | ~32 | ~320 |
+| Ben & Jerry's Chocolate Chip Cookie Dough, 1/3 pint (official serving: 380 kcal / 7 P / 21 g fat / 34 g sugar / Na 100) | ~380 | ~7 | ~21 | ~42 | ~100 |
+| **Dinner total** | **~1,710** | **~136.5** | ~75 | ~107 | **~983** |
+
+**MONDAY FINAL: ~2,775 kcal · ~194.2 P ✓ HIT (over-top by 24) · Na ~1,758 · sugar ~67 g (37 over) · fat ~131 g**
+_The whole pound got eaten tonight — plus bun, pita, and a third of a B&J pint. In context: pre-trip fridge-clearing (the protein was going to waste otherwise), calories ~+175 over TDEE on a rest day, protein 194 (24 over ceiling — harmless), sugar 67 g nearly double cap, Na 1,758. This is a send-off day two-of-two (Sunday feast 3,464 / Monday 2,775 = 6,239 kcal across the last 48 h). The cut ledger absorbs it; the TRIP is now the reset — restaurants, walking, no scale, no ledger unless something's worth recording. Land, restock already done, resume Wednesday._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~21 | ~103 | ~32 |
