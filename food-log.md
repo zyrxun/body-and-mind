@@ -1455,6 +1455,7 @@ _The week's third straight protein miss (115 → 133 → 134.6) — all three in
 | Ben & Jerry's Chocolate Chip Cookie Dough, 1/3 pint (official serving: 380 kcal / 7 P / 21 g fat / 34 g sugar / Na 100) | ~380 | ~7 | ~21 | ~42 | ~100 |
 | **Dinner total** | **~1,710** | **~136.5** | ~75 | ~107 | **~983** |
 
+### 2026-11-19 (Thu) — 🟡 train (Upper per split) — Dinner — EATEN (mix only)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Pasta-and-beef mix, 450 g cooked | ~837 | ~59 | ~21 | ~103 | ~32 |
