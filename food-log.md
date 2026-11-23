@@ -1344,7 +1344,8 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 |---|---|---|---|---|---|
 | Ground beef, half lb (~170 g cooked) | ~350 | ~43.9 | ~20 | 0 | ~60 |
 | Brioche buns, 1.5 | ~345 | ~10.5 | ~12 | ~49.5 | ~600 |
-| **Brunch total** | **~695** | **~54.4** | ~32 | ~49.5 | **~660** |
+| 2 marshmallows | ~80 | 0 | 0 | ~14 | 0 |
+| **Brunch total** | **~775** | **~54.4** | ~32 | ~63.5 | **~660** |
 
 _Ate at 10 AM because Sunday's feast was still sitting in his stomach — textbook post-feast day: hunger arrives late, portions self-shrink. The ledger's role today is light-touch: 54.4 P on the board by brunch. Rest of day: let hunger lead (probably a smaller-than-normal dinner), Mg tonight (night 4), fly tomorrow._
 | Item | kcal | Protein | F | C | Na (mg) |
