@@ -1346,7 +1346,7 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Baked potato, 1 | ~160 | ~4 | ~0.2 | ~37 | ~15 |
 | Bacon, 2 slices | ~86 | ~6 | ~6.5 | 0 | ~280 |
 | 3 eggs | 210 | ~19 | ~15 | ~1 | ~210 |
-| 2 protein shakes ('Prime X pop-tart cupcake/confectionary' — BRAND CONFIRM pending, ~est Premier-class 160/30P each) | ~320 | ~60 | ~6 | ~12 | ~380 |
+| 2 Prime × Pop-Tarts protein shakes, 11 oz cans (Cupcake flavor, Little Debbie collab — OFFICIAL: 150 kcal / 32 P / 3 g sugar / 0.5 g fat per can, lactose-free) | ~300 | ~64 | ~1 | ~6 | ~360 |
 | Pumpkin pie, 1 slice (~est) | ~320 | ~5 | ~15 | ~43 | ~350 |
 | Chocolate, 50 g (half a 100 g bar) | ~270 | ~3.5 | ~19 | ~27 | ~50 |
 | **Dinner total** | **~2,116** | **~187.5** | ~106.7 | ~120 | **~1,635** |
