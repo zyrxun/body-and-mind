@@ -1346,10 +1346,10 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Brioche buns, 1.5 | ~345 | ~10.5 | ~12 | ~49.5 | ~600 |
 | 2 marshmallows | ~80 | 0 | 0 | ~14 | 0 |
 | 2 Oreo Double Stuf cookies (official: 70 kcal/6.5 g sugar per cookie) | ~140 | ~1.3 | ~6 | ~19 | ~90 |
-| Dubai chocolate bar, 1 (pistachio-kunafa milk chocolate, viral bar ~200 g, ~est: 550/8 P/38 g sugar) | ~550 | ~8 | ~38 | ~42 | ~120 |
-| **Brunch + sweets total** | **~1,515** | **~63.7** | ~56 | ~124 | **~870** |
+| **Nutty Fruity** Dubai chocolate bar, 1 (individually wrapped ~30 g mini — official label: 150 kcal / 2 P / 9 g fat / 15 g carbs / **13 g added sugar**; his ~120 kcal read confirmed) | ~150 | ~2 | ~9 | ~15 | ~25 |
+| **Brunch + sweets total** | **~1,065** | **~57.7** | ~38 | ~83.5 | **~775** |
 
-_RUNNING: ~1,465 kcal / ~63.7 P / Na ~870 / **sugar ~71 g — 41 g OVER the 30 g cap** (marshmallows 14 + buns 6 + Oreos 13 + Dubai bar 38). Monday is the sugar blowout day: the Dubai bar alone is 38 g. The Dubai bar is ALSO the only fat from real nuts (pistachio) — better than candy-tier, but 550 kcal of chocolate is 550 kcal._
+_RUNNING: ~1,065 kcal / ~57.7 P / Na ~775 / **sugar ~33 g — 3 g over cap** (marshmallows 14 + buns 6 + Oreos 13 + Dubai bar 13). BRAND RESOLVED: Nutty Fruity (Costco bag, individually-wrapped minis, made in Turkey) — a 30 g candy-bar, NOT the 200 g viral giant; the 550 estimate was 4× off. He read the label right. This is the brands-rule working exactly as designed._
 
 _Ate at 10 AM because Sunday's feast was still sitting in his stomach — textbook post-feast day: hunger arrives late, portions self-shrink. The ledger's role today is light-touch: 54.4 P on the board by brunch. Rest of day: let hunger lead (probably a smaller-than-normal dinner), Mg tonight (night 4), fly tomorrow._
 | Item | kcal | Protein | F | C | Na (mg) |
