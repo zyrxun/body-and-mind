@@ -1345,7 +1345,11 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Ground beef, half lb (~170 g cooked) | ~350 | ~43.9 | ~20 | 0 | ~60 |
 | Brioche buns, 1.5 | ~345 | ~10.5 | ~12 | ~49.5 | ~600 |
 | 2 marshmallows | ~80 | 0 | 0 | ~14 | 0 |
-| **Brunch total** | **~775** | **~54.4** | ~32 | ~63.5 | **~660** |
+| 2 Oreo Double Stuf cookies (official: 70 kcal/6.5 g sugar per cookie) | ~140 | ~1.3 | ~6 | ~19 | ~90 |
+| Dubai chocolate bar, 1 (pistachio-kunafa milk chocolate, viral bar ~200 g, ~est: 550/8 P/38 g sugar) | ~550 | ~8 | ~38 | ~42 | ~120 |
+| **Brunch + sweets total** | **~1,515** | **~63.7** | ~56 | ~124 | **~870** |
+
+_RUNNING: ~1,465 kcal / ~63.7 P / Na ~870 / **sugar ~71 g — 41 g OVER the 30 g cap** (marshmallows 14 + buns 6 + Oreos 13 + Dubai bar 38). Monday is the sugar blowout day: the Dubai bar alone is 38 g. The Dubai bar is ALSO the only fat from real nuts (pistachio) — better than candy-tier, but 550 kcal of chocolate is 550 kcal._
 
 _Ate at 10 AM because Sunday's feast was still sitting in his stomach — textbook post-feast day: hunger arrives late, portions self-shrink. The ledger's role today is light-touch: 54.4 P on the board by brunch. Rest of day: let hunger lead (probably a smaller-than-normal dinner), Mg tonight (night 4), fly tomorrow._
 | Item | kcal | Protein | F | C | Na (mg) |
