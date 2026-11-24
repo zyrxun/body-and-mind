@@ -1339,6 +1339,26 @@ _RUNNING: ~1,004 kcal / ~73.9 P / Na ~395. Broth batch: GONE to zero (finale com
 _OPENER CHECK: 26 P from the savory part — under the 40+ pre-commitment, but the HALF SLAB addition brings breakfast to 43.9 P total ✓ (the slab's egg + oats deliver the missing protein; its 63 g carbs also bank the Friday carb-load early). FRI sugar now ~6 g (slab) — headroom intact. Broth-rice inventory surprise: more portions existed than the finale accounted; Friday's rice covered by leftovers. Slab = baked this morning, half eaten, half reserved (fridge it — tomorrow's breakfast candidate alongside Saturday's restocked kitchen)._
 
 _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build — eggs + yogurt-oat base + banana + collagen. This is the day's biggest morning protein since the Wed 68.5 era. ☀️ D3+K2 with this meal (yogurt fat + egg fat carry it) · creatine 5 g in water. Friday = REST + carb-load: lunch ~50 P, dinner pre-committed 60+ (mix 400 + eggs territory). GROCERY NIGHT: sardines (omega-3 finally), bread if the 3 slices won't stretch, low-sodium marinara, and anything from the haul audit._
+### 2026-11-24 (Tue) — ✈️ TRIP DAY 1 (Chicago) — Lunch — EATEN (Portillo's Canal & Taylor — official numbers from portillos.com PDF)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Big Beef Sandwich, DIPPED (Big Italian Beef) | ~1,040 | ~50 | ~51 | ~88 | ~2,056 (1,856 + ~200 dipped gravy) |
+| Sweet peppers | ~20 | ~0.5 | 0 | ~4 | ~10 |
+| Regular Fry | ~460 | ~5 | ~22 | ~55 | ~140 |
+| Cheese sauce, cup | ~140 | ~5 | ~12 | ~5 | ~500 |
+| Chocolate Cake Shake, Regular (OFFICIAL: 138 g carbs, 114 g sugar!) | ~846 | ~13 | ~25 | ~138 | ~738 |
+| **Lunch total** | **~2,506** | **~73.5** | ~110 | ~290 | **~3,444** |
+
+_PORTILLO'S, day 1 of the trip — the Chicago classic, all official numbers from the Portillo's nutrition PDF. The big one: the shake is 846 kcal with **114 g of sugar** (a full 4 days of cap in one drink), and the dipped beef adds gravy sodium. Running trip day 1: ~2,651 kcal / ~93.8 P / Na ~3,525. Trip-mode verdict: this is the one big Chicago meal — eat light by hunger tonight, walk, and remember the ledger-free trip rule. One feast day in a 5-day trip is exactly what trip weeks are for._
+
+_Trip day 1, travel-light breakfast (ate by hunger — the feast's tail is officially gone). Trip-mode ledger: log what's worth logging, walk daily, one protein anchor per meal when available. Creatine travels. Mg nightly if packed._
+
+### 2026-11-24 (Tue) — ✈️ TRIP DAY 1 (Chicago) — Breakfast — EATEN (travel-light)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Greek yogurt, 200 g + blueberries, 50 g | ~145 | ~20.3 | ~0.3 | ~15 | ~81 |
+
+
 ### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Brunch — EATEN (~10 AM, late: feast still digesting)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
