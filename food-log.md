@@ -1346,8 +1346,11 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 | Sweet peppers | ~20 | ~0.5 | 0 | ~4 | ~10 |
 | Regular Fry | ~460 | ~5 | ~22 | ~55 | ~140 |
 | Cheese sauce, cup | ~140 | ~5 | ~12 | ~5 | ~500 |
-| Chocolate Cake Shake, Regular (OFFICIAL: 138 g carbs, 114 g sugar!) | ~846 | ~13 | ~25 | ~138 | ~738 |
-| **Lunch total** | **~2,506** | **~73.5** | ~110 | ~290 | **~3,444** |
+| Chocolate Cake Shake, LESS THAN HALF drunk (official regular = 846 kcal/114 g sugar; half-ish ≈ 420 kcal/57 g sugar), swapped for a Blue Bottle winter espresso latte (~150 kcal, ~12 g sugar ~est) | ~420 | ~7 | ~13 | ~70 | ~370 |
+| Blue Bottle winter espresso latte | ~150 | ~7 | ~6 | ~12 | ~80 |
+| **Lunch total** | **~2,213** | **~75.5** | ~98 | ~203 | **~2,706** |
+
+_SHAKE CORRECTION (he drank less than half, then swapped to a Blue Bottle winter espresso latte): saves ~273 kcal and ~57 g sugar vs the full-shake version. Day 1 revised: ~2,358 kcal / ~98.8 P / Na ~3,141 / sugar ~57 g. Chicago pilgrimage completed in moderation — half the famous shake for the taste, then a classy latte pivot. The winter espresso latte also stacks with the 5 PM-travel coffee logic (it's midday, so fine)._
 
 _PORTILLO'S, day 1 of the trip — the Chicago classic, all official numbers from the Portillo's nutrition PDF. The big one: the shake is 846 kcal with **114 g of sugar** (a full 4 days of cap in one drink), and the dipped beef adds gravy sodium. Running trip day 1: ~2,651 kcal / ~93.8 P / Na ~3,525. Trip-mode verdict: this is the one big Chicago meal — eat light by hunger tonight, walk, and remember the ledger-free trip rule. One feast day in a 5-day trip is exactly what trip weeks are for._
 
