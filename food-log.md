@@ -1342,17 +1342,17 @@ _FRIDAY OPENER (64.3 P — the pre-committed 40+ blown past): five-layer build �
 ### 2026-11-24 (Tue) — ✈️ TRIP DAY 1 (Chicago) — Lunch — EATEN (Portillo's Canal & Taylor — official numbers from portillos.com PDF)
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
-| Big Beef Sandwich, DIPPED (Big Italian Beef) | ~1,040 | ~50 | ~51 | ~88 | ~2,056 (1,856 + ~200 dipped gravy) |
+| Big Beef Sandwich, DIPPED — HALF eaten (he saved the other half; full sandwich = 1,040 kcal, half = 520) | ~520 | ~25 | ~25 | ~44 | ~1,030 |
 | Sweet peppers | ~20 | ~0.5 | 0 | ~4 | ~10 |
 | Regular Fry | ~460 | ~5 | ~22 | ~55 | ~140 |
 | Cheese sauce, cup | ~140 | ~5 | ~12 | ~5 | ~500 |
 | Chocolate Cake Shake, LESS THAN HALF drunk (official regular = 846 kcal/114 g sugar; half-ish ≈ 420 kcal/57 g sugar), swapped for a Blue Bottle winter espresso latte (~150 kcal, ~12 g sugar ~est) | ~420 | ~7 | ~13 | ~70 | ~370 |
 | Blue Bottle winter espresso latte | ~150 | ~7 | ~6 | ~12 | ~80 |
-| **Lunch total** | **~2,213** | **~75.5** | ~98 | ~203 | **~2,706** |
+| **Lunch total** | **~1,710** | **~50.5** | ~85 | ~192 | **~2,430** |
 
-_SHAKE CORRECTION (he drank less than half, then swapped to a Blue Bottle winter espresso latte): saves ~273 kcal and ~57 g sugar vs the full-shake version. Day 1 revised: ~2,358 kcal / ~98.8 P / Na ~3,141 / sugar ~57 g. Chicago pilgrimage completed in moderation — half the famous shake for the taste, then a classy latte pivot. The winter espresso latte also stacks with the 5 PM-travel coffee logic (it's midday, so fine)._
+_SHAKE CORRECTION (he drank less than half, then swapped to a Blue Bottle winter espresso latte): saves ~273 kcal and ~57 g sugar vs the full-shake version. SANDWICH ACCOUNTING FIX (11-25): the Big Beef was HALVED at the restaurant — Tuesday lunch logged at 520 kcal (half sandwich), the other half eaten Wednesday breakfast (logged there as 520). Full sandwich = 1,040 kcal, conserved across both days, no double-count. Day 1 revised: ~1,710 kcal / ~50.5 P / Na ~2,430 / sugar ~57 g._
 
-_PORTILLO'S, day 1 of the trip — the Chicago classic, all official numbers from the Portillo's nutrition PDF. The big one: the shake is 846 kcal with **114 g of sugar** (a full 4 days of cap in one drink), and the dipped beef adds gravy sodium. Running trip day 1: ~2,651 kcal / ~93.8 P / Na ~3,525. Trip-mode verdict: this is the one big Chicago meal — eat light by hunger tonight, walk, and remember the ledger-free trip rule. One feast day in a 5-day trip is exactly what trip weeks are for._
+_PORTILLO'S, day 1 of the trip — the Chicago classic, all official numbers from the Portillo's nutrition PDF. The big one: the shake is 846 kcal with **114 g of sugar** (a full 4 days of cap in one drink), and the dipped beef adds gravy sodium. Running trip day 1: ~1,710 kcal / ~50.5 P / Na ~2,430. Trip-mode verdict: this is the one big Chicago meal — eat light by hunger tonight, walk, and remember the ledger-free trip rule. One feast day in a 5-day trip is exactly what trip weeks are for._
 
 _Trip day 1, travel-light breakfast (ate by hunger — the feast's tail is officially gone). Trip-mode ledger: log what's worth logging, walk daily, one protein anchor per meal when available. Creatine travels. Mg nightly if packed._
 
