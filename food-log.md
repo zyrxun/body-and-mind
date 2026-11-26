@@ -1376,10 +1376,10 @@ _Day sugar now ~88 g (latte + sesame + butterbeer). The Mag Mile Harry Potter st
 | Item | kcal | P | Na |
 |---|---|---|---|
 | Stan's mini donuts ×3 (~80 ea, ~est) | ~240 | ~3 | ~120 |
-| KFC chicken sandwich (~est official-class) | ~480 | ~25 | ~1,350 |
-| **Lunch total** | **~720** | **~28** | **~1,470** |
+| **"KFC" sando — Sando Street, Wicker Park** (Korean fried chicken sando: milk bread + fried thigh + slaw + sauce, ~est no official label) | ~600 | ~28 | ~28 | ~50 | ~1,200 |
+| **Lunch total** | **~840** | **~31** | ~39 | ~78 | **~1,320** |
 
-_WEDNESDAY RUNNING: ~1,770 kcal / ~64 P / Na ~2,730. Day 2 is the Chicago-snack tour: donuts, KFC, butterbeer, sesame latte — the trip eating itself. Sugar climbing (~110 g so far with donuts+bar+shake+latte). One honest note: KFC sando + fries-class sides push Na fast — water high tonight._
+_WEDNESDAY RUNNING: ~1,810 kcal / ~67 P / Na ~2,580. Sando Street = the Wicker Park Korean-Japanese sandwich shop; their "KFC" = Korean fried chicken — same caloric class as the chain, but real-slaw-and-thigh build. The Chicago-snack tour continues: donuts, sando, butterbeer, sesame latte._
 
 
 ### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Brunch — EATEN (~10 AM, late: feast still digesting)
