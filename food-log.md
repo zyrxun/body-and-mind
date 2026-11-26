@@ -1365,6 +1365,13 @@ _Trip day 1, travel-light breakfast (ate by hunger — the feast's tail is offic
 
 _DAY 2, zero-waste breakfast: the other Portillo's half got eaten instead of binned (the right call — 520 kcal of dipped beef for free). Wormhole Coffee = the Wicker Park institution; black sesame latte ~est 300 kcal (sesame paste + milk; ±20%, no official label). ~100-120 mg caffeine = morning fuel. NOTE 11-25: the 'robbed' message was a prank — no incident, no report needed._
 
+**🧈 BUTTERBEER DRAFT (Harry Potter store, Mag Mile) — added to Wednesday:**
+| Item | kcal | P | F | C | Na |
+|---|---|---|---|---|---|
+| Butterbeer draft (~16 oz, cream soda + whipped cream top, ~est Universal-standard) | ~230 | ~2 | ~3 | ~44 | ~80 |
+
+_Day sugar now ~88 g (latte + sesame + butterbeer). The Mag Mile Harry Potter store butterbeer = the tourist quest item; ~est from Universal-standard builds (no official label from the store). It's a dessert-drink: once-per-trip, zero guilt, ledger records and moves on._
+
 
 ### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Brunch — EATEN (~10 AM, late: feast still digesting)
 | Item | kcal | Protein | F | C | Na (mg) |
