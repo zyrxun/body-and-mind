@@ -1381,6 +1381,15 @@ _Day sugar now ~88 g (latte + sesame + butterbeer). The Mag Mile Harry Potter st
 
 _WEDNESDAY RUNNING: ~1,810 kcal / ~67 P / Na ~2,580. Sando Street = the Wicker Park Korean-Japanese sandwich shop; their "KFC" = Korean fried chicken — same caloric class as the chain, but real-slaw-and-thigh build. The Chicago-snack tour continues: donuts, sando, butterbeer, sesame latte._
 
+### 2026-11-25 (Wed) — ✈️ TRIP DAY 2 — Dinner — EATEN (Chubby Skewers, 20 skewers)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Chubby Skewers, 20 mixed skewers (lamb/beef/chicken/veg, cumin-chili rub, ~est ±20% at ~70 kcal/5-7 P per small skewer) | ~1,400 | ~110 | ~70 | ~40 | ~2,100 |
+| **Dinner total** | **~1,400** | **~110** | ~70 | ~40 | **~2,100** |
+
+**WEDNESDAY FINAL: ~3,210 kcal · ~177 P ✓ HIT (over-top by 7) · Na ~4,680 (trip high) · fat ~110 g · sugar ~110 g ✗**
+_20 skewers at Chubby's — $1.30 apiece, charcoal-grilled, cumin-dusted. Protein actually lands the window (177) on a pure skewer night; the cost is Na ~4,700 (the rub + chili salt) and a big calorie day. Trip tally: day 1 ~2,358 / day 2 ~3,210 / walking buffer applies. The skewers were the protein anchor tonight — genuinely the best macro pick of the Chicago options. Na flush: water high tomorrow morning, first day home runs the reset._
+
 
 ### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Brunch — EATEN (~10 AM, late: feast still digesting)
 | Item | kcal | Protein | F | C | Na (mg) |
