@@ -1372,6 +1372,15 @@ _DAY 2, zero-waste breakfast: the other Portillo's half got eaten instead of bin
 
 _Day sugar now ~88 g (latte + sesame + butterbeer). The Mag Mile Harry Potter store butterbeer = the tourist quest item; ~est from Universal-standard builds (no official label from the store). It's a dessert-drink: once-per-trip, zero guilt, ledger records and moves on._
 
+**🍩 + 🍗 LUNCH: Stan's Donuts minis ×3 + KFC chicken sandwich:**
+| Item | kcal | P | Na |
+|---|---|---|---|
+| Stan's mini donuts ×3 (~80 ea, ~est) | ~240 | ~3 | ~120 |
+| KFC chicken sandwich (~est official-class) | ~480 | ~25 | ~1,350 |
+| **Lunch total** | **~720** | **~28** | **~1,470** |
+
+_WEDNESDAY RUNNING: ~1,770 kcal / ~64 P / Na ~2,730. Day 2 is the Chicago-snack tour: donuts, KFC, butterbeer, sesame latte — the trip eating itself. Sugar climbing (~110 g so far with donuts+bar+shake+latte). One honest note: KFC sando + fries-class sides push Na fast — water high tonight._
+
 
 ### 2026-11-23 (Mon) — 🔴 REST (leaves Tue AM) — Brunch — EATEN (~10 AM, late: feast still digesting)
 | Item | kcal | Protein | F | C | Na (mg) |
