@@ -1387,6 +1387,19 @@ _WEDNESDAY RUNNING: ~1,810 kcal / ~67 P / Na ~2,580. Sando Street = the Wicker P
 | Philz Mint Mojito, medium iced (sweet & creamy — official: 27 g fat, 21 g sugar) | ~330 | ~2 | ~27 | ~22 | ~40 |
 
 _THU trip day 3 opens with the Philz classic — 330 kcal but nearly half of it is cream fat, Na ~nil. The mint mojito is 90% flavor experience, 10% coffee; it counts, it's logged, trip continues._
+
+**🍜 DINNER RECOMMENDATION — Argyle Street "Little Vietnam" (Uptown), the award-tier shortlist:**
+
+| Spot | The claim to fame | Order |
+|---|---|---|
+| **Tank Noodle** — 4953 N Broadway | 2,000 Yelp reviews, Eater-ranked pho; the neighborhood's heavyweight | Tank Pho Special ($16, huge) or a vermicelli bowl |
+| **Pho 777** — Asia on Argyle fixture | Eater's "best pho in Chicago" list; lighter, cleaner broth | Classic pho tai (rare beef) |
+| **Ba Lê** — right on Argyle | The bánh-mì benchmark (vs-rival taste tests on the food subs) | Bánh mì + bún dishes |
+| **Nhu Lê** — Argyle | Ba Lê's chief rival in the same taste tests | Banh cuon (steamed rice rolls) |
+| **Phở Lòan** — Argyle | The go-to for fresh bánh cuốn per the locals | Bánh cuốn |
+| **Dong Ky** — Broadway | Vietnamese home-style, the other banh-cuon contender | |
+
+**For YOUR macros tonight: pho is the play** — a standard bowl runs ~450–600 kcal / 30–35 P (broth + rare beef + rice noodles), Na runs ~1,400–1,800 but that's trip math. Skip the fried appetizers, drink the broth, and it's the most window-friendly dinner in Uptown. Bánh mì as the lighter alternative (~500 kcal). Argument-settling bonus: Tank vs Ba Lê is the neighborhood's eternal debate — settle it yourself. 🍜📊✈️
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chubby Skewers, 20 mixed skewers (lamb/beef/chicken/veg, cumin-chili rub, ~est ±20% at ~70 kcal/5-7 P per small skewer) | ~1,400 | ~110 | ~70 | ~40 | ~2,100 |
