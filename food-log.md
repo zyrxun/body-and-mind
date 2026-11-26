@@ -1381,7 +1381,12 @@ _Day sugar now ~88 g (latte + sesame + butterbeer). The Mag Mile Harry Potter st
 
 _WEDNESDAY RUNNING: ~1,810 kcal / ~67 P / Na ~2,580. Sando Street = the Wicker Park Korean-Japanese sandwich shop; their "KFC" = Korean fried chicken — same caloric class as the chain, but real-slaw-and-thigh build. The Chicago-snack tour continues: donuts, sando, butterbeer, sesame latte._
 
-### 2026-11-25 (Wed) — ✈️ TRIP DAY 2 — Dinner — EATEN (Chubby Skewers, 20 skewers)
+### 2026-11-26 (Thu) — ✈️ TRIP DAY 3 (Chicago) — Coffee — EATEN (Philz Mint Mojito, medium iced — official)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Philz Mint Mojito, medium iced (sweet & creamy — official: 27 g fat, 21 g sugar) | ~330 | ~2 | ~27 | ~22 | ~40 |
+
+_THU trip day 3 opens with the Philz classic — 330 kcal but nearly half of it is cream fat, Na ~nil. The mint mojito is 90% flavor experience, 10% coffee; it counts, it's logged, trip continues._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Chubby Skewers, 20 mixed skewers (lamb/beef/chicken/veg, cumin-chili rub, ~est ±20% at ~70 kcal/5-7 P per small skewer) | ~1,400 | ~110 | ~70 | ~40 | ~2,100 |
