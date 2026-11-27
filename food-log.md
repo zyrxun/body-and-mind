@@ -1381,7 +1381,19 @@ _Day sugar now ~88 g (latte + sesame + butterbeer). The Mag Mile Harry Potter st
 
 _WEDNESDAY RUNNING: ~1,810 kcal / ~67 P / Na ~2,580. Sando Street = the Wicker Park Korean-Japanese sandwich shop; their "KFC" = Korean fried chicken — same caloric class as the chain, but real-slaw-and-thigh build. The Chicago-snack tour continues: donuts, sando, butterbeer, sesame latte._
 
-### 2026-11-26 (Thu) — ✈️ TRIP DAY 3 (Chicago) — Coffee — EATEN (Philz Mint Mojito, medium iced — official)
+### 2026-11-26 (Thu) — ✈️ TRIP DAY 3 (Chicago) — THANKSGIVING DAY — Full Day — EATEN (Argyle Thanksgiving feast brunch + Philz + Tank Noodle dinner + mango shaved ice)
+| Item | kcal | Protein | F | C | Na (mg) |
+|---|---|---|---|---|---|
+| Greek yogurt, 200 g + blueberries, 50 g (morning) | ~145 | ~20.3 | ~0.3 | ~15 | ~81 |
+| Argyle Thanksgiving feast: lamb 4 slices, ham 2 servings, turkey 2 servings, coffee ice cream scoop, Oreo chocolate muffin, squash, beans (~est) | ~1,370 | ~95.6 | ~64 | ~113 | ~1,840 |
+| Philz Mint Mojito, medium iced (official) | ~330 | ~2 | ~27 | ~22 | ~40 |
+| **Morning total** | **~1,845** | **~117.9** | ~91.3 | ~150 | **~1,961** |
+| Tank Noodle Tank Special pho, medium ($16 bowl, ~est) | ~550 | ~35 | ~15 | ~60 | ~1,600 |
+| Mango shaved ice, half (Mango Mango, Chinatown) | ~200 | ~1 | 0 | ~45 | ~40 |
+| **Dinner total** | **~750** | **~36** | ~15 | ~105 | **~1,640** |
+
+**THANKSGIVING THU FINAL: ~2,595 kcal · ~153.9 P (16 under window) · Na ~3,601 · sugar ~90 g ✗ · fat ~107 g over band**
+_Thanksgiving done the Chicago way: Argyle street-feast brunch (lamb ×4, ham ×2, turkey ×2, coffee ice cream, Oreo muffin, squash, beans — a real holiday plate), Philz mint mojito, Tank Noodle special for dinner, mango shaved ice in Chinatown. Protein 154 — 16 under window, but a feast day doesn't chase; calories ~2,595 = right at trip maintenance, walked all day between festival stalls. Na ~3,600 is the holiday price; water high + Friday resets._
 | Item | kcal | Protein | F | C | Na (mg) |
 |---|---|---|---|---|---|
 | Philz Mint Mojito, medium iced (sweet & creamy — official: 27 g fat, 21 g sugar) | ~330 | ~2 | ~27 | ~22 | ~40 |
